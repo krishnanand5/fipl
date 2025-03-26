@@ -16,6 +16,7 @@ import {
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import { PlayerPoints, LeaderboardEntry, FranchiseStats } from '../types';
+import { RecentStats } from './Statsboard';
 
 interface Props {
   leaderboardData: LeaderboardEntry[];
@@ -134,31 +135,34 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
   });
 
   return (
-    <TableContainer component={Paper} sx={{ maxWidth: 1200, mx: 'auto', boxShadow: 3 }}>
-      <Typography variant="h4" align="center" sx={{ my: 3, fontWeight: 600 }}>
-        FIPL 2025 Franchise Leaderboard
-      </Typography>
-      <Table>
-        <TableHead>
-          <TableRow sx={{ backgroundColor: theme.palette.grey[100] }}>
-            <TableCell />
-            <TableCell sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Franchise</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Players</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Total Points</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Points/Player</TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {sortedFranchises.map((franchise, index) => (
-            <FranchiseRow 
-              key={franchise.franchise}
-              franchise={franchise}
-              players={allPlayerPoints.filter(p => p.franchise === franchise.franchise)}
-              index={index}
-            />
-          ))}
-        </TableBody>
-      </Table>
-    </TableContainer>
+    <>
+      <TableContainer component={Paper} sx={{ maxWidth: 1200, mx: 'auto', boxShadow: 3 }}>
+        <Typography variant="h4" align="center" sx={{ my: 3, fontWeight: 600 }}>
+          FIPL 2025 Franchise Leaderboard
+        </Typography>
+        <Table>
+          <TableHead>
+            <TableRow sx={{ backgroundColor: theme.palette.grey[100] }}>
+              <TableCell />
+              <TableCell sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Franchise</TableCell>
+              <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Players</TableCell>
+              <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Total Points</TableCell>
+              <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Points/Player</TableCell>
+            </TableRow>
+          </TableHead>
+          <TableBody>
+            {sortedFranchises.map((franchise, index) => (
+              <FranchiseRow 
+                key={franchise.franchise}
+                franchise={franchise}
+                players={allPlayerPoints.filter(p => p.franchise === franchise.franchise)}
+                index={index}
+              />
+            ))}
+          </TableBody>
+        </Table>
+      </TableContainer>
+      <RecentStats allPlayerPoints={allPlayerPoints} />
+    </>
   );
 };
