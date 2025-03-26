@@ -1,0 +1,20 @@
+{
+    "name": "fipl",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+        "frontend",
+        "backend"
+    ],
+    "scripts": {
+        "start:frontend": "cd frontend && npm start",
+        "start:backend": "cd backend && npm start",
+        "build:frontend": "cd frontend && npm run build",
+        "deploy:frontend": "cd frontend && npm run deploy",
+        "scrape": "cd backend && npm run scrape",
+        "calculate": "cd backend && npm run calculate"
+    },
+    "devDependencies": {
+        "@types/react-router-dom": "^5.3.3"
+    }
+}

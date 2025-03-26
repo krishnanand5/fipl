@@ -1,0 +1,366 @@
+{
+  "matchTitle": "Delhi Capitals vs Lucknow Super Giants",
+  "manOfTheMatch": "Ashutosh Sharma",
+  "innings": [
+    {
+      "teamName": "Delhi Capitals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Mitchell Starc b Vipraj Nigam",
+          "runs": 15,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Tristan Stubbs b Mukesh Kumar",
+          "runs": 72,
+          "balls": 36,
+          "fours": 6,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "b Mitchell Starc",
+          "runs": 75,
+          "balls": 30,
+          "fours": 6,
+          "sixes": 7
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Faf Du Plessis b Kuldeep Yadav",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "not out",
+          "runs": 27,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "c Tristan Stubbs b Kuldeep Yadav",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "status": "run out (Axar Patel)",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shahbaz Ahmed"
+          },
+          "status": "c (Sub) Tripurana Vijay b Mitchell Starc",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "status": "b Mitchell Starc",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 3,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Mohit Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Lucknow Super Giants 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Jake Fraser - McGurk"
+          },
+          "status": "c Ayush Badoni b Shardul Thakur",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Faf Du Plessis"
+          },
+          "status": "c David Miller b Ravi Bishnoi",
+          "runs": 29,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c Nicholas Pooran b Shardul Thakur",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sameer Rizvi"
+          },
+          "status": "c Rishabh Pant b M Siddharth",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "c Nicholas Pooran b Digvesh Singh",
+          "runs": 22,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "b M Siddharth",
+          "runs": 34,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Ashutosh Sharma"
+          },
+          "status": "not out",
+          "runs": 66,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "status": "c M Siddharth b Digvesh Singh",
+          "runs": 39,
+          "balls": 15,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "status": "c Rishabh Pant b Ravi Bishnoi",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "status": "run out (Prince Yadav)",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mohit Sharma"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "M Siddharth"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 53,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Shahbaz Ahmed"
+          },
+          "overs": "1.3",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
