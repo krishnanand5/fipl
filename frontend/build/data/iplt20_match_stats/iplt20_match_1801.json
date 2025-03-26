@@ -1,0 +1,346 @@
+{
+  "matchTitle": "Chennai Super Kings vs Mumbai Indians",
+  "manOfTheMatch": "Noor Ahmad",
+  "innings": [
+    {
+      "teamName": "Chennai Super Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Shivam Dube b Khaleel Ahmed",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "b Khaleel Ahmed",
+          "runs": 13,
+          "balls": 7,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "c Shivam Dube b Ravichandran Ashwin",
+          "runs": 11,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "st Ms Dhoni b Noor Ahmad",
+          "runs": 29,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "lbw Noor Ahmad",
+          "runs": 31,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Robin Minz"
+          },
+          "status": "c Ravindra Jadeja b Noor Ahmad",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "b Noor Ahmad",
+          "runs": 17,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "status": "lbw Nathan Ellis",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "status": "not out",
+          "runs": 28,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "status": "c Ruturaj Gaikwad b Khaleel Ahmed",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "V Satyanarayana Penmetsa"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 3,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Nathan Ellis"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 4,
+          "dots": 12
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rachin Ravindra"
+          },
+          "status": "not out",
+          "runs": 65,
+          "balls": 45,
+          "fours": 2,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Rahul Tripathi"
+          },
+          "status": "c Ryan Rickelton b Deepak Chahar",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ruturaj Gaikwad"
+          },
+          "status": "c Will Jacks b Vignesh Puthur",
+          "runs": 53,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c N Tilak Varma b Vignesh Puthur",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Deepak Hooda"
+          },
+          "status": "c V Satyanarayana Penmetsa b Vignesh Puthur",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "status": "b Will Jacks",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "run out (Deepak Chahar)",
+          "runs": 17,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "MS Dhoni"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "V Satyanarayana Penmetsa"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 0
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "2.1",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Vignesh Puthur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 3,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}

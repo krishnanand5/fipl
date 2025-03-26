@@ -1,0 +1,306 @@
+{
+  "matchTitle": "Sunrisers Hyderabad vs Rajasthan Royals",
+  "manOfTheMatch": "Ishan Kishan",
+  "innings": [
+    {
+      "teamName": "Sunrisers Hyderabad 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c Yashasvi Jaiswal b Maheesh Theekshana",
+          "runs": 24,
+          "balls": 11,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Shimron Hetmyer b Tushar Deshpande",
+          "runs": 67,
+          "balls": 31,
+          "fours": 9,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "not out",
+          "runs": 106,
+          "balls": 47,
+          "fours": 11,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "c Yashasvi Jaiswal b Maheesh Theekshana",
+          "runs": 30,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "c Riyan Parag b Sandeep Sharma",
+          "runs": 34,
+          "balls": 14,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "c Jofra Archer b Tushar Deshpande",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Abhinav Manohar"
+          },
+          "status": "c Riyan Parag b Tushar Deshpande",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Fazalhaq Farooqi"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 49,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 52,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 76,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 51,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "dots": 0
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 3,
+          "dots": 8
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Rajasthan Royals 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "c Abhinav Manohar b Simarjeet Singh",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sanju Samson"
+          },
+          "status": "c Heinrich Klaasen b Harshal Patel",
+          "runs": 66,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "c Pat Cummins b Simarjeet Singh",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "c Pat Cummins b Mohammad Shami",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "c Ishan Kishan b Adam Zampa",
+          "runs": 70,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Abhinav Manohar b Harshal Patel",
+          "runs": 42,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Shubham Dubey"
+          },
+          "status": "not out",
+          "runs": 34,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Simarjeet Singh"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 60,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Adam Zampa"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 2,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}

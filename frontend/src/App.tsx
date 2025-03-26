@@ -1,8 +1,7 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Container, CssBaseline, ThemeProvider, createTheme } from '@mui/material';
 import { FranchiseLeaderboard } from './components/Leaderboard';
-import leaderboardData from './data/player_points/leaderboard.json';
-import allPlayerPoints from './data/player_points/all_player_points.json';
+import { LeaderboardEntry, PlayerPoints } from './types';
 import { BrowserRouter } from 'react-router-dom';
 
 const theme = createTheme({
@@ -18,6 +17,31 @@ const theme = createTheme({
 });
 
 function App() {
+  const [leaderboardData, setLeaderboardData] = useState<LeaderboardEntry[]>([]);
+  const [allPlayerPoints, setAllPlayerPoints] = useState<PlayerPoints[]>([]);
+
+  useEffect(() => {
+    // Use process.env.PUBLIC_URL to get correct path in GitHub Pages
+    const loadData = async () => {
+      try {
+        const [leaderboard, players] = await Promise.all([
+          fetch(`${process.env.PUBLIC_URL}/data/player_points/leaderboard.json`),
+          fetch(`${process.env.PUBLIC_URL}/data/player_points/all_player_points.json`)
+        ]);
+        
+        const leaderboardJson = await leaderboard.json();
+        const playersJson = await players.json();
+        
+        setLeaderboardData(leaderboardJson);
+        setAllPlayerPoints(playersJson);
+      } catch (error) {
+        console.error('Error loading data:', error);
+      }
+    };
+
+    loadData();
+  }, []);
+
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <ThemeProvider theme={theme}>
