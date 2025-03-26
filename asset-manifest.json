@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FIPL-2025/static/css/main.e6c13ad2.css",
-    "main.js": "/FIPL-2025/static/js/main.3e96985e.js",
-    "static/js/453.dd4f4f9a.chunk.js": "/FIPL-2025/static/js/453.dd4f4f9a.chunk.js",
-    "index.html": "/FIPL-2025/index.html",
-    "main.e6c13ad2.css.map": "/FIPL-2025/static/css/main.e6c13ad2.css.map",
-    "main.3e96985e.js.map": "/FIPL-2025/static/js/main.3e96985e.js.map",
-    "453.dd4f4f9a.chunk.js.map": "/FIPL-2025/static/js/453.dd4f4f9a.chunk.js.map"
+    "main.css": "/fipl/static/css/main.e6c13ad2.css",
+    "main.js": "/fipl/static/js/main.ff30c06d.js",
+    "static/js/453.dd4f4f9a.chunk.js": "/fipl/static/js/453.dd4f4f9a.chunk.js",
+    "index.html": "/fipl/index.html",
+    "main.e6c13ad2.css.map": "/fipl/static/css/main.e6c13ad2.css.map",
+    "main.ff30c06d.js.map": "/fipl/static/js/main.ff30c06d.js.map",
+    "453.dd4f4f9a.chunk.js.map": "/fipl/static/js/453.dd4f4f9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3e96985e.js"
+    "static/js/main.ff30c06d.js"
   ]
 }
