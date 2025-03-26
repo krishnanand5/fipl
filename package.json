@@ -12,7 +12,10 @@
         "build:frontend": "cd frontend && npm run build",
         "deploy:frontend": "cd frontend && npm run deploy",
         "scrape": "cd backend && npm run scrape",
-        "calculate": "cd backend && npm run calculate"
+        "calculate": "cd backend && npm run calculate",
+        "update_latest_game": "scripts/update_latest_game.sh",
+        "deploy_gh": "scripts/deploy_ghpages.sh",
+        "update_and_deploy": "npm run update && npm run deploy"
     },
     "devDependencies": {
         "@types/react-router-dom": "^5.3.3"

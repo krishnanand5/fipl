@@ -1,5 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
+import {trackUnassignedPlayers} from './track_unassigned_players';
 
 // Define types for the new JSON data structure
 interface Player {
@@ -582,7 +583,8 @@ async function calculateAllPoints(): Promise<void> {
     );
     
     console.log(`Leaderboard saved to ${leaderboardPath}`);
-    
+
+    await trackUnassignedPlayers(leaderboard);
   } catch (error) {
     console.error('Error calculating player points:', error);
     throw error;
@@ -782,8 +784,7 @@ async function calculatePoints(matchId: string): Promise<void> {
     );
     
     console.log(`Player points for match ${matchId} calculated and saved to ${outputPath}`);
-    
-    // Also save a copy in the match directory
+
     try {
       const matchDir = path.join(process.cwd(), 'matches', matchId);
       await fs.mkdir(matchDir, { recursive: true });
@@ -800,6 +801,7 @@ async function calculatePoints(matchId: string): Promise<void> {
       console.warn(`Could not save copy to match directory: ${error}`);
     }
     
+
   } catch (error) {
     console.error(`Error calculating player points for match ${matchId}:`, error);
     throw error;

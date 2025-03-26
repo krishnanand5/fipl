@@ -1,0 +1,286 @@
+{
+  "matchTitle": "Kolkata Knight Riders vs Royal Challengers Bengaluru",
+  "manOfTheMatch": "Krunal Pandya",
+  "innings": [
+    {
+      "teamName": "Kolkata Knight Riders 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Quinton De Kock"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "c Jitesh Sharma b Rasikh Dar",
+          "runs": 44,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "c Rasikh Dar b Krunal Pandya",
+          "runs": 56,
+          "balls": 31,
+          "fours": 6,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Venkatesh Iyer"
+          },
+          "status": "b Krunal Pandya",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Jitesh Sharma b Yash Dayal",
+          "runs": 30,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "b Krunal Pandya",
+          "runs": 12,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "b Suyash Sharma",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ramandeep Singh"
+          },
+          "status": "not out",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Spencer Johnson"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "dots": 16
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Rasikh Dar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 3,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Spencer Johnson b Varun Chakaravarthy",
+          "runs": 56,
+          "balls": 31,
+          "fours": 9,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "not out",
+          "runs": 59,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "c Ramandeep Singh b Sunil Narine",
+          "runs": 10,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "c Rinku Singh b Vaibhav Arora",
+          "runs": 34,
+          "balls": 16,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "status": "not out",
+          "runs": 15,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Spencer Johnson"
+          },
+          "overs": "2.2",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 5
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}

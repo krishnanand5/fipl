@@ -1,0 +1,184 @@
+{
+  "matchTitle": "Rajasthan Royals vs Kolkata Knight Riders",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Rajasthan Royals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "c Harshit Rana b Moeen Ali",
+          "runs": 29,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Sanju Samson"
+          },
+          "status": "b Vaibhav Arora",
+          "runs": 13,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "c Quinton De Kock b Varun Chakaravarthy",
+          "runs": 25,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "b Moeen Ali",
+          "runs": 8,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "status": "c Ajinkya Rahane b Varun Chakaravarthy",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "b Harshit Rana",
+          "runs": 33,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubham Dubey"
+          },
+          "status": "c Andre Russell b Vaibhav Arora",
+          "runs": 9,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Angkrish Raghuvanshi b Harshit Rana",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "status": "b Spencer Johnson",
+          "runs": 16,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Spencer Johnson"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Moeen Ali"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "dots": 13
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Kolkata Knight Riders 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
