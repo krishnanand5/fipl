@@ -12,6 +12,12 @@
     "total_points": 244
   },
   {
+    "player_name": "Quinton De Kock",
+    "franchise": "SKKK",
+    "matches_played": 2,
+    "total_points": 242
+  },
+  {
     "player_name": "Nicholas Pooran",
     "franchise": "UUCC",
     "matches_played": 1,
@@ -40,6 +46,12 @@
     "franchise": "CNI",
     "matches_played": 1,
     "total_points": 170
+  },
+  {
+    "player_name": "Ajinkya Rahane",
+    "franchise": "TVK",
+    "matches_played": 2,
+    "total_points": 166
   },
   {
     "player_name": "Sanju Samson",
@@ -72,10 +84,10 @@
     "total_points": 142
   },
   {
-    "player_name": "Ajinkya Rahane",
-    "franchise": "TVK",
+    "player_name": "Tushar Deshpande",
+    "franchise": "SKKK",
     "matches_played": 2,
-    "total_points": 140
+    "total_points": 137
   },
   {
     "player_name": "Ruturaj Gaikwad",
@@ -120,6 +132,12 @@
     "total_points": 125
   },
   {
+    "player_name": "Riyan Parag",
+    "franchise": "PPT",
+    "matches_played": 2,
+    "total_points": 122
+  },
+  {
     "player_name": "Rachin Ravindra",
     "franchise": "PPT",
     "matches_played": 1,
@@ -136,12 +154,6 @@
     "franchise": "SKKK",
     "matches_played": 1,
     "total_points": 116
-  },
-  {
-    "player_name": "Tushar Deshpande",
-    "franchise": "SKKK",
-    "matches_played": 2,
-    "total_points": 115
   },
   {
     "player_name": "Shashank Singh",
@@ -180,6 +192,12 @@
     "total_points": 102
   },
   {
+    "player_name": "Angkrish Raghuvanshi",
+    "franchise": "UUCC",
+    "matches_played": 2,
+    "total_points": 101
+  },
+  {
     "player_name": "Kuldeep Yadav",
     "franchise": "UUCC",
     "matches_played": 1,
@@ -204,8 +222,8 @@
     "total_points": 92
   },
   {
-    "player_name": "Riyan Parag",
-    "franchise": "PPT",
+    "player_name": "Maheesh Theekshana",
+    "franchise": "TVK",
     "matches_played": 2,
     "total_points": 92
   },
@@ -255,7 +273,7 @@
     "player_name": "Moeen Ali",
     "franchise": "Unknown",
     "matches_played": 1,
-    "total_points": 80
+    "total_points": 78
   },
   {
     "player_name": "Faf Du Plessis",
@@ -300,12 +318,6 @@
     "total_points": 71
   },
   {
-    "player_name": "Angkrish Raghuvanshi",
-    "franchise": "UUCC",
-    "matches_played": 2,
-    "total_points": 70
-  },
-  {
     "player_name": "David Miller",
     "franchise": "PPT",
     "matches_played": 1,
@@ -340,12 +352,6 @@
     "franchise": "TVK",
     "matches_played": 1,
     "total_points": 56
-  },
-  {
-    "player_name": "Maheesh Theekshana",
-    "franchise": "TVK",
-    "matches_played": 2,
-    "total_points": 55
   },
   {
     "player_name": "Naman Dhir",
@@ -387,6 +393,12 @@
     "player_name": "Liam Livingstone",
     "franchise": "TKTK",
     "matches_played": 1,
+    "total_points": 44
+  },
+  {
+    "player_name": "Sandeep Sharma",
+    "franchise": "CNI",
+    "matches_played": 2,
     "total_points": 44
   },
   {
@@ -456,6 +468,12 @@
     "total_points": 33
   },
   {
+    "player_name": "Wanindu Hasaranga",
+    "franchise": "PPT",
+    "matches_played": 1,
+    "total_points": 33
+  },
+  {
     "player_name": "Adam Zampa",
     "franchise": "UUCC",
     "matches_played": 1,
@@ -465,6 +483,12 @@
     "player_name": "Rinku Singh",
     "franchise": "TKTK",
     "matches_played": 1,
+    "total_points": 31
+  },
+  {
+    "player_name": "Nitish Rana",
+    "franchise": "CNI",
+    "matches_played": 2,
     "total_points": 31
   },
   {
@@ -480,16 +504,10 @@
     "total_points": 29
   },
   {
-    "player_name": "Nitish Rana",
-    "franchise": "CNI",
+    "player_name": "Jofra Archer",
+    "franchise": "PPT",
     "matches_played": 2,
-    "total_points": 28
-  },
-  {
-    "player_name": "Sandeep Sharma",
-    "franchise": "CNI",
-    "matches_played": 1,
-    "total_points": 27
+    "total_points": 24
   },
   {
     "player_name": "Andre Russell",
@@ -514,18 +532,6 @@
     "franchise": "UUCC",
     "matches_played": 1,
     "total_points": 21
-  },
-  {
-    "player_name": "Quinton De Kock",
-    "franchise": "SKKK",
-    "matches_played": 2,
-    "total_points": 20
-  },
-  {
-    "player_name": "Jofra Archer",
-    "franchise": "PPT",
-    "matches_played": 2,
-    "total_points": 20
   },
   {
     "player_name": "Abhinav Manohar",
@@ -662,12 +668,6 @@
   {
     "player_name": "Mohammed Siraj",
     "franchise": "TKTK",
-    "matches_played": 1,
-    "total_points": 4
-  },
-  {
-    "player_name": "Wanindu Hasaranga",
-    "franchise": "PPT",
     "matches_played": 1,
     "total_points": 4
   },
