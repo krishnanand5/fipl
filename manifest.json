@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "FIPL 2025",
+  "name": "Fantasy IPL 2025 Points Table",
   "icons": [
     {
       "src": "favicon.ico",
