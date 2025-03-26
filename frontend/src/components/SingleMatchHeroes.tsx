@@ -1,0 +1,71 @@
+import React from 'react';
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableContainer,
+  TableHead,
+  TableRow,
+  Paper,
+  Typography
+} from '@mui/material';
+import { PlayerPoints } from '../types';
+
+interface Props {
+  allPlayerPoints: PlayerPoints[];
+}
+
+const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
+  // Flatten all matches and add player info
+  const allMatches = allPlayerPoints.flatMap(player =>
+    player.matches.map(match => ({
+      player_name: player.player_name,
+      franchise: player.franchise,
+      ...match
+    }))
+  );
+
+  // Sort by total points and get top 10
+  const topPerformances = allMatches
+    .sort((a, b) => b.total - a.total)
+    .slice(0, 10);
+
+  return (
+    <TableContainer component={Paper}>
+      <Typography variant="h6" sx={{ p: 2, textAlign: 'center', fontWeight: 'bold' }}>
+        Single Match Heroes
+      </Typography>
+      <Table size="small">
+        <TableHead>
+          <TableRow>
+            <TableCell sx={{ fontWeight: 'bold' }}>Player</TableCell>
+            <TableCell sx={{ fontWeight: 'bold' }}>Franchise</TableCell>
+            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Batting</TableCell>
+            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Bowling</TableCell>
+            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Fielding</TableCell>
+            <TableCell align="right" sx={{ fontWeight: 'bold' }}>MOM</TableCell>
+            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Total</TableCell>
+          </TableRow>
+        </TableHead>
+        <TableBody>
+          {topPerformances.map((performance, index) => (
+            <TableRow 
+              key={`${performance.player_name}-${performance.match_id}`}
+              sx={{ '&:nth-of-type(even)': { backgroundColor: 'action.hover' } }}
+            >
+              <TableCell>{performance.player_name}</TableCell>
+              <TableCell>{performance.franchise}</TableCell>
+              <TableCell align="right">{performance.batting_points}</TableCell>
+              <TableCell align="right">{performance.bowling_points}</TableCell>
+              <TableCell align="right">{performance.fielding_points}</TableCell>
+              <TableCell align="right">{performance.mom}</TableCell>
+              <TableCell align="right">{performance.total}</TableCell>
+            </TableRow>
+          ))}
+        </TableBody>
+      </Table>
+    </TableContainer>
+  );
+};
+
+export default SingleMatchHeroes;

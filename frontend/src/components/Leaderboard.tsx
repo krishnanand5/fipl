@@ -17,6 +17,7 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import { PlayerPoints, LeaderboardEntry, FranchiseStats } from '../types';
 import { RecentStats } from './Statsboard';
+import PlayerStatsModal from './PlayerStatsModal';
 
 interface Props {
   leaderboardData: LeaderboardEntry[];
@@ -27,11 +28,19 @@ interface FranchiseRowProps {
   franchise: FranchiseStats;
   players: PlayerPoints[];
   index: number;
+  isOpen: boolean;
+  onToggle: () => void;
 }
 
-const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index }) => {
-  const [open, setOpen] = useState(false);
+const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, isOpen, onToggle }) => {
+  const [selectedPlayer, setSelectedPlayer] = useState<PlayerPoints | null>(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const theme = useTheme();
+
+  const handlePlayerClick = (player: PlayerPoints) => {
+    setSelectedPlayer(player);
+    setIsModalOpen(true);
+  };
 
   return (
     <>
@@ -42,8 +51,8 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index }
         }}
       >
         <TableCell padding="checkbox">
-          <IconButton size="small" onClick={() => setOpen(!open)}>
-            {open ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
+          <IconButton size="small" onClick={onToggle}>
+            {isOpen ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
           </IconButton>
         </TableCell>
         <TableCell component="th" scope="row" sx={{ fontWeight: index < 3 ? 600 : 400 }}>
@@ -57,11 +66,8 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index }
       </TableRow>
       <TableRow>
         <TableCell style={{ paddingBottom: 0, paddingTop: 0 }} colSpan={6}>
-          <Collapse in={open} timeout="auto" unmountOnExit>
+          <Collapse in={isOpen} timeout="auto" unmountOnExit>
             <Box sx={{ margin: 1 }}>
-              <Typography variant="h6" gutterBottom component="div">
-                Player Details
-              </Typography>
               <Table size="small">
                 <TableHead>
                   <TableRow sx={{ backgroundColor: theme.palette.grey[100] }}>
@@ -77,7 +83,18 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index }
                 <TableBody>
                   {players.map((player) => (
                     <TableRow key={player.player_name}>
-                      <TableCell component="th" scope="row">
+                      <TableCell 
+                        component="th" 
+                        scope="row"
+                        sx={{ 
+                          cursor: 'pointer',
+                          '&:hover': { 
+                            textDecoration: 'underline',
+                            color: theme.palette.primary.main 
+                          }
+                        }}
+                        onClick={() => handlePlayerClick(player)}
+                      >
                         {player.player_name}
                       </TableCell>
                       <TableCell align="right">{player.matches.length}</TableCell>
@@ -98,6 +115,11 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index }
                   ))}
                 </TableBody>
               </Table>
+              <PlayerStatsModal 
+                player={selectedPlayer} 
+                isOpen={isModalOpen} 
+                onClose={() => setIsModalOpen(false)}
+              />
             </Box>
           </Collapse>
         </TableCell>
@@ -108,6 +130,8 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index }
 
 export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlayerPoints }) => {
   const theme = useTheme();
+  const [openFranchise, setOpenFranchise] = useState<string | null>(null);
+
   // Aggregate data by franchise
   const franchiseStats = leaderboardData.reduce((acc: { [key: string]: FranchiseStats }, player) => {
     if (player.franchise === 'Unknown') return acc;
@@ -136,9 +160,9 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
 
   return (
     <>
-      <TableContainer component={Paper} sx={{ maxWidth: 1200, mx: 'auto', boxShadow: 3 }}>
+      <TableContainer component={Paper} sx={{ mx: 'auto', boxShadow: 3 }}>
         <Typography variant="h4" align="center" sx={{ my: 3, fontWeight: 600 }}>
-          FIPL 2025 Franchise Leaderboard
+          FIPL 2025 Leaderboard
         </Typography>
         <Table>
           <TableHead>
@@ -157,6 +181,12 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
                 franchise={franchise}
                 players={allPlayerPoints.filter(p => p.franchise === franchise.franchise)}
                 index={index}
+                isOpen={openFranchise === franchise.franchise}
+                onToggle={() => {
+                  setOpenFranchise(
+                    openFranchise === franchise.franchise ? null : franchise.franchise
+                  );
+                }}             
               />
             ))}
           </TableBody>
