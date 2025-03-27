@@ -1,0 +1,184 @@
+{
+  "matchTitle": "Sunrisers Hyderabad vs Lucknow Super Giants",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Sunrisers Hyderabad 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "b Prince Yadav",
+          "runs": 47,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c Nicholas Pooran b Shardul Thakur",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "c Rishabh Pant b Shardul Thakur",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "b Ravi Bishnoi",
+          "runs": 32,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "run out (Prince Yadav)",
+          "runs": 26,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "c David Miller b Digvesh Singh",
+          "runs": 36,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Abhinav Manohar"
+          },
+          "status": "c Abdul Samad b Shardul Thakur",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "status": "c Digvesh Singh b Avesh Khan",
+          "runs": 18,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "status": "not out",
+          "runs": 12,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "status": "c Ayush Badoni b Shardul Thakur",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Simarjeet Singh"
+          },
+          "status": "not out",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 4,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Lucknow Super Giants 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
