@@ -33,6 +33,6 @@ jobs:
         run: |
           cd frontend
           npm run build
-          npm run deploy_gh
+          npm run deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
