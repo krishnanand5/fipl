@@ -46,7 +46,7 @@ const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
 
   const SkillTable: React.FC<{ title: string, data: SkillStats[], skillType: string }> = 
     ({ title, data, skillType }) => (
-    <Card>
+    <Card sx={{ mb: { xs: 2, md: 0 } }}>
       <TableContainer component={Paper}>
         <Typography variant="h6" sx={{ p: 2, textAlign: 'center', fontWeight: 'bold' }}>
           {title}
@@ -54,10 +54,10 @@ const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
         <Table size="small">
           <TableHead>
             <TableRow>
-              <TableCell sx={{ fontWeight: 'bold' }}>Player</TableCell>
-              <TableCell sx={{ fontWeight: 'bold' }}>Franchise</TableCell>
-              <TableCell align="right" sx={{ fontWeight: 'bold' }}>Matches</TableCell>
-              <TableCell align="right" sx={{ fontWeight: 'bold' }}>{skillType} Points</TableCell>
+              <TableCell sx={{ fontWeight: 'bold', fontSize:'10px' }}>Player</TableCell>
+              <TableCell sx={{ fontWeight: 'bold' , fontSize:'10px'}}>Franchise</TableCell>
+              <TableCell align="right" sx={{ fontWeight: 'bold', fontSize:'10px' }}>Matches</TableCell>
+              <TableCell align="right" sx={{ fontWeight: 'bold', fontSize:'10px'}}>{skillType} Points</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
@@ -83,7 +83,11 @@ const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
   const fieldingStats = calculateSkillStats('fielding');
 
   return (
-    <Grid container spacing={1}>
+    <Grid 
+      container 
+      spacing={{ xs: 3, md: 2 }}
+      sx={{ p: 2 }} 
+    >
       <Grid item xs={12} md={4}>
         <SkillTable 
           title="Top Batters" 

@@ -22,9 +22,18 @@ export const RecentStats: React.FC<Props> = ({ allPlayerPoints }) => {
   const franchiseForm = getTopFranchiseForm(allPlayerPoints);
 
   return (
-    <Grid container spacing={2} sx={{ mt: 4 }}>
+    <Grid container spacing={3} sx={{ mt: 2 }}>
       <Grid item xs={12} md={6}>
-        <TableContainer component={Paper}>
+        <TableContainer 
+            component={Paper}
+            sx={{ 
+                boxShadow: '0 8px 24px rgba(0, 0, 0, 0.12)',
+                '&:hover': {
+                  boxShadow: '0 12px 32px rgba(0, 0, 0, 0.18)'
+                },
+                transition: 'box-shadow 0.3s ease-in-out'
+              }}
+        >
             <Typography variant="h6" sx={{ p: 2, textAlign: 'center', fontWeight: 'bold' }}>
                 Top Performers (Last 5 Games)
             </Typography>
@@ -52,7 +61,16 @@ export const RecentStats: React.FC<Props> = ({ allPlayerPoints }) => {
       </Grid>
       
       <Grid item xs={12} md={6}>
-            <TableContainer component={Paper}>
+            <TableContainer 
+                component={Paper}
+                sx={{ 
+                    boxShadow: '0 8px 24px rgba(0, 0, 0, 0.12)',
+                    '&:hover': {
+                      boxShadow: '0 12px 32px rgba(0, 0, 0, 0.18)'
+                    },
+                    transition: 'box-shadow 0.3s ease-in-out'
+                  }}
+            >
                 <Typography variant="h6" sx={{ p: 2 , textAlign: 'center', fontWeight: 'bold' }}>
                     Franchise Form (Last 7 Games)
                 </Typography>

@@ -37,19 +37,31 @@ interface PlayerStatsModalProps {
 }
 
 const modalStyle = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
-  width: '90%',
-  maxWidth: 800,
-  maxHeight: '80vh',
-  bgcolor: 'background.paper',
-  borderRadius: 2,
-  boxShadow: 24,
-  p: 4,
-  overflow: 'auto',
-};
+    position: 'absolute',
+    top: '50%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: '90%',
+    maxWidth: 800,
+    maxHeight: '80vh',
+    bgcolor: 'background.paper',
+    borderRadius: 3,
+    boxShadow: `
+      0 0 0 2px rgb(25, 118, 210),
+      0 12px 24px -4px rgba(25, 118, 210, 0.3),
+      0 8px 16px -4px rgba(29, 15, 179, 0.46)
+    `,
+    p: 4,
+    overflow: 'auto',
+    transition: 'box-shadow 0.3s ease-in-out',
+    '&:hover': {
+      boxShadow: `
+        0 0 0 2px rgba(25, 118, 210, 0.2),
+        0 16px 32px -4px rgba(25, 118, 210, 0.4),
+        0 12px 24px -4px rgba(0, 0, 0, 0.3)
+      `
+    }
+  };
 
 const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, isOpen }) => {
   if (!isOpen || !player) return null;
@@ -68,10 +80,10 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, is
       <Box sx={modalStyle}>
         <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
             <Box sx={{ flex: 1 }} /> {/* Left spacer */}
-                <Typography variant="h5" component="h2" sx={{ flex: 2, textAlign: 'center' }}>
+                <Typography sx={{ flex: 2, textAlign: 'center', fontWeight: 'bold' }}>
                     {player.player_name} ({player.total_points} points)
                 </Typography>
-            <Box sx={{ flex: 1, display: 'flex', justifyContent: 'flex-end' }}> {/* Right spacer with close button */}
+            <Box sx={{ flex: 1, display: 'flex', justifyContent: 'flex-end' }}>
                 <IconButton onClick={onClose} size="small">
                 <CloseIcon />
                 </IconButton>
@@ -80,7 +92,23 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, is
 
         <Divider sx={{ mb: 3 }} />
 
-        <TableContainer component={Paper} sx={{ mb: 2 }}>
+        <TableContainer
+            component={Paper} 
+            sx={{ 
+                mb: 2,
+                boxShadow: '0 4px 12px rgba(25, 118, 210, 0.15)',
+                borderRadius: 2,
+                '& .MuiTable-root': {
+                backgroundColor: 'rgba(25, 118, 210, 0.02)'
+                },
+                '& .MuiTableHead-root': {
+                backgroundColor: 'rgba(25, 118, 210, 0.05)'
+                },
+                '& .MuiTableRow-root:hover': {
+                backgroundColor: 'rgba(25, 118, 210, 0.05)'
+                }
+            }}
+        >
           <Table size="small">
             <TableHead>
               <TableRow>
