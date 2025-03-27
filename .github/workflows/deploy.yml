@@ -23,6 +23,12 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '20'
+          cache: 'npm'
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
 
       - name: Install dependencies
         run: |
