@@ -30,9 +30,10 @@ interface FranchiseRowProps {
   index: number;
   isOpen: boolean;
   onToggle: () => void;
+  leadingPoints: number;
 }
 
-const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, isOpen, onToggle }) => {
+const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, isOpen, onToggle, leadingPoints }) => {
   const [selectedPlayer, setSelectedPlayer] = useState<PlayerPoints | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const theme = useTheme();
@@ -41,6 +42,8 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
     setSelectedPlayer(player);
     setIsModalOpen(true);
   };
+
+  const pointsDifference = leadingPoints - franchise.total_points;
 
   return (
     <>
@@ -57,6 +60,19 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
         </TableCell>
         <TableCell component="th" scope="row" sx={{ fontWeight: index < 3 ? 600 : 400 }}>
           {franchise.franchise}
+          {index > 0 && (
+            <Typography
+              component="span"
+              sx={{
+                ml: 1,
+                fontSize: '0.85rem',
+                color: theme.palette.text.secondary,
+                fontStyle: 'italic'
+              }}
+            >
+              (-{pointsDifference})
+            </Typography>
+          )}
         </TableCell>
         <TableCell align="right">{franchise.player_count}</TableCell>
         <TableCell align="right">{franchise.total_points}</TableCell>
@@ -157,6 +173,7 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
     }
     return b.franchise.localeCompare(a.franchise);
   });
+  const leadingPoints = sortedFranchises[0]?.total_points || 0;
 
   return (
     <>
@@ -186,7 +203,8 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
                   setOpenFranchise(
                     openFranchise === franchise.franchise ? null : franchise.franchise
                   );
-                }}             
+                }} 
+                leadingPoints={leadingPoints}            
               />
             ))}
           </TableBody>
