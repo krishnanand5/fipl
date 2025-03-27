@@ -1,6 +1,6 @@
 {
   "matchTitle": "Sunrisers Hyderabad vs Lucknow Super Giants",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Shardul Thakur",
   "innings": [
     {
       "teamName": "Sunrisers Hyderabad 1st",
@@ -174,8 +174,150 @@
     },
     {
       "teamName": "Lucknow Super Giants 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Nitish Kumar Reddy b Pat Cummins",
+          "runs": 52,
+          "balls": 31,
+          "fours": 7,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Pat Cummins b Mohammad Shami",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "lbw Pat Cummins",
+          "runs": 70,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Mohammad Shami b Harshal Patel",
+          "runs": 15,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "c Harshal Patel b Adam Zampa",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "not out",
+          "runs": 13,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "not out",
+          "runs": 22,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Simarjeet Singh"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Adam Zampa"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "overs": "0.1",
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "dots": 0
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
