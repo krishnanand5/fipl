@@ -9,13 +9,7 @@ import SkillsLeaderboard from './components/SkillsLeaderboard';
 
 const theme = createTheme({
   palette: {
-    mode: 'light',
-    primary: {
-      main: '#1976d2',
-    },
-    secondary: {
-      main: '#dc004e',
-    },
+    mode: 'dark',
   },
   components: {
     MuiCard: {
@@ -89,7 +83,6 @@ function App() {
         justifyContent: 'center',
         alignItems: 'center',
         zIndex: 9999,
-        backgroundColor: 'black',
         color: 'white',
         gap: 2
       }}

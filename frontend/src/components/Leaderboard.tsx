@@ -49,8 +49,8 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
     <>
       <TableRow 
         sx={{ 
-          '&:nth-of-type(odd)': { backgroundColor: theme.palette.grey[50] },
-          '&:hover': { backgroundColor: theme.palette.action.hover },
+          '&:nth-of-type(odd)': { backgroundColor: '#28282B', color: 'white' },
+          '&:hover': { backgroundColor: 'red'},
         }}
       >
         <TableCell padding="checkbox">
@@ -66,7 +66,6 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
               sx={{
                 ml: 1,
                 fontSize: '0.85rem',
-                color: theme.palette.text.secondary,
                 fontStyle: 'italic'
               }}
             >
@@ -86,7 +85,7 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
             <Box sx={{ margin: 1 }}>
               <Table size="small">
                 <TableHead>
-                  <TableRow sx={{ backgroundColor: theme.palette.grey[100] }}>
+                  <TableRow>
                     <TableCell>Player</TableCell>
                     <TableCell align="right">Matches</TableCell>
                     <TableCell align="right">Batting</TableCell>
@@ -105,8 +104,8 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
                         sx={{ 
                           cursor: 'pointer',
                           '&:hover': { 
-                            textDecoration: 'underline',
-                            color: theme.palette.primary.main 
+                           backgroundColor: 'red',
+                           color: 'white'
                           }
                         }}
                         onClick={() => handlePlayerClick(player)}
@@ -183,7 +182,7 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
         </Typography>
         <Table>
           <TableHead>
-            <TableRow sx={{ backgroundColor: theme.palette.grey[100] }}>
+            <TableRow sx={{ backgroundColor: '#282828', color: "white" }}>
               <TableCell />
               <TableCell sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Franchise</TableCell>
               <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Players</TableCell>
