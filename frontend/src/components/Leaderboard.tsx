@@ -10,7 +10,8 @@ import {
   Typography,
   Collapse,
   Box,
-  IconButton
+  IconButton,
+  Card,
 } from '@mui/material';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
@@ -80,12 +81,40 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
 
   const pointsDifference = leadingPoints - franchise.total_points;
 
+  const calculatePlayerRecentForm = (matches: PlayerPoints['matches']): JSX.Element => {
+    const sortedMatches = [...matches]
+      .sort((a, b) => parseInt(b.match_id) - parseInt(a.match_id))
+      .slice(0, 3);
+  
+    const recentPoints = sortedMatches.map(match => 
+      match.batting_points + match.bowling_points + match.fielding_points + match.mom
+    );
+  
+    return (
+      <Box 
+        sx={{ 
+          display: 'flex',
+          backgroundColor: 'rgba(14, 14, 15, 0.9)',
+          borderRadius: 1,
+          px: 0.5,
+          py: 0.25,
+          width: 'fit-content',
+          minWidth: '100px',
+          maxWidth: '140px',
+          margin: '0 auto',
+          gap: 0.5
+        }}
+      >
+        {formatRecentPoints(recentPoints)}
+      </Box>
+    );
+  };
+
   return (
     <>
       <TableRow 
         sx={{ 
           '&:nth-of-type(odd)': { backgroundColor: '#28282B', color: 'white' },
-          '&:hover': { backgroundColor: 'red'},
         }}
       >
         <TableCell padding="checkbox">
@@ -126,59 +155,76 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
       <TableRow>
         <TableCell style={{ paddingBottom: 0, paddingTop: 0 }} colSpan={6}>
           <Collapse in={isOpen} timeout="auto" unmountOnExit>
-            <Box sx={{ margin: 1 }}>
-              <Table size="small">
-                <TableHead>
-                  <TableRow>
-                    <TableCell>Player</TableCell>
-                    <TableCell align="right">Matches</TableCell>
-                    <TableCell align="right">Batting</TableCell>
-                    <TableCell align="right">Bowling</TableCell>
-                    <TableCell align="right">Fielding</TableCell>
-                    <TableCell align="right">MoM</TableCell>
-                    <TableCell align="right">Total</TableCell>
-                  </TableRow>
-                </TableHead>
-                <TableBody>
-                  {players.map((player) => (
-                    <TableRow key={player.player_name}>
-                      <TableCell 
-                        component="th" 
-                        scope="row"
-                        sx={{ 
-                          cursor: 'pointer',
-                          '&:hover': { 
-                           backgroundColor: 'red',
-                           color: 'white'
-                          }
-                        }}
-                        onClick={() => handlePlayerClick(player)}
-                      >
-                        {player.player_name}
-                      </TableCell>
-                      <TableCell align="right">{player.matches.length}</TableCell>
-                      <TableCell align="right">
-                        {player.matches.reduce((sum, m) => sum + m.batting_points, 0)}
-                      </TableCell>
-                      <TableCell align="right">
-                        {player.matches.reduce((sum, m) => sum + m.bowling_points, 0)}
-                      </TableCell>
-                      <TableCell align="right">
-                        {player.matches.reduce((sum, m) => sum + m.fielding_points, 0)}
-                      </TableCell>
-                      <TableCell align="right">
-                        {player.matches.reduce((sum, m) => sum + m.mom, 0)}
-                      </TableCell>
-                      <TableCell align="right">{player.total_points}</TableCell>
-                    </TableRow>
-                  ))}
-                </TableBody>
-              </Table>
-              <PlayerStatsModal 
-                player={selectedPlayer} 
-                isOpen={isModalOpen} 
-                onClose={() => setIsModalOpen(false)}
-              />
+            <Box sx={{ margin: 2 }}>
+              <Card 
+                  elevation={3}
+                  sx={{
+                    backgroundColor: 'rgba(41, 5, 48, 0.95)',
+                    borderRadius: 8,
+                    overflow: 'hidden',
+                    border: '3px solid rgba(250, 231, 108, 0.79)'
+                  }}
+                >
+                  <Table size="small">
+                    <TableHead>
+                      <TableRow>
+                        <TableCell>Player</TableCell>
+                        <TableCell align="right">Total</TableCell>
+                        <TableCell align="right">Matches</TableCell>
+                        <TableCell align="right">Batting</TableCell>
+                        <TableCell align="right">Bowling</TableCell>
+                        <TableCell align="right">Fielding</TableCell>
+                        <TableCell align="right">MoM</TableCell>
+                        <TableCell 
+                          align="center"
+                          sx={{ 
+                            fontWeight: 'bold'
+                          }}
+                        >
+                          Last 3 Games
+                        </TableCell>
+                      </TableRow>
+                    </TableHead>
+                    <TableBody>
+                      {players.map((player) => (
+                        <TableRow key={player.player_name}>
+                          <TableCell 
+                            component="th" 
+                            scope="row"
+                            sx={{ 
+                              cursor: 'pointer',
+                            }}
+                            onClick={() => handlePlayerClick(player)}
+                          >
+                            {player.player_name}
+                          </TableCell>
+                          <TableCell align="right">{player.total_points}</TableCell>
+                          <TableCell align="right">{player.matches.length}</TableCell>
+                          <TableCell align="right">
+                            {player.matches.reduce((sum, m) => sum + m.batting_points, 0)}
+                          </TableCell>
+                          <TableCell align="right">
+                            {player.matches.reduce((sum, m) => sum + m.bowling_points, 0)}
+                          </TableCell>
+                          <TableCell align="right">
+                            {player.matches.reduce((sum, m) => sum + m.fielding_points, 0)}
+                          </TableCell>
+                          <TableCell align="right">
+                            {player.matches.reduce((sum, m) => sum + m.mom, 0)}
+                          </TableCell>
+                          <TableCell align="center">
+                            {calculatePlayerRecentForm(player.matches)}
+                          </TableCell>
+                        </TableRow>
+                      ))}
+                    </TableBody>
+                  </Table>
+                </Card>
+                <PlayerStatsModal 
+                  player={selectedPlayer} 
+                  isOpen={isModalOpen} 
+                  onClose={() => setIsModalOpen(false)}
+                />
             </Box>
           </Collapse>
         </TableCell>
@@ -240,7 +286,7 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
       <Box 
         sx={{ 
           display: 'flex',
-          backgroundColor: 'rgba(14, 14, 15, 0.9)',
+          backgroundColor: 'rgba(41, 5, 48, 0.95)',
           borderRadius: 1,
           px: 0.5,
           py: 0.25,

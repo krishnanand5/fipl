@@ -44,7 +44,7 @@ const modalStyle = {
     width: '90%',
     maxWidth: 800,
     maxHeight: '80vh',
-    bgcolor: 'background.paper',
+    bgcolor: 'rgba(41, 5, 48, 0.95)',
     borderRadius: 3,
     boxShadow: `
       0 0 0 2px rgb(25, 118, 210),
@@ -96,7 +96,7 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, is
             component={Paper} 
             sx={{ 
                 mb: 2,
-                boxShadow: '0 4px 12px rgba(25, 118, 210, 0.15)',
+                boxShadow: '0 4px 12px rgba(15, 108, 201, 0.15)',
                 borderRadius: 2,
                 '& .MuiTable-root': {
                 backgroundColor: 'rgba(25, 118, 210, 0.02)'
