@@ -1,0 +1,336 @@
+{
+  "matchTitle": "Chennai Super Kings vs Royal Challengers Bengaluru",
+  "manOfTheMatch": "Rajat Patidar",
+  "innings": [
+    {
+      "teamName": "Chennai Super Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "st Ms Dhoni b Noor Ahmad",
+          "runs": 32,
+          "balls": 16,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Rachin Ravindra b Noor Ahmad",
+          "runs": 31,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "c Ruturaj Gaikwad b Ravichandran Ashwin",
+          "runs": 27,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "c Sam Curran b Matheesha Pathirana",
+          "runs": 51,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "status": "b Noor Ahmad",
+          "runs": 10,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma"
+          },
+          "status": "c Ravindra Jadeja b Khaleel Ahmed",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Tim David"
+          },
+          "status": "not out",
+          "runs": 22,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "status": "c Deepak Hooda b Matheesha Pathirana",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 3,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 2,
+          "dots": 10
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rachin Ravindra"
+          },
+          "status": "b Yash Dayal",
+          "runs": 41,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rahul Tripathi"
+          },
+          "status": "c Phil Salt b Josh Hazlewood",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ruturaj Gaikwad"
+          },
+          "status": "c (Sub) Manoj Bhandage b Josh Hazlewood",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Deepak Hooda"
+          },
+          "status": "c Jitesh Sharma b Bhuvneshwar Kumar",
+          "runs": 4,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "status": "c Krunal Pandya b Liam Livingstone",
+          "runs": 8,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "b Yash Dayal",
+          "runs": 19,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "c Phil Salt b Josh Hazlewood",
+          "runs": 25,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "status": "c Phil Salt b Liam Livingstone",
+          "runs": 11,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "MS Dhoni"
+          },
+          "status": "not out",
+          "runs": 30,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 3,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
