@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { JSX, useState } from 'react';
 import { 
   Table, 
   TableBody, 
@@ -8,7 +8,6 @@ import {
   TableRow, 
   Paper,
   Typography,
-  useTheme,
   Collapse,
   Box,
   IconButton
@@ -31,12 +30,48 @@ interface FranchiseRowProps {
   isOpen: boolean;
   onToggle: () => void;
   leadingPoints: number;
+  recentPoints?: JSX.Element;
 }
 
-const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, isOpen, onToggle, leadingPoints }) => {
+const formatRecentPoints = (matchTotals: number[]): JSX.Element[] => {
+  return matchTotals.map((points, index) => {
+    let color = 'inherit';
+    if (index < matchTotals.length - 1) {
+      color = points > matchTotals[index + 1] ? 'success.main' : 
+              points < matchTotals[index + 1] ? 'error.main' : 'inherit';
+    }
+
+    if (index === matchTotals.length - 1) {
+      color = points > matchTotals[index - 1] ? 'success.main' : 
+              points < matchTotals[index - 1] ? 'error.main' : 'inherit';
+    }
+    
+    return (
+      <Box 
+        key={index}
+        component="span"
+        sx={{ 
+          color,
+          flex: 1,
+          display: 'inline-block',
+          textAlign: 'center',
+          fontWeight: 900,
+          fontSize: '0.95rem',
+          letterSpacing: '0.5px',
+          fontFamily: 'system-ui',
+          textShadow: '0.5px 0 0 currentColor',
+          padding: '2px',
+        }}
+      >
+        {points}
+      </Box>
+    );
+  });
+};
+
+const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, isOpen, onToggle, leadingPoints, recentPoints }) => {
   const [selectedPlayer, setSelectedPlayer] = useState<PlayerPoints | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const theme = useTheme();
 
   const handlePlayerClick = (player: PlayerPoints) => {
     setSelectedPlayer(player);
@@ -73,8 +108,17 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
             </Typography>
           )}
         </TableCell>
-        <TableCell align="right">{franchise.player_count}</TableCell>
         <TableCell align="right">{franchise.total_points}</TableCell>
+        <TableCell align="right">{franchise.player_count}</TableCell>
+        <TableCell 
+          align="right" 
+          sx={{ 
+            fontWeight: 'bold',
+            fontSize: '0.9rem'
+          }}
+        >
+          {recentPoints}
+        </TableCell>
         <TableCell align="right">
           {(franchise.total_points / franchise.player_count).toFixed(1)}
         </TableCell>
@@ -144,7 +188,6 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
 };
 
 export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlayerPoints }) => {
-  const theme = useTheme();
   const [openFranchise, setOpenFranchise] = useState<string | null>(null);
 
   // Aggregate data by franchise
@@ -174,6 +217,45 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
   });
   const leadingPoints = sortedFranchises[0]?.total_points || 0;
 
+  // Add after imports
+
+  const calculateFranchiseRecentPoints = (players: PlayerPoints[]): JSX.Element => {
+    const allMatchIds = Array.from(new Set(
+      players.flatMap(player => 
+        player.matches.map(m => m.match_id)
+      )
+    )).sort((a, b) => parseInt(b) - parseInt(a));
+  
+    const lastThreeMatches = allMatchIds.slice(0, 3);
+    
+    const matchTotals = lastThreeMatches.map(matchId => {
+      return players.reduce((total, player) => {
+        const match = player.matches.find(m => m.match_id === matchId);
+        if (!match) return total;
+        return total + match.batting_points + match.bowling_points + match.fielding_points + match.mom;
+      }, 0);
+    });
+  
+    return (
+      <Box 
+        sx={{ 
+          display: 'flex',
+          backgroundColor: 'rgba(14, 14, 15, 0.9)',
+          borderRadius: 1,
+          px: 0.5,
+          py: 0.25,
+          width: 'fit-content',
+          minWidth: '120px',
+          maxWidth: '160px',
+          margin: '0 auto', 
+          gap: 0.5 
+        }}
+      >
+        {formatRecentPoints(matchTotals)}
+      </Box>
+    );
+  };
+
   return (
     <>
       <TableContainer component={Paper} sx={{ mx: 'auto', boxShadow: 3 }}>
@@ -185,8 +267,17 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
             <TableRow sx={{ backgroundColor: '#282828', color: "white" }}>
               <TableCell />
               <TableCell sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Franchise</TableCell>
-              <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Players</TableCell>
               <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Total Points</TableCell>
+              <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Players</TableCell>
+              <TableCell 
+                align="center" 
+                sx={{ 
+                  fontWeight: 'bold', 
+                  fontSize: '1.1rem',
+                }}
+              >
+                Last 3 Games
+              </TableCell>
               <TableCell align="right" sx={{ fontWeight: 'bold', fontSize: '1.1rem' }}>Points/Player</TableCell>
             </TableRow>
           </TableHead>
@@ -203,7 +294,10 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
                     openFranchise === franchise.franchise ? null : franchise.franchise
                   );
                 }} 
-                leadingPoints={leadingPoints}            
+                leadingPoints={leadingPoints}
+                recentPoints={calculateFranchiseRecentPoints(
+                  allPlayerPoints.filter(p => p.franchise === franchise.franchise)
+                )}            
               />
             ))}
           </TableBody>
