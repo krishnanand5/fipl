@@ -32,7 +32,39 @@ const theme = createTheme({
           borderRadius: 16 
         }
       }
-    }
+    },
+    MuiTableCell: {
+      styleOverrides: {
+        head: {
+          '@media (max-width: 600px)': {
+            padding: '8px 4px',
+            fontSize: '0.75rem',
+            lineHeight: 1.2,
+            '& .MuiTypography-root': {
+              fontSize: '0.75rem',
+            },
+          },
+        },
+        body: {
+          '@media (max-width: 600px)': {
+            padding: '8px 4px',
+            fontSize: '0.75rem',
+            '& .MuiTypography-root': {
+              fontSize: '0.75rem',
+            },
+          },
+        },
+      },
+    },
+    MuiTable: {
+      styleOverrides: {
+        root: {
+          '@media (max-width: 600px)': {
+            minWidth: '100%',
+          },
+        },
+      },
+    },
   }
 });
 

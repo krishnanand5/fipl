@@ -129,11 +129,15 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
               component="span"
               sx={{
                 ml: 1,
-                fontSize: '0.85rem',
-                fontStyle: 'italic'
+                mr: 1,
+                fontWeight: '900',
+                backgroundColor: 'rgba(236, 11, 15, 0.79)',
+                borderRadius: 2,
+                padding: '4px',
+                fontSize: '1rem',
               }}
             >
-              (-{pointsDifference})
+              {pointsDifference}
             </Typography>
           )}
         </TableCell>
