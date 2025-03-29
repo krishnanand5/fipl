@@ -71,6 +71,10 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, is
     parseInt(a.match_id) - parseInt(b.match_id)
   );
 
+  const formatPoints = (points: number): string | number => {
+    return points === 0 ? '-' : points;
+  };
+
   return (
     <Modal
       open={isOpen}
@@ -160,10 +164,10 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, is
                     <TableCell component="th" scope="row">
                       {index + 1}
                     </TableCell>
-                    <TableCell align="right">{match.batting_points}</TableCell>
-                    <TableCell align="right">{match.bowling_points}</TableCell>
-                    <TableCell align="right">{match.fielding_points}</TableCell>
-                    <TableCell align="right">{match.mom}</TableCell>
+                    <TableCell align="right">{formatPoints(match.batting_points)}</TableCell>
+                    <TableCell align="right">{formatPoints(match.bowling_points)}</TableCell>
+                    <TableCell align="right">{formatPoints(match.fielding_points)}</TableCell>
+                    <TableCell align="right">{formatPoints(match.mom)}</TableCell>
                     <TableCell align="right">{match.total}</TableCell>
                   </TableRow>
                 ))}

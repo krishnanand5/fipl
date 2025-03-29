@@ -25,6 +25,10 @@ const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
     }))
   );
 
+  const formatPoints = (points: number): string | number => {
+    return points === 0 ? '-' : points;
+  };
+
   // Sort by total points and get top 10
   const topPerformances = allMatches
     .sort((a, b) => b.total - a.total)
@@ -55,10 +59,10 @@ const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
             >
               <TableCell>{performance.player_name}</TableCell>
               <TableCell>{performance.franchise}</TableCell>
-              <TableCell align="right">{performance.batting_points}</TableCell>
-              <TableCell align="right">{performance.bowling_points}</TableCell>
-              <TableCell align="right">{performance.fielding_points}</TableCell>
-              <TableCell align="right">{performance.mom}</TableCell>
+              <TableCell align="right">{formatPoints(performance.batting_points)}</TableCell>
+              <TableCell align="right">{formatPoints(performance.bowling_points)}</TableCell>
+              <TableCell align="right">{formatPoints(performance.fielding_points)}</TableCell>
+              <TableCell align="right">{formatPoints(performance.mom)}</TableCell>
               <TableCell align="right">{performance.total}</TableCell>
             </TableRow>
           ))}

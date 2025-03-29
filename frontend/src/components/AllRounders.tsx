@@ -43,9 +43,8 @@ export const AllRoundersTable: React.FC<Props> = ({ allPlayerPoints }) => {
       elevation={3}
       sx={{
         backgroundColor: 'black',
-        borderRadius: 8,
         overflow: 'hidden',
-        border: '3px solid rgba(250, 231, 108, 0.79)'
+        border: '2px solid rgba(250, 231, 108, 0.79)'
       }}
     >
       <Typography 
