@@ -1,6 +1,6 @@
 {
   "matchTitle": "Gujarat Titans vs Mumbai Indians",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Prasidh Krishna",
   "innings": [
     {
       "teamName": "Gujarat Titans 1st",
@@ -164,8 +164,150 @@
     },
     {
       "teamName": "Mumbai Indians 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "b Mohammed Siraj",
+          "runs": 8,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "b Mohammed Siraj",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "c Rahul Tewatia b Prasidh Krishna",
+          "runs": 39,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Shubman Gill b Prasidh Krishna",
+          "runs": 48,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Robin Minz"
+          },
+          "status": "c Ishant Sharma b Sai Kishore",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "c Mohammed Siraj b Kagiso Rabada",
+          "runs": 11,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "not out",
+          "runs": 18,
+          "balls": 11,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "status": "not out",
+          "runs": 18,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Kagiso Rabada"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Ishant Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "dots": 14
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
