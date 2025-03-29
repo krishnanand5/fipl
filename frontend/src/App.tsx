@@ -5,11 +5,40 @@ import { LeaderboardEntry, PlayerPoints } from './types';
 import { BrowserRouter } from 'react-router-dom';
 import SingleMatchHeroes from './components/SingleMatchHeroes';
 import SkillsLeaderboard from './components/SkillsLeaderboard';
+import { AllRoundersTable } from './components/AllRounders';
+import { RecentStats } from './components/RecentStats';
 
 
 const theme = createTheme({
   palette: {
     mode: 'dark',
+  },
+  typography: {
+    fontFamily: [
+      'Nunito',
+      '-apple-system',
+      'BlinkMacSystemFont',
+      '"Segoe UI"',
+      'Roboto',
+      '"Helvetica Neue"',
+      'Arial',
+      'sans-serif',
+    ].join(','),
+    h4: {
+      fontWeight: 700,
+    },
+    h5: {
+      fontWeight: 700,
+    },
+    h6: {
+      fontWeight: 600,
+    },
+    body1: {
+      fontWeight: 500,
+    },
+    body2: {
+      fontWeight: 400,
+    },
   },
   components: {
     MuiCard: {
@@ -17,9 +46,9 @@ const theme = createTheme({
         root: {
           borderRadius: 16,
           overflow: 'hidden',
-          border: '3px solid rgba(0, 0, 0, 0.8)',
           boxShadow: '0 8px 24px rgba(13, 246, 215, 0.94)',
           transition: 'box-shadow 0.3s ease-in-out',
+          border: '3px solid rgba(250, 231, 108, 0.79)',
           '&:hover': {
             boxShadow: '0 12px 32px rgba(0, 0, 0, 0.18)'
           }
@@ -172,11 +201,6 @@ function App() {
                     <div>
                       <Card sx={{ 
                         mb: 2,
-                        boxShadow: '0 8px 24px rgba(63, 13, 246, 0.25)', // Blue tinted shadow
-                        '&:hover': {
-                          boxShadow: '0 12px 32px rgba(63, 13, 246, 0.35)',
-                          transform: 'translateY(-4px)'
-                        },
                         transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out'
                       }}>
                         <FranchiseLeaderboard 
@@ -188,20 +212,36 @@ function App() {
                   </Slide>
                 </Grid>
 
-                {/* Match Heroes */}
+                {/* Recent Stats */}
                 <Grid item xs={12}>
-                  <Grow in timeout={1500}>
-                    <Card sx={{ 
-                      boxShadow: '0 8px 24px rgba(220, 0, 78, 0.25)', // Pink tinted shadow
-                      '&:hover': {
-                        boxShadow: '0 12px 32px rgba(220, 0, 78, 0.35)',
-                        transform: 'translateY(-4px)'
-                      },
-                      transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out'
-                    }}>
-                      <SingleMatchHeroes allPlayerPoints={allPlayerPoints} />
-                    </Card>
-                  </Grow>
+                  <Slide direction="up" in timeout={1000}>
+                    <div>
+                      <RecentStats allPlayerPoints={allPlayerPoints} />
+                    </div>
+                  </Slide>
+                </Grid>
+
+                <Grid container item xs={12} spacing={4}>
+                  {/* Match Heroes */}
+                  <Grid item xs={12} md={6}>
+                    <Grow in timeout={1500}>
+                      <Card sx={{ 
+                        height: '100%',  // Make cards same height
+                        transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out'
+                      }}>
+                        <SingleMatchHeroes allPlayerPoints={allPlayerPoints} />
+                      </Card>
+                    </Grow>
+                  </Grid>
+
+                  {/* All Rounders */}
+                  <Grid item xs={12} md={6}>
+                    <Grow in timeout={1500}>
+                      <div>
+                        <AllRoundersTable allPlayerPoints={allPlayerPoints} />
+                      </div>
+                    </Grow>
+                  </Grid>
                 </Grid>
 
                 {/* Skills Leaderboard */}
@@ -209,17 +249,13 @@ function App() {
                   <Grow in timeout={2000}>
                     <Card sx={{ 
                       width: '100%',
-                      boxShadow: '0 8px 24px rgba(25, 118, 210, 0.25)', // Primary blue shadow
-                      '&:hover': {
-                        boxShadow: '0 12px 32px rgba(25, 118, 210, 0.35)',
-                        transform: 'translateY(-4px)'
-                      },
                       transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out'
                     }}>
                       <SkillsLeaderboard allPlayerPoints={allPlayerPoints} />
                     </Card>
                   </Grow>
                 </Grid>
+                
               </Grid>
             </Container>
           </Fade>

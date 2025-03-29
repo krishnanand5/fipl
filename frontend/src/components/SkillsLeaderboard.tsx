@@ -62,10 +62,7 @@ const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
           </TableHead>
           <TableBody>
             {data.map((player, index) => (
-              <TableRow 
-                key={player.player_name}
-                sx={{ '&:nth-of-type(even)': { backgroundColor: 'action.hover' } }}
-              >
+              <TableRow  key={player.player_name}>
                 <TableCell>{player.player_name}</TableCell>
                 <TableCell>{player.franchise === "Unknown" ? "UNSOLD" : player.franchise}</TableCell>
                 <TableCell align="right">{player.matches_played}</TableCell>

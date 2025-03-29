@@ -16,7 +16,6 @@ import {
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import { PlayerPoints, LeaderboardEntry, FranchiseStats } from '../types';
-import { RecentStats } from './Statsboard';
 import PlayerStatsModal from './PlayerStatsModal';
 
 interface Props {
@@ -353,7 +352,6 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
           </TableBody>
         </Table>
       </TableContainer>
-      <RecentStats allPlayerPoints={allPlayerPoints} />
     </>
   );
 };
