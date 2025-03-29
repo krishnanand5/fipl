@@ -12,7 +12,8 @@ import {
   TableCell,
   TableContainer,
   TableHead,
-  TableRow
+  TableRow,
+  Fade
 } from '@mui/material';
 import CloseIcon from '@mui/icons-material/Close';
 
@@ -76,67 +77,101 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, is
       onClose={onClose}
       aria-labelledby="player-stats-modal"
       aria-describedby="player-match-statistics"
+      closeAfterTransition
+      BackdropProps={{
+        sx: {
+          backgroundColor: 'rgba(0, 0, 0, 0.8)',
+          backdropFilter: 'blur(4px)',
+        },
+      }}
     >
-      <Box sx={modalStyle}>
-        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
-            <Box sx={{ flex: 1 }} /> {/* Left spacer */}
-                <Typography sx={{ flex: 2, textAlign: 'center', fontWeight: 'bold' }}>
-                    {player.player_name} ({player.total_points} points)
-                </Typography>
-            <Box sx={{ flex: 1, display: 'flex', justifyContent: 'flex-end' }}>
-                <IconButton onClick={onClose} size="small">
-                <CloseIcon />
-                </IconButton>
-            </Box>
-        </Box>
-
-        <Divider sx={{ mb: 3 }} />
-
-        <TableContainer
-            component={Paper} 
-            sx={{ 
-                mb: 2,
-                boxShadow: '0 4px 12px rgba(15, 108, 201, 0.15)',
-                borderRadius: 2,
-                '& .MuiTable-root': {
-                backgroundColor: 'rgba(25, 118, 210, 0.02)'
+      <Fade in={isOpen} timeout={400}>
+        <Box sx={{
+            ...modalStyle,
+            opacity: 0,
+            transform: 'translate(-50%, -45%)',
+            animation: isOpen ? 'slideIn 400ms forwards' : 'slideOut 400ms forwards',
+            '@keyframes slideIn': {
+              '0%': {
+                opacity: 0,
+                transform: 'translate(-50%, -45%)',
+              },
+              '100%': {
+                opacity: 1,
+                transform: 'translate(-50%, -50%)',
+              },
+              '@keyframes slideOut': {
+                '0%': {
+                  opacity: 1,
+                  transform: 'translate(-50%, -50%)',
                 },
-                '& .MuiTableHead-root': {
-                backgroundColor: 'rgba(25, 118, 210, 0.05)'
+                '100%': {
+                  opacity: 0,
+                  transform: 'translate(-50%, -55%)',
                 },
-                '& .MuiTableRow-root:hover': {
-                backgroundColor: 'rgba(25, 118, 210, 0.05)'
-                }
-            }}
-        >
-          <Table size="small">
-            <TableHead>
-              <TableRow>
-                <TableCell>Match</TableCell>
-                <TableCell align="right">Batting</TableCell>
-                <TableCell align="right">Bowling</TableCell>
-                <TableCell align="right">Fielding</TableCell>
-                <TableCell align="right">MOM</TableCell>
-                <TableCell align="right">Total</TableCell>
-              </TableRow>
-            </TableHead>
-            <TableBody>
-              {sortedMatches.map((match, index) => (
-                <TableRow key={match.match_id}>
-                  <TableCell component="th" scope="row">
-                    {index + 1}
-                  </TableCell>
-                  <TableCell align="right">{match.batting_points}</TableCell>
-                  <TableCell align="right">{match.bowling_points}</TableCell>
-                  <TableCell align="right">{match.fielding_points}</TableCell>
-                  <TableCell align="right">{match.mom}</TableCell>
-                  <TableCell align="right">{match.total}</TableCell>
+          },
+            },
+          }}>
+          <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 2 }}>
+              <Box sx={{ flex: 1 }} /> {/* Left spacer */}
+                  <Typography sx={{ flex: 2, textAlign: 'center', fontWeight: 'bold' }}>
+                      {player.player_name} ({player.total_points} points)
+                  </Typography>
+              <Box sx={{ flex: 1, display: 'flex', justifyContent: 'flex-end' }}>
+                  <IconButton onClick={onClose} size="small">
+                  <CloseIcon />
+                  </IconButton>
+              </Box>
+          </Box>
+
+          <Divider sx={{ mb: 3 }} />
+
+          <TableContainer
+              component={Paper} 
+              sx={{ 
+                  mb: 2,
+                  boxShadow: '0 4px 12px rgba(15, 108, 201, 0.15)',
+                  borderRadius: 2,
+                  '& .MuiTable-root': {
+                  backgroundColor: 'rgba(25, 118, 210, 0.02)'
+                  },
+                  '& .MuiTableHead-root': {
+                  backgroundColor: 'rgba(25, 118, 210, 0.05)'
+                  },
+                  '& .MuiTableRow-root:hover': {
+                  backgroundColor: 'rgba(25, 118, 210, 0.05)'
+                  }
+              }}
+          >
+            <Table size="small">
+              <TableHead>
+                <TableRow>
+                  <TableCell>Match</TableCell>
+                  <TableCell align="right">Batting</TableCell>
+                  <TableCell align="right">Bowling</TableCell>
+                  <TableCell align="right">Fielding</TableCell>
+                  <TableCell align="right">MOM</TableCell>
+                  <TableCell align="right">Total</TableCell>
                 </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </TableContainer>
-      </Box>
+              </TableHead>
+              <TableBody>
+                {sortedMatches.map((match, index) => (
+                  <TableRow key={match.match_id}>
+                    <TableCell component="th" scope="row">
+                      {index + 1}
+                    </TableCell>
+                    <TableCell align="right">{match.batting_points}</TableCell>
+                    <TableCell align="right">{match.bowling_points}</TableCell>
+                    <TableCell align="right">{match.fielding_points}</TableCell>
+                    <TableCell align="right">{match.mom}</TableCell>
+                    <TableCell align="right">{match.total}</TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+            </Table>
+          </TableContainer>
+        </Box>
+      </Fade>
     </Modal>
   );
 };
