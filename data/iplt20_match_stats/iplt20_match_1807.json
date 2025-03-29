@@ -1,0 +1,174 @@
+{
+  "matchTitle": "Gujarat Titans vs Mumbai Indians",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Gujarat Titans 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "lbw Trent Boult",
+          "runs": 63,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "c Naman Dhir b Hardik Pandya",
+          "runs": 38,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "c Ryan Rickelton b Mujeeb-ur-rahman",
+          "runs": 39,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "c N Tilak Varma b Hardik Pandya",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Sherfane Rutherford"
+          },
+          "status": "c Mitchell Santner b Deepak Chahar",
+          "runs": 18,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "run out (Hardik Pandya)",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "c Hardik Pandya b V Satyanarayana Penmetsa",
+          "runs": 6,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Kagiso Rabada"
+          },
+          "status": "not out",
+          "runs": 7,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "status": "run out (Ryan Rickelton)",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mujeeb-ur-rahman"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "V Satyanarayana Penmetsa"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
