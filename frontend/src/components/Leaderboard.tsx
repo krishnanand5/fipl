@@ -269,20 +269,32 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
   // Add after imports
 
   const calculateFranchiseRecentPoints = (players: PlayerPoints[]): JSX.Element => {
-    const allMatchIds = Array.from(new Set(
-      players.flatMap(player => 
+    const allPossibleMatchIds = Array.from(new Set(
+      allPlayerPoints.flatMap(player => 
         player.matches.map(m => m.match_id)
       )
     )).sort((a, b) => parseInt(b) - parseInt(a));
   
-    const lastThreeMatches = allMatchIds.slice(0, 3);
-    
-    const matchTotals = lastThreeMatches.map(matchId => {
-      return players.reduce((total, player) => {
+    // Take the last 3 matches from all possible matches
+    const lastThreeGlobalMatches = allPossibleMatchIds.slice(0, 3);
+  
+    console.log('Franchise:', players[0]?.franchise);
+    console.log('Last 3 global matches:', lastThreeGlobalMatches);
+  
+    // Calculate points for these specific matches
+    const matchTotals = lastThreeGlobalMatches.map(matchId => {
+      const matchPoints = players.reduce((total, player) => {
         const match = player.matches.find(m => m.match_id === matchId);
-        if (!match) return total;
-        return total + match.batting_points + match.bowling_points + match.fielding_points + match.mom;
+        return total + (match ? (
+          match.batting_points + 
+          match.bowling_points + 
+          match.fielding_points + 
+          match.mom
+        ) : 0);
       }, 0);
+  
+      console.log(`Match ${matchId} points:`, matchPoints);
+      return matchPoints;
     });
   
     return (
