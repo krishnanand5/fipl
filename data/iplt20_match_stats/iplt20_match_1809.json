@@ -29,19 +29,89 @@
           "player": {
             "name": "Nitish Rana"
           },
-          "status": "not out",
-          "runs": 61,
-          "balls": 27,
-          "fours": 7,
-          "sixes": 4
+          "status": "st Ms Dhoni b Ravichandran Ashwin",
+          "runs": 81,
+          "balls": 36,
+          "fours": 10,
+          "sixes": 5
         },
         {
           "player": {
             "name": "Riyan Parag"
           },
+          "status": "b Matheesha Pathirana",
+          "runs": 37,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "c Matheesha Pathirana b Noor Ahmad",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "status": "c Vijay Shankar b Ravindra Jadeja",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Ravichandran Ashwin b Matheesha Pathirana",
+          "runs": 19,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "status": "c Ruturaj Gaikwad b Khaleel Ahmed",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kumar Kartikeya Singh"
+          },
+          "status": "run out (Khaleel Ahmed)",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
           "status": "not out",
           "runs": 2,
           "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
           "fours": 0,
           "sixes": 0
         }
@@ -51,11 +121,11 @@
           "player": {
             "name": "Khaleel Ahmed"
           },
-          "overs": "3",
+          "overs": "4",
           "maidens": 0,
-          "runs": 29,
-          "wickets": 1,
-          "dots": 9
+          "runs": 38,
+          "wickets": 2,
+          "dots": 12
         },
         {
           "player": {
@@ -71,19 +141,39 @@
           "player": {
             "name": "Ravichandran Ashwin"
           },
-          "overs": "2.2",
+          "overs": "4",
           "maidens": 0,
-          "runs": 25,
-          "wickets": 0,
-          "dots": 2
+          "runs": 46,
+          "wickets": 1,
+          "dots": 6
         },
         {
           "player": {
             "name": "Noor Ahmad"
           },
-          "overs": "1",
+          "overs": "4",
           "maidens": 0,
-          "runs": 3,
+          "runs": 28,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 10,
           "wickets": 1,
           "dots": 3
         }
