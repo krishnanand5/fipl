@@ -1,6 +1,6 @@
 {
   "matchTitle": "Rajasthan Royals vs Chennai Super Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Nitish Rana",
   "innings": [
     {
       "teamName": "Rajasthan Royals 1st",
@@ -184,8 +184,150 @@
     },
     {
       "teamName": "Chennai Super Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rachin Ravindra"
+          },
+          "status": "c Dhruv Jurel b Jofra Archer",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rahul Tripathi"
+          },
+          "status": "c Shimron Hetmyer b Wanindu Hasaranga",
+          "runs": 23,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ruturaj Gaikwad"
+          },
+          "status": "c Yashasvi Jaiswal b Wanindu Hasaranga",
+          "runs": 63,
+          "balls": 44,
+          "fours": 7,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c Riyan Parag b Wanindu Hasaranga",
+          "runs": 18,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Vijay Shankar"
+          },
+          "status": "b Wanindu Hasaranga",
+          "runs": 9,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "not out",
+          "runs": 32,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "MS Dhoni"
+          },
+          "status": "c Shimron Hetmyer b Sandeep Sharma",
+          "runs": 16,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jamie Overton"
+          },
+          "status": "not out",
+          "runs": 11,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "3",
+          "maidens": 1,
+          "runs": 13,
+          "wickets": 1,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 4,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Kumar Kartikeya Singh"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
