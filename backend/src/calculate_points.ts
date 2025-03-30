@@ -250,6 +250,13 @@ function processFieldingPoints(
   playersMap: Map<string, PlayerPointsData>,
   franchiseMap: Record<string, string>
 ): void {
+  // Add caught and bowled check first
+  if (status.startsWith('c & b ')) {
+    const bowlerName = normalizePlayerName(status.substring(6).trim());
+    // Add 15 points for catch to the bowler
+    updateFieldingPoints(bowlerName, 15, match_id, playersMap, franchiseMap);
+    return;
+  }
   // Check for catches: "c PlayerName b BowlerName"
   if (status.startsWith('c ') && status.includes(' b ')) {
     const parts = status.split(' b ');
@@ -299,6 +306,9 @@ function standardizePlayerName(name: string): string {
   // Create a mapping for known name variations
   const nameVariations: { [key: string]: string } = {
     'ms dhoni': 'MS Dhoni',
+    'jake fraser mcgurk': 'Jake Fraser-McGurk',
+    'jake fraser - mcgurk': 'Jake Fraser-McGurk',
+    'jake fraser-mcgurk': 'Jake Fraser-McGurk',
   };
   
   // First standardize the name to lowercase with no special characters

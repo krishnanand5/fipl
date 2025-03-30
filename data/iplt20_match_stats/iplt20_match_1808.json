@@ -1,6 +1,6 @@
 {
   "matchTitle": "Delhi Capitals vs Sunrisers Hyderabad",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Mitchell Starc",
   "innings": [
     {
       "teamName": "Delhi Capitals 1st",
@@ -189,20 +189,50 @@
           "player": {
             "name": "Jake Fraser - McGurk"
           },
-          "status": "not out",
-          "runs": 1,
-          "balls": 5,
-          "fours": 0,
-          "sixes": 0
+          "status": "c & b Zeeshan Ansari",
+          "runs": 38,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 2
         },
         {
           "player": {
             "name": "Faf Du Plessis"
           },
+          "status": "c Wiaan Mulder b Zeeshan Ansari",
+          "runs": 50,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
           "status": "not out",
-          "runs": 1,
-          "balls": 1,
-          "fours": 0,
+          "runs": 34,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "b Zeeshan Ansari",
+          "runs": 15,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "not out",
+          "runs": 21,
+          "balls": 14,
+          "fours": 3,
           "sixes": 0
         }
       ],
@@ -211,11 +241,61 @@
           "player": {
             "name": "Mohammad Shami"
           },
-          "overs": "1",
+          "overs": "3",
           "maidens": 0,
-          "runs": 2,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 27,
           "wickets": 0,
           "dots": 4
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 3,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Wiaan Mulder"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "dots": 1
         }
       ],
       "extras": "",

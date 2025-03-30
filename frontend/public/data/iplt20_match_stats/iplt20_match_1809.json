@@ -1,0 +1,104 @@
+{
+  "matchTitle": "Rajasthan Royals vs Chennai Super Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Rajasthan Royals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "c Ravichandran Ashwin b Khaleel Ahmed",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sanju Samson"
+          },
+          "status": "c Rachin Ravindra b Noor Ahmad",
+          "runs": 20,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "not out",
+          "runs": 61,
+          "balls": 27,
+          "fours": 7,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Jamie Overton"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "2.2",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 3,
+          "wickets": 1,
+          "dots": 3
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Chennai Super Kings 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
