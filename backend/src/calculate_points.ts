@@ -156,8 +156,11 @@ function calculateBowlingPoints(record: BowlingRecord): number {
   if (record.wickets >= 3 && record.wickets < 5) {
     bonusPoints += 25;
   } else if (record.wickets >= 5 && record.wickets < 7) {
+    bonusPoints += 25; // 3 fer
     bonusPoints += 50;
   } else if (record.wickets >= 7) {
+    bonusPoints += 25; // 3 fer
+    bonusPoints += 50; // 5 fer
     bonusPoints += 100;
   }
   

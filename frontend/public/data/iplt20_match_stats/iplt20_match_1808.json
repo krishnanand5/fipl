@@ -1,0 +1,226 @@
+{
+  "matchTitle": "Delhi Capitals vs Sunrisers Hyderabad",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Delhi Capitals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "run out (Vipraj Nigam)",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c K L Rahul b Mitchell Starc",
+          "runs": 22,
+          "balls": 12,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "c Tristan Stubbs b Mitchell Starc",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "c Axar Patel b Mitchell Starc",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "c Jake Fraser - Mcgurk b Kuldeep Yadav",
+          "runs": 74,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "c Vipraj Nigam b Mohit Sharma",
+          "runs": 32,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Abhinav Manohar"
+          },
+          "status": "c Faf Du Plessis b Kuldeep Yadav",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "status": "c Jake Fraser - Mcgurk b Kuldeep Yadav",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Wiaan Mulder"
+          },
+          "status": "c Faf Du Plessis b Mitchell Starc",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "status": "c Axar Patel b Mitchell Starc",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "overs": "3.4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 5,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Mohit Sharma"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 3,
+          "dots": 13
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Sunrisers Hyderabad 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Jake Fraser - McGurk"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Faf Du Plessis"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 2,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
