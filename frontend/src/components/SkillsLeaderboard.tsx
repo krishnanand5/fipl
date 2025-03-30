@@ -47,7 +47,7 @@ const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
   const SkillTable: React.FC<{ title: string, data: SkillStats[], skillType: string }> = 
     ({ title, data, skillType }) => (
     <Card sx={{ mb: { xs: 2, md: 0 } }}>
-      <TableContainer component={Paper}>
+      <TableContainer component={Paper} sx={{ backgroundColor: 'black', borderRadius: 2 }}>
         <Typography variant="h6" sx={{ p: 2, textAlign: 'center', fontWeight: 'bold' }}>
           {title}
         </Typography>
@@ -62,7 +62,13 @@ const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
           </TableHead>
           <TableBody>
             {data.map((player, index) => (
-              <TableRow  key={player.player_name}>
+              <TableRow 
+              key={player.player_name}
+              sx={{ 
+                backgroundColor: 'rgba(24, 18, 18, 0.9)',
+                '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
+              }}
+              >
                 <TableCell>{player.player_name}</TableCell>
                 <TableCell>{player.franchise === "Unknown" ? "UNSOLD" : player.franchise}</TableCell>
                 <TableCell align="right">{player.matches_played}</TableCell>

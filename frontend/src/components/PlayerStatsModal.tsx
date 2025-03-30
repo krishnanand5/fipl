@@ -160,7 +160,13 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, onClose, is
               </TableHead>
               <TableBody>
                 {sortedMatches.map((match, index) => (
-                  <TableRow key={match.match_id}>
+                  <TableRow 
+                  key={match.match_id}
+                  sx={{ 
+                    backgroundColor: 'rgba(24, 18, 18, 0.9)',
+                    '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
+                  }}
+                  >
                     <TableCell component="th" scope="row">
                       {index + 1}
                     </TableCell>

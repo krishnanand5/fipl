@@ -20,7 +20,10 @@ interface Props {
 }
 
 export const RecentStats: React.FC<Props> = ({ allPlayerPoints }) => {
-  const topPerformers = getRecentTopPerformers(allPlayerPoints);
+  const topPerformers = getRecentTopPerformers(allPlayerPoints).map(player => ({
+        ...player,
+        franchise: player.franchise === 'Unknown' ? 'UNSOLD' : player.franchise
+    }));
   const franchiseForm = getTopFranchiseForm(allPlayerPoints);
 
   return (

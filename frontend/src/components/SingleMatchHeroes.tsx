@@ -35,7 +35,7 @@ const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
     .slice(0, 10);
 
   return (
-    <TableContainer component={Paper}>
+    <TableContainer component={Paper} sx={{ backgroundColor: 'black', borderRadius: 2 }}>
       <Typography variant="h6" sx={{ p: 2, textAlign: 'center', fontWeight: 'bold' }}>
         Single Match Heroes
       </Typography>
@@ -55,7 +55,10 @@ const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
           {topPerformances.map((performance, index) => (
             <TableRow 
               key={`${performance.player_name}-${performance.match_id}`}
-              sx={{ '&:nth-of-type(even)': { backgroundColor: 'action.hover' } }}
+              sx={{ 
+                backgroundColor: 'rgba(24, 18, 18, 0.9)',
+                '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
+              }}
             >
               <TableCell>{performance.player_name}</TableCell>
               <TableCell>{performance.franchise}</TableCell>
