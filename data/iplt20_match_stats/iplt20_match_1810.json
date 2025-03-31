@@ -1,6 +1,6 @@
 {
   "matchTitle": "Mumbai Indians vs Kolkata Knight Riders",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Ashwani Kumar",
   "innings": [
     {
       "teamName": "Mumbai Indians 1st",
@@ -184,8 +184,100 @@
     },
     {
       "teamName": "Kolkata Knight Riders 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Harshit Rana b Andre Russell",
+          "runs": 13,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "not out",
+          "runs": 62,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "c Ajinkya Rahane b Andre Russell",
+          "runs": 16,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "not out",
+          "runs": 27,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Spencer Johnson"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "2.5",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 2,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "dots": 5
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
