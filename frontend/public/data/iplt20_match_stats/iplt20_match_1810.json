@@ -1,0 +1,194 @@
+{
+  "matchTitle": "Mumbai Indians vs Kolkata Knight Riders",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Mumbai Indians 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Quinton De Kock"
+          },
+          "status": "c Ashwani Kumar b Deepak Chahar",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "b Trent Boult",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "c N Tilak Varma b Ashwani Kumar",
+          "runs": 11,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Naman Dhir b Hardik Pandya",
+          "runs": 26,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Venkatesh Iyer"
+          },
+          "status": "c Ryan Rickelton b Deepak Chahar",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "c Naman Dhir b Ashwani Kumar",
+          "runs": 17,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Manish Pandey"
+          },
+          "status": "b Ashwani Kumar",
+          "runs": 19,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "b Ashwani Kumar",
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ramandeep Singh"
+          },
+          "status": "c Hardik Pandya b Mitchell Santner",
+          "runs": 22,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "status": "c Naman Dhir b Vignesh Puthur",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Spencer Johnson"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Ashwani Kumar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 4,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Vignesh Puthur"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "3.2",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "dots": 12
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Kolkata Knight Riders 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
