@@ -1,0 +1,174 @@
+{
+  "matchTitle": "Lucknow Super Giants vs Punjab Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Lucknow Super Giants 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "b Lockie Ferguson",
+          "runs": 28,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Marco Jansen b Arshdeep Singh",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "c Glenn Maxwell b Yuzvendra Chahal",
+          "runs": 44,
+          "balls": 30,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Yuzvendra Chahal b Glenn Maxwell",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "c Glenn Maxwell b Arshdeep Singh",
+          "runs": 41,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "c Prabhsimran Singh b Marco Jansen",
+          "runs": 19,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "c Priyansh Arya b Arshdeep Singh",
+          "runs": 27,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "status": "not out",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 3,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Lockie Ferguson"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 8
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Punjab Kings 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
