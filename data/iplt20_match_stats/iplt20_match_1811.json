@@ -1,6 +1,6 @@
 {
   "matchTitle": "Lucknow Super Giants vs Punjab Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Prabhsimran Singh",
   "innings": [
     {
       "teamName": "Lucknow Super Giants 1st",
@@ -164,8 +164,110 @@
     },
     {
       "teamName": "Punjab Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Shardul Thakur b Digvesh Singh",
+          "runs": 8,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Ravi Bishnoi b Digvesh Singh",
+          "runs": 69,
+          "balls": 34,
+          "fours": 9,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "not out",
+          "runs": 52,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "not out",
+          "runs": 43,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 4
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "M Siddharth"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "overs": "0.2",
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
