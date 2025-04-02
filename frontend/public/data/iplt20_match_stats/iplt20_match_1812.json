@@ -1,0 +1,174 @@
+{
+  "matchTitle": "Royal Challengers Bengaluru vs Gujarat Titans",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Royal Challengers Bengaluru 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "b Mohammed Siraj",
+          "runs": 14,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Prasidh Krishna b Mohd Arshad Khan",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "b Mohammed Siraj",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "lbw Ishant Sharma",
+          "runs": 12,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "status": "c Jos Buttler b Mohammed Siraj",
+          "runs": 54,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma"
+          },
+          "status": "c Rahul Tewatia b Sai Kishore",
+          "runs": 33,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "status": "c & b Sai Kishore",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tim David"
+          },
+          "status": "b Prasidh Krishna",
+          "runs": 32,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 3,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Ishant Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 54,
+          "wickets": 0,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Gujarat Titans 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
