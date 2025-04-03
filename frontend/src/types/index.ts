@@ -26,3 +26,18 @@ export interface FranchiseStats {
   total_points: number;
   player_count: number;
 }
+
+export interface BonusStats {
+  runs_25: number;
+  runs_50: number;
+  runs_75: number;
+  runs_100: number;
+  wickets_3: number;
+  wickets_5: number;
+  wickets_7: number;
+  maidens: number;
+}
+
+export interface FranchiseBonus {
+  [franchise: string]: BonusStats;
+}

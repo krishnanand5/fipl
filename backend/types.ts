@@ -54,3 +54,20 @@ export interface Player {
     innings: TeamInnings[];
     manOfTheMatch?: string | null;
   }
+
+  export interface PlayerFranchiseMap {
+    [key: string]: string;
+  }
+  
+  export interface FranchiseStats {
+    [franchise: string]: {
+      runs_25: number;
+      runs_50: number;
+      runs_75: number;
+      runs_100: number;
+      wickets_3: number;
+      wickets_5: number;
+      wickets_7: number;
+      maidens: number;
+    };
+  }

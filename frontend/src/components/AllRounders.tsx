@@ -62,7 +62,6 @@ export const AllRoundersTable: React.FC<Props> = ({ allPlayerPoints }) => {
         <Table size="small">
           <TableHead>
             <TableRow>
-              <TableCell sx={{ color: 'white', fontWeight: 'bold' }}>Rank</TableCell>
               <TableCell sx={{ color: 'white', fontWeight: 'bold' }}>Player</TableCell>
               <TableCell sx={{ color: 'white', fontWeight: 'bold' }}>Franchise</TableCell>
               <TableCell align="right" sx={{ color: 'white', fontWeight: 'bold' }}>Matches</TableCell>
@@ -80,7 +79,6 @@ export const AllRoundersTable: React.FC<Props> = ({ allPlayerPoints }) => {
                   '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
                 }}
               >
-                <TableCell>{index + 1}</TableCell>
                 <TableCell>{player!.name}</TableCell>
                 <TableCell>{player!.franchise}</TableCell>
                 <TableCell align="right">{player!.matches}</TableCell>

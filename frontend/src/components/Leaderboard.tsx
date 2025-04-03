@@ -69,6 +69,10 @@ const formatRecentPoints = (matchTotals: number[]): JSX.Element[] => {
   });
 };
 
+const formatPoints = (points: number): string | number => {
+  return points === 0 ? '-' : points;
+};
+
 const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, isOpen, onToggle, leadingPoints, recentPoints }) => {
   const [selectedPlayer, setSelectedPlayer] = useState<PlayerPoints | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -88,6 +92,7 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
     const recentPoints = sortedMatches.map(match => 
       match.batting_points + match.bowling_points + match.fielding_points + match.mom
     );
+
   
     return (
       <Box 
@@ -191,34 +196,34 @@ const FranchiseRow: React.FC<FranchiseRowProps> = ({ franchise, players, index, 
                     <TableBody>
                       {players.map((player) => (
                         <TableRow key={player.player_name}>
-                          <TableCell 
-                            component="th" 
-                            scope="row"
-                            sx={{ 
-                              cursor: 'pointer',
-                            }}
-                            onClick={() => handlePlayerClick(player)}
-                          >
-                            {player.player_name}
-                          </TableCell>
-                          <TableCell align="right">{player.total_points}</TableCell>
-                          <TableCell align="right">{player.matches.length}</TableCell>
-                          <TableCell align="right">
-                            {player.matches.reduce((sum, m) => sum + m.batting_points, 0)}
-                          </TableCell>
-                          <TableCell align="right">
-                            {player.matches.reduce((sum, m) => sum + m.bowling_points, 0)}
-                          </TableCell>
-                          <TableCell align="right">
-                            {player.matches.reduce((sum, m) => sum + m.fielding_points, 0)}
-                          </TableCell>
-                          <TableCell align="right">
-                            {player.matches.reduce((sum, m) => sum + m.mom, 0)}
-                          </TableCell>
-                          <TableCell align="center">
-                            {calculatePlayerRecentForm(player.matches)}
-                          </TableCell>
-                        </TableRow>
+                        <TableCell 
+                          component="th" 
+                          scope="row"
+                          sx={{ 
+                            cursor: 'pointer',
+                          }}
+                          onClick={() => handlePlayerClick(player)}
+                        >
+                          {player.player_name}
+                        </TableCell>
+                        <TableCell align="right">{formatPoints(player.total_points)}</TableCell>
+                        <TableCell align="right">{player.matches.length}</TableCell>
+                        <TableCell align="right">
+                          {formatPoints(player.matches.reduce((sum, m) => sum + m.batting_points, 0))}
+                        </TableCell>
+                        <TableCell align="right">
+                          {formatPoints(player.matches.reduce((sum, m) => sum + m.bowling_points, 0))}
+                        </TableCell>
+                        <TableCell align="right">
+                          {formatPoints(player.matches.reduce((sum, m) => sum + m.fielding_points, 0))}
+                        </TableCell>
+                        <TableCell align="right">
+                          {formatPoints(player.matches.reduce((sum, m) => sum + m.mom, 0))}
+                        </TableCell>
+                        <TableCell align="center">
+                          {calculatePlayerRecentForm(player.matches)}
+                        </TableCell>
+                      </TableRow>
                       ))}
                     </TableBody>
                   </Table>
@@ -278,8 +283,8 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
     // Take the last 3 matches from all possible matches
     const lastThreeGlobalMatches = allPossibleMatchIds.slice(0, 3);
   
-    console.log('Franchise:', players[0]?.franchise);
-    console.log('Last 3 global matches:', lastThreeGlobalMatches);
+    // console.log('Franchise:', players[0]?.franchise);
+    // console.log('Last 3 global matches:', lastThreeGlobalMatches);
   
     // Calculate points for these specific matches
     const matchTotals = lastThreeGlobalMatches.map(matchId => {
@@ -293,7 +298,7 @@ export const FranchiseLeaderboard: React.FC<Props> = ({ leaderboardData, allPlay
         ) : 0);
       }, 0);
   
-      console.log(`Match ${matchId} points:`, matchPoints);
+      // console.log(`Match ${matchId} points:`, matchPoints);
       return matchPoints;
     });
   

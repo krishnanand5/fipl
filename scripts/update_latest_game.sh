@@ -31,6 +31,13 @@ npm run points || {
     exit 1
 }
 
+# Generate franchise bonus stats
+print_status "Generating franchise bonus statistics..."
+npm run generate:bonus || {
+    print_status "ERROR: Bonus stats generation failed"
+    exit 1
+}
+
 # Create target directories if they don't exist
 print_status "Creating directories..."
 mkdir -p ../frontend/public/data/iplt20_match_stats

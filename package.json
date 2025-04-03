@@ -15,7 +15,9 @@
         "calculate": "cd backend && npm run calculate",
         "update_latest_game": "scripts/update_latest_game.sh",
         "deploy_gh": "scripts/deploy_ghpages.sh",
-        "update_and_deploy": "npm run update && npm run deploy"
+        "update_and_deploy": "npm run update && npm run deploy",
+        "generate:bonus": "cd backend && npx ts-node src/generate_franchise_bonus.ts"
+
     },
     "devDependencies": {
         "@types/react-router-dom": "^5.3.3"

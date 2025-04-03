@@ -29,6 +29,10 @@ const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
     return points === 0 ? '-' : points;
   };
 
+  const formatFranchise = (franchise: string): string => {
+    return franchise === 'Unknown' ? 'UNSOLD' : franchise;
+  };
+
   // Sort by total points and get top 10
   const topPerformances = allMatches
     .sort((a, b) => b.total - a.total)
@@ -61,7 +65,7 @@ const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
               }}
             >
               <TableCell>{performance.player_name}</TableCell>
-              <TableCell>{performance.franchise}</TableCell>
+              <TableCell>{formatFranchise(performance.franchise)}</TableCell>
               <TableCell align="right">{formatPoints(performance.batting_points)}</TableCell>
               <TableCell align="right">{formatPoints(performance.bowling_points)}</TableCell>
               <TableCell align="right">{formatPoints(performance.fielding_points)}</TableCell>
