@@ -1,0 +1,266 @@
+{
+  "matchTitle": "Kolkata Knight Riders vs Sunrisers Hyderabad",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Kolkata Knight Riders 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Quinton De Kock"
+          },
+          "status": "c Zeeshan Ansari b Pat Cummins",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "c Heinrich Klaasen b Mohammad Shami",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "c Heinrich Klaasen b Zeeshan Ansari",
+          "runs": 38,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Harshal Patel b Kamindu Mendis",
+          "runs": 50,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Venkatesh Iyer"
+          },
+          "status": "c Aniket Verma b Harshal Patel",
+          "runs": 60,
+          "balls": 29,
+          "fours": 7,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "not out",
+          "runs": 32,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "run out (Heinrich Klaasen)",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Simarjeet Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Kamindu Mendis"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 1,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Sunrisers Hyderabad 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Harshit Rana b Vaibhav Arora",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c Venkatesh Iyer b Harshit Rana",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "c Ajinkya Rahane b Vaibhav Arora",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "c Sunil Narine b Andre Russell",
+          "runs": 19,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Kamindu Mendis"
+          },
+          "status": "not out",
+          "runs": 25,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "not out",
+          "runs": 10,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "3",
+          "maidens": 1,
+          "runs": 21,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
