@@ -35,8 +35,8 @@ const BonusBuckets: React.FC<Props> = ({ bonusStats }) => {
   useEffect(() => {
     // Calculate and sort batting bonuses
     const battingEntries = Object.entries(bonusStats).map(([franchise, stats]) => {
-      const totalPoints = (stats.runs_25 * 10) + (stats.runs_50 * 10) + 
-                         (stats.runs_75 * 10) + (stats.runs_100 * 10);
+      const totalPoints = (stats.runs_25 * 10) + (stats.runs_50 * 20) + 
+                         (stats.runs_75 * 30) + (stats.runs_100 * 40);
       return [franchise, totalPoints, stats] as [string, number, BonusStats];
     }).sort((a, b) => b[1] - a[1]);
 

@@ -29,11 +29,11 @@ function processMatch(matchData: any, franchiseStats: FranchiseStats, playerFran
       const runs = record.runs;
       if (runs >= 100) {
         franchiseStats[franchise].runs_100++;
-      } else if (runs >= 75) {
+      } else if (runs >= 75 && runs < 100) {
         franchiseStats[franchise].runs_75++;
-      } else if (runs >= 50) {
+      } else if (runs >= 50 && runs < 75) {
         franchiseStats[franchise].runs_50++;
-      } else if (runs >= 25) {
+      } else if (runs >= 25 && runs < 50) {
         franchiseStats[franchise].runs_25++;
       }
     });
