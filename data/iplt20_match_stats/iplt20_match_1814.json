@@ -1,6 +1,6 @@
 {
   "matchTitle": "Lucknow Super Giants vs Mumbai Indians",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Digvesh Singh",
   "innings": [
     {
       "teamName": "Lucknow Super Giants 1st",
@@ -174,8 +174,130 @@
     },
     {
       "teamName": "Mumbai Indians 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "c Ravi Bishnoi b Akash Deep",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "c Ravi Bishnoi b Shardul Thakur",
+          "runs": 10,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "b Digvesh Singh",
+          "runs": 46,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Abdul Samad b Avesh Khan",
+          "runs": 67,
+          "balls": 43,
+          "fours": 9,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma Retired out"
+          },
+          "status": "Retired out",
+          "runs": 25,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "not out",
+          "runs": 28,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Akash Deep"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""

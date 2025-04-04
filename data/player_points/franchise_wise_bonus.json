@@ -10,7 +10,7 @@
     "maidens": 0
   },
   "PPT": {
-    "runs_25": 9,
+    "runs_25": 10,
     "runs_50": 5,
     "runs_75": 0,
     "runs_100": 1,
@@ -51,7 +51,7 @@
   },
   "VCO": {
     "runs_25": 12,
-    "runs_50": 4,
+    "runs_50": 5,
     "runs_75": 0,
     "runs_100": 0,
     "wickets_3": 2,
@@ -60,7 +60,7 @@
     "maidens": 1
   },
   "CNI": {
-    "runs_25": 4,
+    "runs_25": 5,
     "runs_50": 6,
     "runs_75": 1,
     "runs_100": 0,
@@ -70,7 +70,7 @@
     "maidens": 0
   },
   "Unknown": {
-    "runs_25": 3,
+    "runs_25": 4,
     "runs_50": 1,
     "runs_75": 0,
     "runs_100": 0,
