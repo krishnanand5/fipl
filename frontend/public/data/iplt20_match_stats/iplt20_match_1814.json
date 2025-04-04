@@ -1,0 +1,184 @@
+{
+  "matchTitle": "Lucknow Super Giants vs Mumbai Indians",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Lucknow Super Giants 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c & b Vignesh Puthur",
+          "runs": 60,
+          "balls": 31,
+          "fours": 9,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Raj Angad Bawa b Hardik Pandya",
+          "runs": 53,
+          "balls": 38,
+          "fours": 2,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "c Deepak Chahar b Hardik Pandya",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c (Sub) Corbin Bosch b Hardik Pandya",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "c Ryan Rickelton b Ashwani Kumar",
+          "runs": 30,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "c Naman Dhir b Hardik Pandya",
+          "runs": 27,
+          "balls": 14,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "c Naman Dhir b Trent Boult",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "status": "not out",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Akash Deep"
+          },
+          "status": "c Mitchell Santner b Hardik Pandya",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Ashwani Kumar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Vignesh Puthur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 5,
+          "dots": 10
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
