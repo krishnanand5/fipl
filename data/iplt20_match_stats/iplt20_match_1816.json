@@ -1,0 +1,316 @@
+{
+  "matchTitle": "Punjab Kings vs Rajasthan Royals",
+  "manOfTheMatch": "Jofra Archer",
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "b Lockie Ferguson",
+          "runs": 67,
+          "balls": 45,
+          "fours": 3,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Sanju Samson (c)"
+          },
+          "status": "c Shreyas Iyer b Lockie Ferguson",
+          "runs": 38,
+          "balls": 26,
+          "fours": 6,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "not out",
+          "runs": 43,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "c Glenn Maxwell b Marco Jansen",
+          "runs": 12,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Glenn Maxwell b Arshdeep Singh",
+          "runs": 20,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "not out",
+          "runs": 13,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Lockie Ferguson"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Rajasthan Royals 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "b Jofra Archer",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Wanindu Hasaranga b Kumar Kartikeya Singh",
+          "runs": 17,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "b Jofra Archer",
+          "runs": 10,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "c & b Sandeep Sharma",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "c Dhruv Jurel b Wanindu Hasaranga",
+          "runs": 62,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "status": "c Yashasvi Jaiswal b Maheesh Theekshana",
+          "runs": 30,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "not out",
+          "runs": 10,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Suryansh Shedge"
+          },
+          "status": "c Shimron Hetmyer b Sandeep Sharma",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "status": "c Shimron Hetmyer b Maheesh Theekshana",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "status": "c Wanindu Hasaranga b Jofra Archer",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Lockie Ferguson"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 3,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Yudhvir Singh Charak"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Kumar Kartikeya Singh"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
