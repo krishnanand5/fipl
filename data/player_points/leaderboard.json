@@ -240,6 +240,12 @@
     "total_points": 208
   },
   {
+    "player_name": "N Tilak Varma",
+    "franchise": "VCO",
+    "matches_played": 4,
+    "total_points": 204
+  },
+  {
     "player_name": "Harshit Rana",
     "franchise": "TVK",
     "matches_played": 4,
@@ -376,12 +382,6 @@
     "franchise": "VCO",
     "matches_played": 3,
     "total_points": 165
-  },
-  {
-    "player_name": "N Tilak Varma",
-    "franchise": "VCO",
-    "matches_played": 3,
-    "total_points": 163
   },
   {
     "player_name": "Trent Boult",
@@ -717,12 +717,6 @@
     "player_name": "Mukesh Kumar",
     "franchise": "CNI",
     "matches_played": 2,
-    "total_points": 41
-  },
-  {
-    "player_name": "N Tilak Varma Retired out",
-    "franchise": "Unknown",
-    "matches_played": 1,
     "total_points": 41
   },
   {

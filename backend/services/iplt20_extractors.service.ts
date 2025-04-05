@@ -422,7 +422,7 @@ async function extractSingleInningsData(page: puppeteer.Page, inningName: string
             }
             
             // Clean the player name - we need to remove dismissal info completely
-            const dismissalIndicators = [' c ', ' b ', ' lbw ', ' st ', ' run out', ' retired hurt', ' retired out', ' hit wicket', 'obstructing the field'];
+            const dismissalIndicators = [' c ', ' b ', ' lbw ', ' st ', ' run out', ' Retired hurt', ' Retired out', ' hit wicket', 'obstructing the field'];
             let earliestIndex = playerName.length;
 
             for (const indicator of dismissalIndicators) {
