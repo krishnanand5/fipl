@@ -1,7 +1,7 @@
 {
   "SKKK": {
     "runs_25": 5,
-    "runs_50": 2,
+    "runs_50": 3,
     "runs_75": 2,
     "runs_100": 0,
     "wickets_3": 5,
@@ -10,11 +10,11 @@
     "maidens": 0
   },
   "PPT": {
-    "runs_25": 11,
+    "runs_25": 12,
     "runs_50": 5,
     "runs_75": 0,
     "runs_100": 1,
-    "wickets_3": 2,
+    "wickets_3": 3,
     "wickets_5": 1,
     "wickets_7": 0,
     "maidens": 1
@@ -31,7 +31,7 @@
   },
   "UUCC": {
     "runs_25": 11,
-    "runs_50": 4,
+    "runs_50": 5,
     "runs_75": 1,
     "runs_100": 0,
     "wickets_3": 1,
@@ -50,7 +50,7 @@
     "maidens": 0
   },
   "VCO": {
-    "runs_25": 13,
+    "runs_25": 14,
     "runs_50": 5,
     "runs_75": 0,
     "runs_100": 0,
@@ -70,7 +70,7 @@
     "maidens": 0
   },
   "Unknown": {
-    "runs_25": 3,
+    "runs_25": 4,
     "runs_50": 1,
     "runs_75": 0,
     "runs_100": 0,
