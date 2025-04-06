@@ -30,7 +30,7 @@
     "maidens": 0
   },
   "UUCC": {
-    "runs_25": 12,
+    "runs_25": 13,
     "runs_50": 5,
     "runs_75": 1,
     "runs_100": 0,
@@ -40,8 +40,8 @@
     "maidens": 0
   },
   "TKTK": {
-    "runs_25": 10,
-    "runs_50": 3,
+    "runs_25": 9,
+    "runs_50": 4,
     "runs_75": 0,
     "runs_100": 0,
     "wickets_3": 3,
