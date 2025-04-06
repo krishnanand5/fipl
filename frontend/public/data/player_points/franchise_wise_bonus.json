@@ -30,7 +30,7 @@
     "maidens": 0
   },
   "UUCC": {
-    "runs_25": 11,
+    "runs_25": 12,
     "runs_50": 5,
     "runs_75": 1,
     "runs_100": 0,
@@ -40,17 +40,17 @@
     "maidens": 0
   },
   "TKTK": {
-    "runs_25": 9,
+    "runs_25": 10,
     "runs_50": 3,
     "runs_75": 0,
     "runs_100": 0,
-    "wickets_3": 2,
+    "wickets_3": 3,
     "wickets_5": 1,
     "wickets_7": 0,
     "maidens": 0
   },
   "VCO": {
-    "runs_25": 14,
+    "runs_25": 15,
     "runs_50": 5,
     "runs_75": 0,
     "runs_100": 0,
@@ -60,7 +60,7 @@
     "maidens": 1
   },
   "CNI": {
-    "runs_25": 5,
+    "runs_25": 6,
     "runs_50": 6,
     "runs_75": 1,
     "runs_100": 0,
