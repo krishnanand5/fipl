@@ -1,0 +1,164 @@
+{
+  "matchTitle": "Mumbai Indians vs Royal Challengers Bengaluru",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Mumbai Indians 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "b Trent Boult",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Naman Dhir b Hardik Pandya",
+          "runs": 67,
+          "balls": 42,
+          "fours": 8,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "c Will Jacks b Vignesh Puthur",
+          "runs": 37,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "c Ryan Rickelton b Trent Boult",
+          "runs": 64,
+          "balls": 32,
+          "fours": 5,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "status": "c Jasprit Bumrah b Hardik Pandya",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma"
+          },
+          "status": "not out",
+          "runs": 40,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Tim David"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 57,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Vignesh Puthur"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}

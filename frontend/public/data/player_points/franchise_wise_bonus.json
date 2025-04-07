@@ -10,7 +10,7 @@
     "maidens": 0
   },
   "PPT": {
-    "runs_25": 12,
+    "runs_25": 13,
     "runs_50": 5,
     "runs_75": 0,
     "runs_100": 1,
@@ -21,7 +21,7 @@
   },
   "TVK": {
     "runs_25": 5,
-    "runs_50": 4,
+    "runs_50": 5,
     "runs_75": 1,
     "runs_100": 0,
     "wickets_3": 3,
@@ -30,8 +30,8 @@
     "maidens": 0
   },
   "UUCC": {
-    "runs_25": 13,
-    "runs_50": 5,
+    "runs_25": 14,
+    "runs_50": 6,
     "runs_75": 1,
     "runs_100": 0,
     "wickets_3": 1,
