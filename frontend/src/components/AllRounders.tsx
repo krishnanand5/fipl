@@ -22,10 +22,10 @@ export const AllRoundersTable: React.FC<Props> = ({ allPlayerPoints }) => {
       const bowlingPoints = player.matches.reduce((sum, match) => sum + match.bowling_points, 0);
       
       // Only consider players with both batting and bowling contributions
-      if (battingPoints > 25 && bowlingPoints > 25) {
+      if (battingPoints > 75 && bowlingPoints > 75) {
         return {
           name: player.player_name,
-          franchise: player.franchise,
+          franchise: player.franchise !== 'Unknown' ? player.franchise : 'UNSOLD',
           matches: player.matches.length,
           battingPoints,
           bowlingPoints,
