@@ -1,0 +1,134 @@
+{
+  "matchTitle": "Kolkata Knight Riders vs Lucknow Super Giants",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Kolkata Knight Riders 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "b Harshit Rana",
+          "runs": 47,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Rinku Singh b Andre Russell",
+          "runs": 81,
+          "balls": 48,
+          "fours": 6,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "not out",
+          "runs": 87,
+          "balls": 36,
+          "fours": 7,
+          "sixes": 8
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "b Harshit Rana",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Spencer Johnson"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 51,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Lucknow Super Giants 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
