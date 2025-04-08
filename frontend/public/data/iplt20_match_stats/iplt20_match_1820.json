@@ -1,0 +1,164 @@
+{
+  "matchTitle": "Punjab Kings vs Chennai Super Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Vijay Shankar b Noor Ahmad",
+          "runs": 103,
+          "balls": 42,
+          "fours": 7,
+          "sixes": 9
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "b Mukesh Choudhary",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "b Khaleel Ahmed",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "c Devon Conway b Khaleel Ahmed",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "c Ms Dhoni b Ravichandran Ashwin",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "status": "c & b Ravichandran Ashwin",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "not out",
+          "runs": 52,
+          "balls": 36,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "status": "not out",
+          "runs": 34,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mukesh Choudhary"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 52,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Chennai Super Kings 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
