@@ -1,6 +1,6 @@
 {
   "matchTitle": "Kolkata Knight Riders vs Lucknow Super Giants",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Nicholas Pooran",
   "innings": [
     {
       "teamName": "Kolkata Knight Riders 1st",
@@ -124,8 +124,150 @@
     },
     {
       "teamName": "Lucknow Super Giants 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Quinton De Kock"
+          },
+          "status": "lbw Akash Deep",
+          "runs": 15,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "c Aiden Markram b Digvesh Singh",
+          "runs": 30,
+          "balls": 13,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "c Nicholas Pooran b Shardul Thakur",
+          "runs": 61,
+          "balls": 35,
+          "fours": 8,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Venkatesh Iyer"
+          },
+          "status": "c Aiden Markram b Akash Deep",
+          "runs": 45,
+          "balls": 29,
+          "fours": 6,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ramandeep Singh"
+          },
+          "status": "c Aiden Markram b Ravi Bishnoi",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Rishabh Pant b Avesh Khan",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "c David Miller b Shardul Thakur",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "not out",
+          "runs": 38,
+          "balls": 15,
+          "fours": 6,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "status": "not out",
+          "runs": 10,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Akash Deep"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 55,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 52,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 1,
+          "dots": 8
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
