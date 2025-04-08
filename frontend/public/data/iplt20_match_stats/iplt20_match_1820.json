@@ -1,6 +1,6 @@
 {
   "matchTitle": "Punjab Kings vs Chennai Super Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Priyansh Arya",
   "innings": [
     {
       "teamName": "Punjab Kings 1st",
@@ -154,8 +154,150 @@
     },
     {
       "teamName": "Chennai Super Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rachin Ravindra"
+          },
+          "status": "st Prabhsimran Singh b Glenn Maxwell",
+          "runs": 36,
+          "balls": 23,
+          "fours": 6,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Devon Conway"
+          },
+          "status": "Retired out",
+          "runs": 69,
+          "balls": 49,
+          "fours": 6,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ruturaj Gaikwad"
+          },
+          "status": "c Shashank Singh b Lockie Ferguson",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "b Lockie Ferguson",
+          "runs": 42,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "MS Dhoni"
+          },
+          "status": "c Yuzvendra Chahal b Yash Thakur",
+          "runs": 27,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "not out",
+          "runs": 9,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Vijay Shankar"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Yash Thakur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Lockie Ferguson"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "dots": 0
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
