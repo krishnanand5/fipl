@@ -1,0 +1,194 @@
+{
+  "matchTitle": "Gujarat Titans vs Rajasthan Royals",
+  "manOfTheMatch": "Sai Sudharsan",
+  "innings": [
+    {
+      "teamName": "Gujarat Titans 1st",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Rajasthan Royals 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "c Rashid Khan b Mohd Arshad Khan",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sanju Samson (c)"
+          },
+          "status": "c Sai Kishore b Prasidh Krishna",
+          "runs": 41,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "c Kulwant Khejroliya b Mohammed Siraj",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "c Jos Buttler b Kulwant Khejroliya",
+          "runs": 26,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "c Sai Sudharsan b Rashid Khan",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Sai Kishore b Prasidh Krishna",
+          "runs": 52,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shubham Dubey"
+          },
+          "status": "lbw Rashid Khan",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "status": "c Shubman Gill b Prasidh Krishna",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "status": "c Sai Sudharsan b Sai Kishore",
+          "runs": 5,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "status": "c Rashid Khan b Sai Kishore",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "status": "not out",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 3,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Kulwant Khejroliya"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "2.2",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "dots": 3
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
