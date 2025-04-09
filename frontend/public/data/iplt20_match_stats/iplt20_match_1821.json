@@ -4,8 +4,140 @@
   "innings": [
     {
       "teamName": "Gujarat Titans 1st",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Sanju Samson b Tushar Deshpande",
+          "runs": 82,
+          "balls": 53,
+          "fours": 8,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "b Jofra Archer",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "lbw Maheesh Theekshana",
+          "runs": 36,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "st Sanju Samson b Maheesh Theekshana",
+          "runs": 36,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Sherfane Rutherford"
+          },
+          "status": "c Sanju Samson b Sandeep Sharma",
+          "runs": 7,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "not out",
+          "runs": 24,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "c Yashasvi Jaiswal b Tushar Deshpande",
+          "runs": 12,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Fazalhaq Farooqi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 53,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 54,
+          "wickets": 2,
+          "dots": 5
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
