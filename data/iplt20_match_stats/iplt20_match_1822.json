@@ -1,6 +1,6 @@
 {
   "matchTitle": "Royal Challengers Bengaluru vs Delhi Capitals",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "K L Rahul",
   "innings": [
     {
       "teamName": "Royal Challengers Bengaluru 1st",
@@ -200,20 +200,30 @@
             "name": "K L Rahul"
           },
           "status": "not out",
-          "runs": 14,
+          "runs": 93,
+          "balls": 53,
+          "fours": 7,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "c Tim David b Suyash Sharma",
+          "runs": 15,
           "balls": 11,
           "fours": 2,
           "sixes": 0
         },
         {
           "player": {
-            "name": "Axar Patel"
+            "name": "Tristan Stubbs"
           },
           "status": "not out",
-          "runs": 7,
-          "balls": 5,
-          "fours": 1,
-          "sixes": 0
+          "runs": 38,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 1
         }
       ],
       "bowlingRecords": [
@@ -221,9 +231,9 @@
           "player": {
             "name": "Bhuvneshwar Kumar"
           },
-          "overs": "3",
+          "overs": "4",
           "maidens": 0,
-          "runs": 14,
+          "runs": 26,
           "wickets": 2,
           "dots": 12
         },
@@ -231,21 +241,51 @@
           "player": {
             "name": "Yash Dayal"
           },
-          "overs": "2",
+          "overs": "3.5",
           "maidens": 0,
-          "runs": 17,
+          "runs": 45,
           "wickets": 1,
-          "dots": 4
+          "dots": 5
         },
         {
           "player": {
             "name": "Josh Hazlewood"
           },
-          "overs": "1",
+          "overs": "3",
           "maidens": 0,
-          "runs": 8,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
           "wickets": 0,
           "dots": 1
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "dots": 0
         }
       ],
       "extras": "",
