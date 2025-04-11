@@ -1,0 +1,276 @@
+{
+  "matchTitle": "Chennai Super Kings vs Kolkata Knight Riders",
+  "manOfTheMatch": "Sunil Narine",
+  "innings": [
+    {
+      "teamName": "Chennai Super Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rachin Ravindra"
+          },
+          "status": "c Ajinkya Rahane b Harshit Rana",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Devon Conway"
+          },
+          "status": "lbw Moeen Ali",
+          "runs": 12,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rahul Tripathi"
+          },
+          "status": "b Sunil Narine",
+          "runs": 16,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Vijay Shankar"
+          },
+          "status": "c Moeen Ali b Varun Chakaravarthy",
+          "runs": 29,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "not out",
+          "runs": 31,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "status": "c Vaibhav Arora b Harshit Rana",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "c Quinton De Kock b Sunil Narine",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Deepak Hooda"
+          },
+          "status": "c Vaibhav Arora b Varun Chakaravarthy",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "lbw Sunil Narine",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "status": "c Varun Chakaravarthy b Vaibhav Arora",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "status": "not out",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Moeen Ali"
+          },
+          "overs": "4",
+          "maidens": 1,
+          "runs": 20,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 2,
+          "dots": 17
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 3,
+          "dots": 12
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Kolkata Knight Riders 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Quinton De Kock"
+          },
+          "status": "b Anshul Kamboj",
+          "runs": 23,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "b Noor Ahmad",
+          "runs": 44,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "not out",
+          "runs": 20,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "not out",
+          "runs": 15,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "0.1",
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "dots": 0
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
