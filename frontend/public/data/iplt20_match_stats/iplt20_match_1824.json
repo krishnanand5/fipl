@@ -1,6 +1,6 @@
 {
   "matchTitle": "Lucknow Super Giants vs Gujarat Titans",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Aiden Markram",
   "innings": [
     {
       "teamName": "Lucknow Super Giants 1st",
@@ -154,8 +154,130 @@
     },
     {
       "teamName": "Gujarat Titans 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Shubman Gill b Prasidh Krishna",
+          "runs": 58,
+          "balls": 31,
+          "fours": 9,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Washington Sundar b Prasidh Krishna",
+          "runs": 21,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "c Shahrukh Khan b Rashid Khan",
+          "runs": 61,
+          "balls": 34,
+          "fours": 1,
+          "sixes": 7
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "not out",
+          "runs": 28,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "b Washington Sundar",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 50,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "1.3",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 0
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
