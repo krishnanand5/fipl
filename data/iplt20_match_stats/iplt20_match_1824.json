@@ -1,0 +1,164 @@
+{
+  "matchTitle": "Lucknow Super Giants vs Gujarat Titans",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Lucknow Super Giants 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Nicholas Pooran b Ravi Bishnoi",
+          "runs": 56,
+          "balls": 37,
+          "fours": 7,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "c Aiden Markram b Avesh Khan",
+          "runs": 60,
+          "balls": 38,
+          "fours": 6,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "c Shardul Thakur b Digvesh Singh",
+          "runs": 16,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "status": "b Ravi Bishnoi",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sherfane Rutherford"
+          },
+          "status": "lbw Shardul Thakur",
+          "runs": 22,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "not out",
+          "runs": 11,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "c Aiden Markram b Shardul Thakur",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Akash Deep"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "dots": 0
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Gujarat Titans 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
