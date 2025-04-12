@@ -588,6 +588,116 @@
     "total_points": 476
   },
   {
+    "player_name": "Abhishek Sharma",
+    "franchise": "CNI",
+    "matches": [
+      {
+        "match_id": "1800",
+        "batting_points": 47,
+        "bowling_points": 13,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 60
+      },
+      {
+        "match_id": "1805",
+        "batting_points": 8,
+        "bowling_points": 9,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 17
+      },
+      {
+        "match_id": "1808",
+        "batting_points": 1,
+        "bowling_points": 13,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 14
+      },
+      {
+        "match_id": "1813",
+        "batting_points": -2,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -2
+      },
+      {
+        "match_id": "1818",
+        "batting_points": 28,
+        "bowling_points": -5,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 23
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 335,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 25,
+        "total": 360
+      }
+    ],
+    "total_points": 472
+  },
+  {
+    "player_name": "Travis Head",
+    "franchise": "SKKK",
+    "matches": [
+      {
+        "match_id": "1800",
+        "batting_points": 150,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 150
+      },
+      {
+        "match_id": "1805",
+        "batting_points": 95,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 95
+      },
+      {
+        "match_id": "1808",
+        "batting_points": 40,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 40
+      },
+      {
+        "match_id": "1813",
+        "batting_points": 8,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 8
+      },
+      {
+        "match_id": "1818",
+        "batting_points": 15,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 15
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 142,
+        "bowling_points": 0,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 157
+      }
+    ],
+    "total_points": 465
+  },
+  {
     "player_name": "Ajinkya Rahane",
     "franchise": "TVK",
     "matches": [
@@ -1059,6 +1169,61 @@
     "total_points": 422
   },
   {
+    "player_name": "Heinrich Klaasen",
+    "franchise": "VCO",
+    "matches": [
+      {
+        "match_id": "1800",
+        "batting_points": 77,
+        "bowling_points": 0,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 92
+      },
+      {
+        "match_id": "1805",
+        "batting_points": 52,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 52
+      },
+      {
+        "match_id": "1808",
+        "batting_points": 65,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 65
+      },
+      {
+        "match_id": "1813",
+        "batting_points": 65,
+        "bowling_points": 0,
+        "fielding_points": 40,
+        "mom": 0,
+        "total": 105
+      },
+      {
+        "match_id": "1818",
+        "batting_points": 52,
+        "bowling_points": 0,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 67
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 35,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 35
+      }
+    ],
+    "total_points": 416
+  },
+  {
     "player_name": "Digvesh Singh",
     "franchise": "Unknown",
     "matches": [
@@ -1159,53 +1324,6 @@
       }
     ],
     "total_points": 390
-  },
-  {
-    "player_name": "Heinrich Klaasen",
-    "franchise": "VCO",
-    "matches": [
-      {
-        "match_id": "1800",
-        "batting_points": 77,
-        "bowling_points": 0,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 92
-      },
-      {
-        "match_id": "1805",
-        "batting_points": 52,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 52
-      },
-      {
-        "match_id": "1808",
-        "batting_points": 65,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 65
-      },
-      {
-        "match_id": "1813",
-        "batting_points": 65,
-        "bowling_points": 0,
-        "fielding_points": 40,
-        "mom": 0,
-        "total": 105
-      },
-      {
-        "match_id": "1818",
-        "batting_points": 52,
-        "bowling_points": 0,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 67
-      }
-    ],
-    "total_points": 381
   },
   {
     "player_name": "Sanju Samson",
@@ -1819,61 +1937,6 @@
     "total_points": 327
   },
   {
-    "player_name": "Travis Head",
-    "franchise": "SKKK",
-    "matches": [
-      {
-        "match_id": "1800",
-        "batting_points": 150,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 150
-      },
-      {
-        "match_id": "1805",
-        "batting_points": 95,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 95
-      },
-      {
-        "match_id": "1808",
-        "batting_points": 40,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 40
-      },
-      {
-        "match_id": "1813",
-        "batting_points": 8,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 8
-      },
-      {
-        "match_id": "1818",
-        "batting_points": 15,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 15
-      },
-      {
-        "match_id": "1825",
-        "batting_points": 0,
-        "bowling_points": 0,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 15
-      }
-    ],
-    "total_points": 323
-  },
-  {
     "player_name": "Pat Cummins",
     "franchise": "UUCC",
     "matches": [
@@ -2078,6 +2141,61 @@
     "total_points": 309
   },
   {
+    "player_name": "Ishan Kishan",
+    "franchise": "PPT",
+    "matches": [
+      {
+        "match_id": "1800",
+        "batting_points": 245,
+        "bowling_points": 0,
+        "fielding_points": 15,
+        "mom": 25,
+        "total": 285
+      },
+      {
+        "match_id": "1805",
+        "batting_points": -11,
+        "bowling_points": -2,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -13
+      },
+      {
+        "match_id": "1808",
+        "batting_points": -1,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -1
+      },
+      {
+        "match_id": "1813",
+        "batting_points": -1,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -1
+      },
+      {
+        "match_id": "1818",
+        "batting_points": 24,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 24
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 14,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 14
+      }
+    ],
+    "total_points": 308
+  },
+  {
     "player_name": "Naman Dhir",
     "franchise": "CNI",
     "matches": [
@@ -2227,6 +2345,53 @@
     "total_points": 303
   },
   {
+    "player_name": "Arshdeep Singh",
+    "franchise": "TVK",
+    "matches": [
+      {
+        "match_id": "1803",
+        "batting_points": 0,
+        "bowling_points": 73,
+        "fielding_points": 10,
+        "mom": 0,
+        "total": 83
+      },
+      {
+        "match_id": "1811",
+        "batting_points": 0,
+        "bowling_points": 113,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 113
+      },
+      {
+        "match_id": "1816",
+        "batting_points": -3,
+        "bowling_points": 48,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 45
+      },
+      {
+        "match_id": "1820",
+        "batting_points": 0,
+        "bowling_points": 15,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 15
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 0,
+        "bowling_points": 47,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 47
+      }
+    ],
+    "total_points": 303
+  },
+  {
     "player_name": "Jofra Archer",
     "franchise": "PPT",
     "matches": [
@@ -2272,53 +2437,6 @@
       }
     ],
     "total_points": 302
-  },
-  {
-    "player_name": "Ishan Kishan",
-    "franchise": "PPT",
-    "matches": [
-      {
-        "match_id": "1800",
-        "batting_points": 245,
-        "bowling_points": 0,
-        "fielding_points": 15,
-        "mom": 25,
-        "total": 285
-      },
-      {
-        "match_id": "1805",
-        "batting_points": -11,
-        "bowling_points": -2,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": -13
-      },
-      {
-        "match_id": "1808",
-        "batting_points": -1,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": -1
-      },
-      {
-        "match_id": "1813",
-        "batting_points": -1,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": -1
-      },
-      {
-        "match_id": "1818",
-        "batting_points": 24,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 24
-      }
-    ],
-    "total_points": 294
   },
   {
     "player_name": "Jitesh Sharma",
@@ -3081,45 +3199,6 @@
     "total_points": 257
   },
   {
-    "player_name": "Arshdeep Singh",
-    "franchise": "TVK",
-    "matches": [
-      {
-        "match_id": "1803",
-        "batting_points": 0,
-        "bowling_points": 73,
-        "fielding_points": 10,
-        "mom": 0,
-        "total": 83
-      },
-      {
-        "match_id": "1811",
-        "batting_points": 0,
-        "bowling_points": 113,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 113
-      },
-      {
-        "match_id": "1816",
-        "batting_points": -3,
-        "bowling_points": 48,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 45
-      },
-      {
-        "match_id": "1820",
-        "batting_points": 0,
-        "bowling_points": 15,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 15
-      }
-    ],
-    "total_points": 256
-  },
-  {
     "player_name": "Venkatesh Iyer",
     "franchise": "PPT",
     "matches": [
@@ -3290,6 +3369,53 @@
       }
     ],
     "total_points": 246
+  },
+  {
+    "player_name": "Glenn Maxwell",
+    "franchise": "VCO",
+    "matches": [
+      {
+        "match_id": "1803",
+        "batting_points": -11,
+        "bowling_points": 26,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 15
+      },
+      {
+        "match_id": "1811",
+        "batting_points": 0,
+        "bowling_points": 47,
+        "fielding_points": 30,
+        "mom": 0,
+        "total": 77
+      },
+      {
+        "match_id": "1816",
+        "batting_points": 58,
+        "bowling_points": 9,
+        "fielding_points": 30,
+        "mom": 0,
+        "total": 97
+      },
+      {
+        "match_id": "1820",
+        "batting_points": 0,
+        "bowling_points": 42,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 42
+      },
+      {
+        "match_id": "1825",
+        "batting_points": -1,
+        "bowling_points": -1,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 13
+      }
+    ],
+    "total_points": 244
   },
   {
     "player_name": "Maheesh Theekshana",
@@ -3470,53 +3596,6 @@
       }
     ],
     "total_points": 238
-  },
-  {
-    "player_name": "Glenn Maxwell",
-    "franchise": "VCO",
-    "matches": [
-      {
-        "match_id": "1803",
-        "batting_points": -11,
-        "bowling_points": 26,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 15
-      },
-      {
-        "match_id": "1811",
-        "batting_points": 0,
-        "bowling_points": 47,
-        "fielding_points": 30,
-        "mom": 0,
-        "total": 77
-      },
-      {
-        "match_id": "1816",
-        "batting_points": 58,
-        "bowling_points": 9,
-        "fielding_points": 30,
-        "mom": 0,
-        "total": 97
-      },
-      {
-        "match_id": "1820",
-        "batting_points": 0,
-        "bowling_points": 42,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 42
-      },
-      {
-        "match_id": "1825",
-        "batting_points": -1,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": -1
-      }
-    ],
-    "total_points": 230
   },
   {
     "player_name": "Matheesha Pathirana",
@@ -3767,53 +3846,6 @@
       }
     ],
     "total_points": 218
-  },
-  {
-    "player_name": "Marco Jansen",
-    "franchise": "UUCC",
-    "matches": [
-      {
-        "match_id": "1803",
-        "batting_points": 0,
-        "bowling_points": 35,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 35
-      },
-      {
-        "match_id": "1811",
-        "batting_points": 0,
-        "bowling_points": 54,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 69
-      },
-      {
-        "match_id": "1816",
-        "batting_points": 0,
-        "bowling_points": 35,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 35
-      },
-      {
-        "match_id": "1820",
-        "batting_points": 69,
-        "bowling_points": 4,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 73
-      },
-      {
-        "match_id": "1825",
-        "batting_points": 5,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 5
-      }
-    ],
-    "total_points": 217
   },
   {
     "player_name": "Mohammad Shami",
@@ -4168,6 +4200,53 @@
     "total_points": 208
   },
   {
+    "player_name": "Marco Jansen",
+    "franchise": "UUCC",
+    "matches": [
+      {
+        "match_id": "1803",
+        "batting_points": 0,
+        "bowling_points": 35,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 35
+      },
+      {
+        "match_id": "1811",
+        "batting_points": 0,
+        "bowling_points": 54,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 69
+      },
+      {
+        "match_id": "1816",
+        "batting_points": 0,
+        "bowling_points": 35,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 35
+      },
+      {
+        "match_id": "1820",
+        "batting_points": 69,
+        "bowling_points": 4,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 73
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 5,
+        "bowling_points": -13,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -8
+      }
+    ],
+    "total_points": 204
+  },
+  {
     "player_name": "Tushar Deshpande",
     "franchise": "SKKK",
     "matches": [
@@ -4311,9 +4390,17 @@
         "fielding_points": 0,
         "mom": 0,
         "total": 68
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 0,
+        "bowling_points": 4,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 4
       }
     ],
-    "total_points": 190
+    "total_points": 194
   },
   {
     "player_name": "Moeen Ali",
@@ -4784,6 +4871,53 @@
     "total_points": 134
   },
   {
+    "player_name": "Marcus Stoinis",
+    "franchise": "SKKK",
+    "matches": [
+      {
+        "match_id": "1803",
+        "batting_points": 33,
+        "bowling_points": -4,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 29
+      },
+      {
+        "match_id": "1811",
+        "batting_points": 0,
+        "bowling_points": 14,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 14
+      },
+      {
+        "match_id": "1816",
+        "batting_points": -5,
+        "bowling_points": 4,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -1
+      },
+      {
+        "match_id": "1820",
+        "batting_points": 1,
+        "bowling_points": 4,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 5
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 81,
+        "bowling_points": 4,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 85
+      }
+    ],
+    "total_points": 132
+  },
+  {
     "player_name": "Mohd Arshad Khan",
     "franchise": "Unknown",
     "matches": [
@@ -4823,98 +4957,51 @@
     "total_points": 131
   },
   {
-    "player_name": "Marcus Stoinis",
-    "franchise": "SKKK",
+    "player_name": "Yuzvendra Chahal",
+    "franchise": "TKTK",
     "matches": [
       {
         "match_id": "1803",
-        "batting_points": 33,
-        "bowling_points": -4,
+        "batting_points": 0,
+        "bowling_points": 6,
         "fielding_points": 0,
         "mom": 0,
-        "total": 29
+        "total": 6
       },
       {
         "match_id": "1811",
         "batting_points": 0,
-        "bowling_points": 14,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 14
-      },
-      {
-        "match_id": "1816",
-        "batting_points": -5,
-        "bowling_points": 4,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": -1
-      },
-      {
-        "match_id": "1820",
-        "batting_points": 1,
-        "bowling_points": 4,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 5
-      },
-      {
-        "match_id": "1825",
-        "batting_points": 81,
-        "bowling_points": 0,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 81
-      }
-    ],
-    "total_points": 128
-  },
-  {
-    "player_name": "Abhishek Sharma",
-    "franchise": "CNI",
-    "matches": [
-      {
-        "match_id": "1800",
-        "batting_points": 47,
-        "bowling_points": 13,
-        "fielding_points": 0,
+        "bowling_points": 45,
+        "fielding_points": 15,
         "mom": 0,
         "total": 60
       },
       {
-        "match_id": "1805",
-        "batting_points": 8,
-        "bowling_points": 9,
+        "match_id": "1816",
+        "batting_points": 0,
+        "bowling_points": 6,
         "fielding_points": 0,
         "mom": 0,
-        "total": 17
+        "total": 6
       },
       {
-        "match_id": "1808",
-        "batting_points": 1,
-        "bowling_points": 13,
-        "fielding_points": 0,
+        "match_id": "1820",
+        "batting_points": 0,
+        "bowling_points": 3,
+        "fielding_points": 15,
         "mom": 0,
-        "total": 14
+        "total": 18
       },
       {
-        "match_id": "1813",
-        "batting_points": -2,
-        "bowling_points": 0,
+        "match_id": "1825",
+        "batting_points": 0,
+        "bowling_points": 20,
         "fielding_points": 0,
         "mom": 0,
-        "total": -2
-      },
-      {
-        "match_id": "1818",
-        "batting_points": 28,
-        "bowling_points": -5,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 23
+        "total": 20
       }
     ],
-    "total_points": 112
+    "total_points": 110
   },
   {
     "player_name": "Mohit Sharma",
@@ -5071,45 +5158,6 @@
       }
     ],
     "total_points": 91
-  },
-  {
-    "player_name": "Yuzvendra Chahal",
-    "franchise": "TKTK",
-    "matches": [
-      {
-        "match_id": "1803",
-        "batting_points": 0,
-        "bowling_points": 6,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 6
-      },
-      {
-        "match_id": "1811",
-        "batting_points": 0,
-        "bowling_points": 45,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 60
-      },
-      {
-        "match_id": "1816",
-        "batting_points": 0,
-        "bowling_points": 6,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 6
-      },
-      {
-        "match_id": "1820",
-        "batting_points": 0,
-        "bowling_points": 3,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 18
-      }
-    ],
-    "total_points": 90
   },
   {
     "player_name": "Kagiso Rabada",
@@ -5553,21 +5601,6 @@
     "total_points": 51
   },
   {
-    "player_name": "Yash Thakur",
-    "franchise": "PPT",
-    "matches": [
-      {
-        "match_id": "1820",
-        "batting_points": 0,
-        "bowling_points": 42,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 42
-      }
-    ],
-    "total_points": 42
-  },
-  {
     "player_name": "Nathan Ellis",
     "franchise": "Unknown",
     "matches": [
@@ -5703,6 +5736,29 @@
       }
     ],
     "total_points": 36
+  },
+  {
+    "player_name": "Yash Thakur",
+    "franchise": "PPT",
+    "matches": [
+      {
+        "match_id": "1820",
+        "batting_points": 0,
+        "bowling_points": 42,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 42
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 0,
+        "bowling_points": -7,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -7
+      }
+    ],
+    "total_points": 35
   },
   {
     "player_name": "Manish Pandey",
@@ -5953,6 +6009,21 @@
     "matches": [
       {
         "match_id": "1814",
+        "batting_points": 0,
+        "bowling_points": 0,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 15
+      }
+    ],
+    "total_points": 15
+  },
+  {
+    "player_name": "Pravin Du",
+    "franchise": "Unknown",
+    "matches": [
+      {
+        "match_id": "1825",
         "batting_points": 0,
         "bowling_points": 0,
         "fielding_points": 15,

@@ -1,6 +1,6 @@
 {
   "matchTitle": "Sunrisers Hyderabad vs Punjab Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Abhishek Sharma",
   "innings": [
     {
       "teamName": "Sunrisers Hyderabad 1st",
@@ -144,8 +144,130 @@
     },
     {
       "teamName": "Punjab Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Glenn Maxwell b Yuzvendra Chahal",
+          "runs": 66,
+          "balls": 37,
+          "fours": 9,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c (Sub) Pravin Dubey b Arshdeep Singh",
+          "runs": 141,
+          "balls": 55,
+          "fours": 14,
+          "sixes": 10
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "not out",
+          "runs": 21,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "not out",
+          "runs": 9,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Yash Thakur"
+          },
+          "overs": "2.3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Lockie Ferguson"
+          },
+          "overs": "0.2",
+          "maidens": 0,
+          "runs": 1,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "0.4",
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 56,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 3
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
