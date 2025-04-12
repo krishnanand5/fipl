@@ -1,0 +1,154 @@
+{
+  "matchTitle": "Sunrisers Hyderabad vs Punjab Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Sunrisers Hyderabad 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Nitish Kumar Reddy b Harshal Patel",
+          "runs": 36,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Pat Cummins b Eshan Malinga",
+          "runs": 42,
+          "balls": 23,
+          "fours": 7,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "c Travis Head b Harshal Patel",
+          "runs": 82,
+          "balls": 36,
+          "fours": 6,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "lbw Eshan Malinga",
+          "runs": 27,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "lbw Harshal Patel",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "status": "b Harshal Patel",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "not out",
+          "runs": 34,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "status": "not out",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 75,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 4,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Eshan Malinga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Punjab Kings 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
