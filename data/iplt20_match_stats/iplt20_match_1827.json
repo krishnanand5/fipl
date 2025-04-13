@@ -1,0 +1,326 @@
+{
+  "matchTitle": "Delhi Capitals vs Mumbai Indians",
+  "manOfTheMatch": "Karn Sharma",
+  "innings": [
+    {
+      "teamName": "Delhi Capitals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "lbw Vipraj Nigam",
+          "runs": 18,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "b Kuldeep Yadav",
+          "runs": 41,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Mitchell Starc b Kuldeep Yadav",
+          "runs": 40,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "c Abishek Porel b Mukesh Kumar",
+          "runs": 59,
+          "balls": 33,
+          "fours": 6,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "c Tristan Stubbs b Vipraj Nigam",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "not out",
+          "runs": 38,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Mohit Sharma"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 3
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Jake Fraser - McGurk"
+          },
+          "status": "c Will Jacks b Deepak Chahar",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c Naman Dhir b Karn Sharma",
+          "runs": 33,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Karun Nair"
+          },
+          "status": "b Mitchell Santner",
+          "runs": 89,
+          "balls": 40,
+          "fours": 12,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "c & b Karn Sharma",
+          "runs": 15,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "c Surya Kumar Yadav b Jasprit Bumrah",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "c Naman Dhir b Karn Sharma",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ashutosh Sharma"
+          },
+          "status": "run out (Will Jacks)",
+          "runs": 17,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "status": "st Ryan Rickelton b Mitchell Santner",
+          "runs": 14,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "status": "run out ((sub) Raj Angad Bawa)",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mohit Sharma"
+          },
+          "status": "run out (Mitchell Santner)",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 2,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Karn Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 3,
+          "dots": 8
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
