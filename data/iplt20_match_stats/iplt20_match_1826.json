@@ -1,0 +1,246 @@
+{
+  "matchTitle": "Rajasthan Royals vs Royal Challengers Bengaluru",
+  "manOfTheMatch": "Phil Salt",
+  "innings": [
+    {
+      "teamName": "Rajasthan Royals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "lbw Josh Hazlewood",
+          "runs": 75,
+          "balls": 47,
+          "fours": 10,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Sanju Samson (c)"
+          },
+          "status": "st Jitesh Sharma b Krunal Pandya",
+          "runs": 15,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "c Virat Kohli b Yash Dayal",
+          "runs": 30,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "not out",
+          "runs": 35,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Devdutt Padikkal b Bhuvneshwar Kumar",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 5
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Yashasvi Jaiswal b Kumar Kartikeya Singh",
+          "runs": 65,
+          "balls": 33,
+          "fours": 5,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "not out",
+          "runs": 62,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "not out",
+          "runs": 40,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "2.3",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Kumar Kartikeya Singh"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
