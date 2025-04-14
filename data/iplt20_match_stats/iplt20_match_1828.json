@@ -1,0 +1,296 @@
+{
+  "matchTitle": "Lucknow Super Giants vs Chennai Super Kings",
+  "manOfTheMatch": "MS Dhoni",
+  "innings": [
+    {
+      "teamName": "Lucknow Super Giants 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Rahul Tripathi b Khaleel Ahmed",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "b Ravindra Jadeja",
+          "runs": 30,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "lbw Anshul Kamboj",
+          "runs": 8,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Ms Dhoni b Matheesha Pathirana",
+          "runs": 63,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "st Ms Dhoni b Ravindra Jadeja",
+          "runs": 22,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "run out (Ms Dhoni)",
+          "runs": 20,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "status": "c Shaik Rasheed b Matheesha Pathirana",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 1,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Jamie Overton"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 2,
+          "dots": 10
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Chennai Super Kings 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Shaik Rasheed"
+          },
+          "status": "c Nicholas Pooran b Avesh Khan",
+          "runs": 27,
+          "balls": 19,
+          "fours": 6,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rachin Ravindra"
+          },
+          "status": "lbw Aiden Markram",
+          "runs": 37,
+          "balls": 22,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rahul Tripathi"
+          },
+          "status": "c & b Ravi Bishnoi",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "c Aiden Markram b Ravi Bishnoi",
+          "runs": 7,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "not out",
+          "runs": 43,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Vijay Shankar"
+          },
+          "status": "c Avesh Khan b Digvesh Singh",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "not out",
+          "runs": 26,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 56,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Akash Deep"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "3.3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}

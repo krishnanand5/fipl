@@ -10,7 +10,7 @@
     "maidens": 0
   },
   "PPT": {
-    "runs_25": 23,
+    "runs_25": 26,
     "runs_50": 5,
     "runs_75": 1,
     "runs_100": 1,
@@ -70,8 +70,8 @@
     "maidens": 1
   },
   "Unknown": {
-    "runs_25": 5,
-    "runs_50": 1,
+    "runs_25": 7,
+    "runs_50": 2,
     "runs_75": 0,
     "runs_100": 0,
     "wickets_3": 3,
