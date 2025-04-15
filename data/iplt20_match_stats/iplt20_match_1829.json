@@ -1,6 +1,6 @@
 {
   "matchTitle": "Punjab Kings vs Kolkata Knight Riders",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Yuzvendra Chahal",
   "innings": [
     {
       "teamName": "Punjab Kings 1st",
@@ -174,8 +174,170 @@
     },
     {
       "teamName": "Kolkata Knight Riders 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Quinton De Kock"
+          },
+          "status": "c Suryansh Shedge b Xavier Bartlett",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "b Marco Jansen",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "lbw Yuzvendra Chahal",
+          "runs": 17,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Xavier Bartlett b Yuzvendra Chahal",
+          "runs": 37,
+          "balls": 28,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Venkatesh Iyer"
+          },
+          "status": "lbw Glenn Maxwell",
+          "runs": 7,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "st Josh Inglis b Yuzvendra Chahal",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "b Marco Jansen",
+          "runs": 17,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ramandeep Singh"
+          },
+          "status": "c Shreyas Iyer b Yuzvendra Chahal",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "status": "b Marco Jansen",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "status": "c Josh Inglis b Arshdeep Singh",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Anrich Nortje"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "3.1",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 3,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Xavier Bartlett"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "3",
+          "maidens": 1,
+          "runs": 11,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 4,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 1,
+          "dots": 7
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
