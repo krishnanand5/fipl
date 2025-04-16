@@ -1,0 +1,286 @@
+{
+  "matchTitle": "Delhi Capitals vs Rajasthan Royals",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Delhi Capitals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Jake Fraser - McGurk"
+          },
+          "status": "c Yashasvi Jaiswal b Jofra Archer",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c Riyan Parag b Wanindu Hasaranga",
+          "runs": 49,
+          "balls": 37,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Karun Nair"
+          },
+          "status": "run out (Sandeep Sharma)",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "c Shimron Hetmyer b Jofra Archer",
+          "runs": 38,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "not out",
+          "runs": 34,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "c Dhruv Jurel b Maheesh Theekshana",
+          "runs": 34,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ashutosh Sharma"
+          },
+          "status": "not out",
+          "runs": 15,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Rajasthan Royals 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "c Mitchell Starc b Kuldeep Yadav",
+          "runs": 51,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Sanju Samson (c)"
+          },
+          "status": "not out",
+          "runs": 31,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "b Axar Patel",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "lbw Mitchell Starc",
+          "runs": 51,
+          "balls": 28,
+          "fours": 6,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "run out (Axar Patel)",
+          "runs": 26,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "not out",
+          "runs": 15,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Mohit Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
