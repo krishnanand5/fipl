@@ -1,0 +1,154 @@
+{
+  "matchTitle": "Mumbai Indians vs Sunrisers Hyderabad",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Mumbai Indians 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c (Sub) Raj Angad Bawa b Hardik Pandya",
+          "runs": 40,
+          "balls": 28,
+          "fours": 7,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Mitchell Santner b Will Jacks",
+          "runs": 28,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "st Ryan Rickelton b Will Jacks",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "c N Tilak Varma b Trent Boult",
+          "runs": 19,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "b Jasprit Bumrah",
+          "runs": 37,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "not out",
+          "runs": 18,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "status": "not out",
+          "runs": 8,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Sunrisers Hyderabad 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
