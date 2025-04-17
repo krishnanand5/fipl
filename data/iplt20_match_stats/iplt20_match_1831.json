@@ -1,6 +1,6 @@
 {
   "matchTitle": "Mumbai Indians vs Sunrisers Hyderabad",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Will Jacks",
   "innings": [
     {
       "teamName": "Mumbai Indians 1st",
@@ -144,8 +144,150 @@
     },
     {
       "teamName": "Sunrisers Hyderabad 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "c Travis Head b Harshal Patel",
+          "runs": 31,
+          "balls": 23,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Travis Head b Pat Cummins",
+          "runs": 26,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "c Zeeshan Ansari b Pat Cummins",
+          "runs": 36,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Zeeshan Ansari b Pat Cummins",
+          "runs": 26,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "not out",
+          "runs": 21,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "c Ishan Kishan b Eshan Malinga",
+          "runs": 21,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "lbw Eshan Malinga",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 3,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Eshan Malinga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "3.1",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Rahul Chahar"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
