@@ -1,0 +1,184 @@
+{
+  "matchTitle": "Royal Challengers Bengaluru vs Punjab Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Royal Challengers Bengaluru 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Josh Inglis b Arshdeep Singh",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Marco Jansen b Arshdeep Singh",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "c Xavier Bartlett b Yuzvendra Chahal",
+          "runs": 23,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "status": "c Priyansh Arya b Xavier Bartlett",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma"
+          },
+          "status": "c Nehal Wadhera b Yuzvendra Chahal",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "status": "c & b Marco Jansen",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tim David"
+          },
+          "status": "not out",
+          "runs": 50,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Manoj Bhandage"
+          },
+          "status": "lbw Marco Jansen",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "status": "c Xavier Bartlett b Harpreet Brar",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "status": "lbw Harpreet Brar",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Xavier Bartlett"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 2,
+          "dots": 8
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Punjab Kings 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
