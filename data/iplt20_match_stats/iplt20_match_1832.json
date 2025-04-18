@@ -1,6 +1,6 @@
 {
   "matchTitle": "Royal Challengers Bengaluru vs Punjab Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Tim David",
   "innings": [
     {
       "teamName": "Royal Challengers Bengaluru 1st",
@@ -174,8 +174,130 @@
     },
     {
       "teamName": "Punjab Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Tim David b Josh Hazlewood",
+          "runs": 16,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Tim David b Bhuvneshwar Kumar",
+          "runs": 13,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 7,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "c Suyash Sharma b Josh Hazlewood",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "not out",
+          "runs": 33,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "c Phil Salt b Bhuvneshwar Kumar",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "not out",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "2.1",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 3,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "dots": 9
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
