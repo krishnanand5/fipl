@@ -1,0 +1,276 @@
+{
+  "matchTitle": "Rajasthan Royals vs Lucknow Super Giants",
+  "manOfTheMatch": "Avesh Khan",
+  "innings": [
+    {
+      "teamName": "Rajasthan Royals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Shimron Hetmyer b Jofra Archer",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Riyan Parag b Wanindu Hasaranga",
+          "runs": 66,
+          "balls": 45,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "lbw Sandeep Sharma",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Dhruv Jurel b Wanindu Hasaranga",
+          "runs": 3,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "c Shubham Dubey b Tushar Deshpande",
+          "runs": 50,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "not out",
+          "runs": 7,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "not out",
+          "runs": 30,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 4
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 55,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 2,
+          "dots": 8
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Lucknow Super Giants 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "b Avesh Khan",
+          "runs": 74,
+          "balls": 52,
+          "fours": 5,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Vaibhav Suryavanshi"
+          },
+          "status": "st Rishabh Pant b Aiden Markram",
+          "runs": 34,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "c Avesh Khan b Shardul Thakur",
+          "runs": 8,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "lbw Avesh Khan",
+          "runs": 39,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "not out",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Shardul Thakur b Avesh Khan",
+          "runs": 12,
+          "balls": 7,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubham Dubey"
+          },
+          "status": "not out",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 3,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
