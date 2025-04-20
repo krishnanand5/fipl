@@ -1,0 +1,256 @@
+{
+  "matchTitle": "Mumbai Indians vs Chennai Super Kings",
+  "manOfTheMatch": "Rohit Sharma",
+  "innings": [
+    {
+      "teamName": "Mumbai Indians 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Shaik Rasheed"
+          },
+          "status": "st Ryan Rickelton b Mitchell Santner",
+          "runs": 19,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rachin Ravindra"
+          },
+          "status": "c Ryan Rickelton b Ashwani Kumar",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ayush Mhatre"
+          },
+          "status": "c Mitchell Santner b Deepak Chahar",
+          "runs": 32,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "not out",
+          "runs": 53,
+          "balls": 35,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c Will Jacks b Jasprit Bumrah",
+          "runs": 50,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "c N Tilak Varma b Jasprit Bumrah",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jamie Overton"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Ashwani Kumar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Chennai Super Kings 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "c Ayush Mhatre b Ravindra Jadeja",
+          "runs": 24,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "not out",
+          "runs": 76,
+          "balls": 45,
+          "fours": 4,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "not out",
+          "runs": 68,
+          "balls": 30,
+          "fours": 6,
+          "sixes": 5
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Jamie Overton"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "1.4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
