@@ -1,0 +1,286 @@
+{
+  "matchTitle": "Punjab Kings vs Royal Challengers Bengaluru",
+  "manOfTheMatch": "Virat Kohli",
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Tim David b Krunal Pandya",
+          "runs": 22,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Tim David b Krunal Pandya",
+          "runs": 33,
+          "balls": 17,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "c Krunal Pandya b Romario Shepherd",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "b Suyash Sharma",
+          "runs": 29,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "run out (Virat Kohli)",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "not out",
+          "runs": 31,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "b Suyash Sharma",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "status": "not out",
+          "runs": 25,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 2,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Josh Inglis b Arshdeep Singh",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "not out",
+          "runs": 73,
+          "balls": 54,
+          "fours": 7,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "c Nehal Wadhera b Harpreet Brar",
+          "runs": 61,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "c Marco Jansen b Yuzvendra Chahal",
+          "runs": 12,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma"
+          },
+          "status": "not out",
+          "runs": 11,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Xavier Bartlett"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "overs": "0.5",
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
