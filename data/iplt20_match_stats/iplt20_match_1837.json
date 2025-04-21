@@ -1,6 +1,6 @@
 {
   "matchTitle": "Kolkata Knight Riders vs Gujarat Titans",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Shubman Gill",
   "innings": [
     {
       "teamName": "Kolkata Knight Riders 1st",
@@ -124,8 +124,170 @@
     },
     {
       "teamName": "Gujarat Titans 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rahmanullah Gurbaz"
+          },
+          "status": "lbw Mohammed Siraj",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "c Rahul Tewatia b Rashid Khan",
+          "runs": 17,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "st Jos Buttler b Washington Sundar",
+          "runs": 50,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Venkatesh Iyer"
+          },
+          "status": "c Washington Sundar b Sai Kishore",
+          "runs": 14,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "c Shubman Gill b Ishant Sharma",
+          "runs": 17,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "st Jos Buttler b Rashid Khan",
+          "runs": 21,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ramandeep Singh"
+          },
+          "status": "c & b Prasidh Krishna",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Moeen Ali"
+          },
+          "status": "c Shahrukh Khan b Prasidh Krishna",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "not out",
+          "runs": 27,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Ishant Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
