@@ -1,0 +1,134 @@
+{
+  "matchTitle": "Kolkata Knight Riders vs Gujarat Titans",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Kolkata Knight Riders 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Rahmanullah Gurbaz b Andre Russell",
+          "runs": 52,
+          "balls": 36,
+          "fours": 6,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "c Rinku Singh b Vaibhav Arora",
+          "runs": 90,
+          "balls": 55,
+          "fours": 10,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "not out",
+          "runs": 41,
+          "balls": 23,
+          "fours": 8,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "c Ramandeep Singh b Harshit Rana",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "not out",
+          "runs": 11,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Moeen Ali"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Gujarat Titans 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
