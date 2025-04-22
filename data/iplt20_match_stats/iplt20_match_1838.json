@@ -1,0 +1,154 @@
+{
+  "matchTitle": "Lucknow Super Giants vs Delhi Capitals",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Lucknow Super Giants 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Tristan Stubbs b Dushmantha Chameera",
+          "runs": 52,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "b Mukesh Kumar",
+          "runs": 45,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "b Mitchell Starc",
+          "runs": 9,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "c & b Mukesh Kumar",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "not out",
+          "runs": 14,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "b Mukesh Kumar",
+          "runs": 36,
+          "balls": 21,
+          "fours": 6,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "b Mukesh Kumar",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 4,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Dushmantha Chameera"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "dots": 0
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Delhi Capitals 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
