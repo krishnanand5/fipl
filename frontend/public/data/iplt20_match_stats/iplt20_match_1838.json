@@ -1,6 +1,6 @@
 {
   "matchTitle": "Lucknow Super Giants vs Delhi Capitals",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Mukesh Kumar",
   "innings": [
     {
       "teamName": "Lucknow Super Giants 1st",
@@ -144,8 +144,110 @@
     },
     {
       "teamName": "Delhi Capitals 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c David Miller b Aiden Markram",
+          "runs": 51,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Karun Nair"
+          },
+          "status": "b Aiden Markram",
+          "runs": 15,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "not out",
+          "runs": 57,
+          "balls": 42,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "not out",
+          "runs": 34,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 4
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Shardul Thakur"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "overs": "2.5",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 2,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
