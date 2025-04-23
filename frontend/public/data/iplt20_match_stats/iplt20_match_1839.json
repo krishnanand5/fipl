@@ -1,0 +1,174 @@
+{
+  "matchTitle": "Sunrisers Hyderabad vs Mumbai Indians",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Sunrisers Hyderabad 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Naman Dhir b Trent Boult",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c Vignesh Puthur b Trent Boult",
+          "runs": 8,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "c Ryan Rickelton b Deepak Chahar",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "c Mitchell Santner b Deepak Chahar",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "c N Tilak Varma b Jasprit Bumrah",
+          "runs": 71,
+          "balls": 44,
+          "fours": 9,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "c Ryan Rickelton b Hardik Pandya",
+          "runs": 12,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abhinav Manohar"
+          },
+          "status": "Hit Wicket b Trent Boult",
+          "runs": 43,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "status": "b Trent Boult",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "dots": 17
+        },
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 4,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Vignesh Puthur"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
