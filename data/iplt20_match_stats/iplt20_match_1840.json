@@ -1,6 +1,6 @@
 {
   "matchTitle": "Royal Challengers Bengaluru vs Rajasthan Royals",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Josh Hazlewood",
   "innings": [
     {
       "teamName": "Royal Challengers Bengaluru 1st",
@@ -134,8 +134,180 @@
     },
     {
       "teamName": "Rajasthan Royals 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "c Romario Shepherd b Josh Hazlewood",
+          "runs": 49,
+          "balls": 19,
+          "fours": 7,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Vaibhav Suryavanshi"
+          },
+          "status": "b Bhuvneshwar Kumar",
+          "runs": 16,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "c Bhuvneshwar Kumar b Krunal Pandya",
+          "runs": 28,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "c Jitesh Sharma b Krunal Pandya",
+          "runs": 22,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 47,
+          "balls": 34,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 11,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubham Dubey"
+          },
+          "status": "c Phil Salt b Yash Dayal",
+          "runs": 12,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "status": "c Rajat Patidar b Josh Hazlewood",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "status": "run out (Tim David)",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Fazalhaq Farooqi"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 50,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 4,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 2,
+          "dots": 8
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
