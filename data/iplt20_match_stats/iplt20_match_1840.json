@@ -1,0 +1,144 @@
+{
+  "matchTitle": "Royal Challengers Bengaluru vs Rajasthan Royals",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Royal Challengers Bengaluru 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Shimron Hetmyer b Wanindu Hasaranga",
+          "runs": 26,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Nitish Rana b Jofra Archer",
+          "runs": 70,
+          "balls": 42,
+          "fours": 8,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "c Nitish Rana b Sandeep Sharma",
+          "runs": 50,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Tim David"
+          },
+          "status": "run out (Shimron Hetmyer)",
+          "runs": 23,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "c Dhruv Jurel b Sandeep Sharma",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma"
+          },
+          "status": "not out",
+          "runs": 20,
+          "balls": 10,
+          "fours": 4,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Fazalhaq Farooqi"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 5
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Rajasthan Royals 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
