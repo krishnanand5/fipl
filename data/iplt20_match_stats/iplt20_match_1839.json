@@ -1,6 +1,6 @@
 {
   "matchTitle": "Sunrisers Hyderabad vs Mumbai Indians",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Trent Boult",
   "innings": [
     {
       "teamName": "Sunrisers Hyderabad 1st",
@@ -164,8 +164,110 @@
     },
     {
       "teamName": "Mumbai Indians 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "c & b Jaydev Unadkat",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Abhishek Sharma b Eshan Malinga",
+          "runs": 70,
+          "balls": 46,
+          "fours": 8,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "c Abhinav Manohar b Zeeshan Ansari",
+          "runs": 22,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "not out",
+          "runs": 40,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Jaydev Unadkat"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Eshan Malinga"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "3.4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 6
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
