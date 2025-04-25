@@ -1926,6 +1926,77 @@
     "total_points": 580
   },
   {
+    "player_name": "Harshal Patel",
+    "franchise": "CNI",
+    "matches": [
+      {
+        "match_id": "1800",
+        "batting_points": 0,
+        "bowling_points": 71,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 71
+      },
+      {
+        "match_id": "1805",
+        "batting_points": 13,
+        "bowling_points": 23,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 51
+      },
+      {
+        "match_id": "1808",
+        "batting_points": 1,
+        "bowling_points": 26,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 27
+      },
+      {
+        "match_id": "1813",
+        "batting_points": 1,
+        "bowling_points": 36,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 52
+      },
+      {
+        "match_id": "1825",
+        "batting_points": 0,
+        "bowling_points": 138,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 138
+      },
+      {
+        "match_id": "1831",
+        "batting_points": 0,
+        "bowling_points": 32,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 32
+      },
+      {
+        "match_id": "1839",
+        "batting_points": 1,
+        "bowling_points": 21,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 22
+      },
+      {
+        "match_id": "1841",
+        "batting_points": 0,
+        "bowling_points": 159,
+        "fielding_points": 0,
+        "mom": 25,
+        "total": 184
+      }
+    ],
+    "total_points": 577
+  },
+  {
     "player_name": "Pat Cummins",
     "franchise": "UUCC",
     "matches": [
@@ -2240,77 +2311,6 @@
       }
     ],
     "total_points": 554
-  },
-  {
-    "player_name": "Harshal Patel",
-    "franchise": "CNI",
-    "matches": [
-      {
-        "match_id": "1800",
-        "batting_points": 0,
-        "bowling_points": 71,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 71
-      },
-      {
-        "match_id": "1805",
-        "batting_points": 13,
-        "bowling_points": 23,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 51
-      },
-      {
-        "match_id": "1808",
-        "batting_points": 1,
-        "bowling_points": 26,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 27
-      },
-      {
-        "match_id": "1813",
-        "batting_points": 1,
-        "bowling_points": 36,
-        "fielding_points": 15,
-        "mom": 0,
-        "total": 52
-      },
-      {
-        "match_id": "1825",
-        "batting_points": 0,
-        "bowling_points": 138,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 138
-      },
-      {
-        "match_id": "1831",
-        "batting_points": 0,
-        "bowling_points": 32,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 32
-      },
-      {
-        "match_id": "1839",
-        "batting_points": 1,
-        "bowling_points": 21,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 22
-      },
-      {
-        "match_id": "1841",
-        "batting_points": 0,
-        "bowling_points": 159,
-        "fielding_points": 0,
-        "mom": 0,
-        "total": 159
-      }
-    ],
-    "total_points": 552
   },
   {
     "player_name": "Axar Patel",

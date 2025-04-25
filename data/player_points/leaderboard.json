@@ -156,6 +156,12 @@
     "total_points": 580
   },
   {
+    "player_name": "Harshal Patel",
+    "franchise": "CNI",
+    "matches_played": 8,
+    "total_points": 577
+  },
+  {
     "player_name": "Pat Cummins",
     "franchise": "UUCC",
     "matches_played": 9,
@@ -178,12 +184,6 @@
     "franchise": "SKKK",
     "matches_played": 9,
     "total_points": 554
-  },
-  {
-    "player_name": "Harshal Patel",
-    "franchise": "CNI",
-    "matches_played": 8,
-    "total_points": 552
   },
   {
     "player_name": "Axar Patel",
