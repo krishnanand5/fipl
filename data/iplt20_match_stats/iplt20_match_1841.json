@@ -1,0 +1,194 @@
+{
+  "matchTitle": "Chennai Super Kings vs Sunrisers Hyderabad",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Chennai Super Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Shaik Rasheed"
+          },
+          "status": "c Abhishek Sharma b Mohammad Shami",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ayush Mhatre"
+          },
+          "status": "c Ishan Kishan b Pat Cummins",
+          "runs": 30,
+          "balls": 19,
+          "fours": 6,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "status": "c Aniket Verma b Harshal Patel",
+          "runs": 9,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "b Kamindu Mendis",
+          "runs": 21,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Dewald Brevis"
+          },
+          "status": "c Kamindu Mendis b Harshal Patel",
+          "runs": 42,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c Abhishek Sharma b Jaydev Unadkat",
+          "runs": 12,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Deepak Hooda"
+          },
+          "status": "c Abhishek Sharma b Jaydev Unadkat",
+          "runs": 22,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "c Abhishek Sharma b Harshal Patel",
+          "runs": 6,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "status": "c Heinrich Klaasen b Pat Cummins",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "status": "c Mohammad Shami b Harshal Patel",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Jaydev Unadkat"
+          },
+          "overs": "2.5",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 4,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Kamindu Mendis"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Sunrisers Hyderabad 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
