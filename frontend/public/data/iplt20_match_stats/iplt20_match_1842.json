@@ -1,0 +1,176 @@
+{
+  "matchTitle": "Kolkata Knight Riders vs Punjab Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Kolkata Knight Riders 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Vaibhav Arora b Andre Russell",
+          "runs": 69,
+          "balls": 35,
+          "fours": 8,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Rovman Powell b Vaibhav Arora",
+          "runs": 83,
+          "balls": 49,
+          "fours": 6,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "not out",
+          "runs": 25,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Glenn Maxwell"
+          },
+          "status": "b Varun Chakaravarthy",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "status": "c Venkatesh Iyer b Vaibhav Arora",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "not out",
+          "runs": 11,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Chetan Sakariya"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Punjab Kings 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rahmanullah Gurbaz"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
