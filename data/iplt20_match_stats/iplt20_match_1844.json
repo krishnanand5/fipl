@@ -1,0 +1,174 @@
+{
+  "matchTitle": "Delhi Capitals vs Royal Challengers Bengaluru",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Delhi Capitals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 28,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Faf Du Plessis"
+          },
+          "status": "c Virat Kohli b Krunal Pandya",
+          "runs": 22,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Karun Nair"
+          },
+          "status": "c Bhuvneshwar Kumar b Yash Dayal",
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "c Jacob Bethell b Bhuvneshwar Kumar",
+          "runs": 41,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "b Josh Hazlewood",
+          "runs": 15,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "c Josh Hazlewood b Bhuvneshwar Kumar",
+          "runs": 34,
+          "balls": 18,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ashutosh Sharma"
+          },
+          "status": "b Bhuvneshwar Kumar",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "status": "run out (Virat Kohli)",
+          "runs": 12,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dushmantha Chameera"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 3,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 5
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}

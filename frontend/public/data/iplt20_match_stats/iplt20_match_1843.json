@@ -1,0 +1,346 @@
+{
+  "matchTitle": "Mumbai Indians vs Lucknow Super Giants",
+  "manOfTheMatch": "Will Jacks",
+  "innings": [
+    {
+      "teamName": "Mumbai Indians 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "c Ayush Badoni b Digvesh Singh",
+          "runs": 58,
+          "balls": 32,
+          "fours": 6,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Prince Yadav b Mayank Yadav",
+          "runs": 12,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "b Prince Yadav",
+          "runs": 29,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Mitchell Marsh b Avesh Khan",
+          "runs": 54,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "c Prince Yadav b Ravi Bishnoi",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "b Mayank Yadav",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "not out",
+          "runs": 25,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Corbin Bosch"
+          },
+          "status": "c Nicholas Pooran b Avesh Khan",
+          "runs": 20,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mayank Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 2,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Lucknow Super Giants 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c N Tilak Varma b Trent Boult",
+          "runs": 34,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Naman Dhir b Jasprit Bumrah",
+          "runs": 9,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "c Surya Kumar Yadav b Will Jacks",
+          "runs": 27,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Karn Sharma b Will Jacks",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "c Will Jacks b Trent Boult",
+          "runs": 35,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "c Corbin Bosch b Jasprit Bumrah",
+          "runs": 24,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "b Jasprit Bumrah",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravi Bishnoi"
+          },
+          "status": "b Corbin Bosch",
+          "runs": 13,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "status": "b Jasprit Bumrah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "status": "b Trent Boult",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 3,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 4,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Karn Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Corbin Bosch"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 14
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
