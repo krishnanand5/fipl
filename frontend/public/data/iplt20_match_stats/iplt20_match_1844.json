@@ -1,6 +1,6 @@
 {
   "matchTitle": "Delhi Capitals vs Royal Challengers Bengaluru",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Krunal Pandya",
   "innings": [
     {
       "teamName": "Delhi Capitals 1st",
@@ -164,8 +164,130 @@
     },
     {
       "teamName": "Royal Challengers Bengaluru 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Jacob Bethell"
+          },
+          "status": "c Karun Nair b Axar Patel",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Mitchell Starc b Dushmantha Chameera",
+          "runs": 51,
+          "balls": 47,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Devdutt Padikkal"
+          },
+          "status": "b Axar Patel",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "run out (Karun Nair)",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "status": "not out",
+          "runs": 73,
+          "balls": 47,
+          "fours": 5,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Tim David"
+          },
+          "status": "not out",
+          "runs": 19,
+          "balls": 5,
+          "fours": 3,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "3.3",
+          "maidens": 0,
+          "runs": 51,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Dushmantha Chameera"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "dots": 3
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
