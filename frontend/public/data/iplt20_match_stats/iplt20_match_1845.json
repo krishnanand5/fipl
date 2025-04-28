@@ -134,8 +134,120 @@
     },
     {
       "teamName": "Gujarat Titans 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "not out",
+          "runs": 70,
+          "balls": 40,
+          "fours": 9,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Vaibhav Suryavanshi"
+          },
+          "status": "b Prasidh Krishna",
+          "runs": 101,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 11
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "lbw Rashid Khan",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "not out",
+          "runs": 32,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Ishant Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "overs": "1.5",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Karim Janat"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 0
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""

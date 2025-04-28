@@ -1,7 +1,7 @@
 {
   "SKKK": {
     "runs_25": 15,
-    "runs_50": 9,
+    "runs_50": 10,
     "runs_75": 4,
     "runs_100": 1,
     "wickets_3": 6,
@@ -10,7 +10,7 @@
     "maidens": 0
   },
   "PPT": {
-    "runs_25": 30,
+    "runs_25": 31,
     "runs_50": 6,
     "runs_75": 1,
     "runs_100": 1,
@@ -73,7 +73,7 @@
     "runs_25": 11,
     "runs_50": 2,
     "runs_75": 0,
-    "runs_100": 0,
+    "runs_100": 1,
     "wickets_3": 3,
     "wickets_5": 0,
     "wickets_7": 0,
