@@ -1,0 +1,144 @@
+{
+  "matchTitle": "Rajasthan Royals vs Gujarat Titans",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Rajasthan Royals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Riyan Parag b Maheesh Theekshana",
+          "runs": 39,
+          "balls": 30,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "c Riyan Parag b Maheesh Theekshana",
+          "runs": 84,
+          "balls": 50,
+          "fours": 5,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "not out",
+          "runs": 50,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "status": "c Shimron Hetmyer b Sandeep Sharma",
+          "runs": 13,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "lbw Jofra Archer",
+          "runs": 9,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "not out",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 49,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 2,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Yudhvir Singh Charak"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Sandeep Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "dots": 0
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 5
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Gujarat Titans 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
