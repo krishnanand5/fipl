@@ -1,0 +1,174 @@
+{
+  "matchTitle": "Team 1 vs Team 2",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Team 1 1st",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Team 2 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rahmanullah Gurbaz"
+          },
+          "status": "c Abishek Porel b Mitchell Starc",
+          "runs": 26,
+          "balls": 12,
+          "fours": 5,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "lbw Vipraj Nigam",
+          "runs": 27,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "lbw Axar Patel",
+          "runs": 26,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Karun Nair b Dushmantha Chameera",
+          "runs": 44,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Venkatesh Iyer"
+          },
+          "status": "c Vipraj Nigam b Axar Patel",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "c Mitchell Starc b Vipraj Nigam",
+          "runs": 36,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "not out",
+          "runs": 17,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rovman Powell"
+          },
+          "status": "lbw Mitchell Starc",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Anukul Roy"
+          },
+          "status": "c Dushmantha Chameera b Mitchell Starc",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "overs": "3.4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 3,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Dushmantha Chameera"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
