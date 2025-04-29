@@ -1,17 +1,9 @@
 {
-  "matchTitle": "Team 1 vs Team 2",
-  "manOfTheMatch": null,
+  "matchTitle": "Delhi Capitals vs Kolkata Knight Riders",
+  "manOfTheMatch": "Sunil Narine",
   "innings": [
     {
-      "teamName": "Team 1 1st",
-      "battingRecords": [],
-      "bowlingRecords": [],
-      "extras": "",
-      "total": "",
-      "fallOfWickets": ""
-    },
-    {
-      "teamName": "Team 2 2nd",
+      "teamName": "Delhi Capitals 1st",
       "battingRecords": [
         {
           "player": {
@@ -77,7 +69,7 @@
           "player": {
             "name": "Andre Russell"
           },
-          "status": "not out",
+          "status": "run out (Abishek Porel)",
           "runs": 17,
           "balls": 9,
           "fours": 2,
@@ -102,6 +94,26 @@
           "balls": 1,
           "fours": 0,
           "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
         }
       ],
       "bowlingRecords": [
@@ -109,11 +121,11 @@
           "player": {
             "name": "Mitchell Starc"
           },
-          "overs": "3.4",
+          "overs": "4",
           "maidens": 0,
-          "runs": 42,
+          "runs": 43,
           "wickets": 3,
-          "dots": 11
+          "dots": 12
         },
         {
           "player": {
@@ -164,6 +176,186 @@
           "runs": 27,
           "wickets": 0,
           "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Kolkata Knight Riders 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c Andre Russell b Anukul Roy",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Faf Du Plessis"
+          },
+          "status": "c Rinku Singh b Sunil Narine",
+          "runs": 62,
+          "balls": 45,
+          "fours": 7,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Karun Nair"
+          },
+          "status": "lbw Vaibhav Arora",
+          "runs": 15,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "run out (Sunil Narine)",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "c Harshit Rana b Sunil Narine",
+          "runs": 43,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "b Sunil Narine",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "status": "b Andre Russell",
+          "runs": 38,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Ashutosh Sharma"
+          },
+          "status": "c Sunil Narine b Varun Chakaravarthy",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "status": "c Rahmanullah Gurbaz b Varun Chakaravarthy",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dushmantha Chameera"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Anukul Roy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 49,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 3,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "dots": 5
         }
       ],
       "extras": "",
