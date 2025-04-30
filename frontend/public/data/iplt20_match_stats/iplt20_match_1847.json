@@ -1,0 +1,194 @@
+{
+  "matchTitle": "Chennai Super Kings vs Punjab Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Chennai Super Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Shaik Rasheed"
+          },
+          "status": "c Shashank Singh b Arshdeep Singh",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ayush Mhatre"
+          },
+          "status": "c Shreyas Iyer b Marco Jansen",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "status": "c Josh Inglis b Marco Jansen",
+          "runs": 88,
+          "balls": 47,
+          "fours": 9,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "c Josh Inglis b Harpreet Brar",
+          "runs": 17,
+          "balls": 12,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dewald Brevis"
+          },
+          "status": "b Azmatullah Omarzai",
+          "runs": 32,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c Shashank Singh b Arshdeep Singh",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "c Nehal Wadhera b Yuzvendra Chahal",
+          "runs": 11,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Deepak Hooda"
+          },
+          "status": "c Priyansh Arya b Yuzvendra Chahal",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "status": "b Yuzvendra Chahal",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "status": "c Marco Jansen b Yuzvendra Chahal",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "3.2",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 2,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 4,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Suryansh Shedge"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Punjab Kings 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
