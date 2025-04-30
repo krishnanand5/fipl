@@ -1,6 +1,6 @@
 {
   "matchTitle": "Chennai Super Kings vs Punjab Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Shreyas Iyer",
   "innings": [
     {
       "teamName": "Chennai Super Kings 1st",
@@ -184,8 +184,150 @@
     },
     {
       "teamName": "Punjab Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Ms Dhoni b Khaleel Ahmed",
+          "runs": 23,
+          "balls": 15,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Dewald Brevis b Noor Ahmad",
+          "runs": 54,
+          "balls": 36,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "b Matheesha Pathirana",
+          "runs": 72,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "c Ravindra Jadeja b Matheesha Pathirana",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "c Dewald Brevis b Ravindra Jadeja",
+          "runs": 23,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "not out",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Suryansh Shedge"
+          },
+          "status": "c Noor Ahmad b Khaleel Ahmed",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "3.4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 2,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 2,
+          "dots": 6
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""

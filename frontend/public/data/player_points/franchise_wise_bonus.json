@@ -1,7 +1,7 @@
 {
   "SKKK": {
     "runs_25": 15,
-    "runs_50": 10,
+    "runs_50": 11,
     "runs_75": 4,
     "runs_100": 1,
     "wickets_3": 6,
@@ -31,7 +31,7 @@
   },
   "UUCC": {
     "runs_25": 29,
-    "runs_50": 9,
+    "runs_50": 10,
     "runs_75": 3,
     "runs_100": 0,
     "wickets_3": 7,
