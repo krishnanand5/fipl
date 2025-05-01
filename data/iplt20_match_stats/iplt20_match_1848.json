@@ -1,0 +1,296 @@
+{
+  "matchTitle": "Rajasthan Royals vs Mumbai Indians",
+  "manOfTheMatch": "Ryan Rickelton",
+  "innings": [
+    {
+      "teamName": "Rajasthan Royals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "b Maheesh Theekshana",
+          "runs": 61,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Yashasvi Jaiswal b Riyan Parag",
+          "runs": 53,
+          "balls": 36,
+          "fours": 9,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "not out",
+          "runs": 48,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "not out",
+          "runs": 48,
+          "balls": 23,
+          "fours": 6,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Fazalhaq Farooqi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 54,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Kumar Kartikeya Singh"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Akash Madhwal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 1,
+          "dots": 5
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "b Trent Boult",
+          "runs": 13,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Vaibhav Suryavanshi"
+          },
+          "status": "c Will Jacks b Deepak Chahar",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Rana"
+          },
+          "status": "c N Tilak Varma b Trent Boult",
+          "runs": 9,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "c Rohit Sharma b Jasprit Bumrah",
+          "runs": 16,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "c & b Karn Sharma",
+          "runs": 11,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "c Surya Kumar Yadav b Jasprit Bumrah",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubham Dubey"
+          },
+          "status": "c Trent Boult b Hardik Pandya",
+          "runs": 15,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "status": "c Jasprit Bumrah b Trent Boult",
+          "runs": 30,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "status": "c Surya Kumar Yadav b Karn Sharma",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kumar Kartikeya Singh"
+          },
+          "status": "c Deepak Chahar b Karn Sharma",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Akash Madhwal"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "2.1",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 3,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 2,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Corbin Bosch"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 2,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Karn Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 3,
+          "dots": 10
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
