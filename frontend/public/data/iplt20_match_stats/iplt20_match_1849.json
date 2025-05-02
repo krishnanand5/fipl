@@ -1,0 +1,154 @@
+{
+  "matchTitle": "Gujarat Titans vs Sunrisers Hyderabad",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Gujarat Titans 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Heinrich Klaasen b Zeeshan Ansari",
+          "runs": 48,
+          "balls": 23,
+          "fours": 9,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "run out (Harshal Patel)",
+          "runs": 76,
+          "balls": 38,
+          "fours": 10,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "c Abhishek Sharma b Pat Cummins",
+          "runs": 64,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "status": "c Nitish Kumar Reddy b Jaydev Unadkat",
+          "runs": 21,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "not out",
+          "runs": 6,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "c Aniket Verma b Jaydev Unadkat",
+          "runs": 6,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "c & b Jaydev Unadkat",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammad Shami"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Jaydev Unadkat"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 3,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Kamindu Mendis"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Sunrisers Hyderabad 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
