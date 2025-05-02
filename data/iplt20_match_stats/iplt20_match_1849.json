@@ -1,6 +1,6 @@
 {
   "matchTitle": "Gujarat Titans vs Sunrisers Hyderabad",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Prasidh Krishna",
   "innings": [
     {
       "teamName": "Gujarat Titans 1st",
@@ -144,8 +144,160 @@
     },
     {
       "teamName": "Sunrisers Hyderabad 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Rashid Khan b Prasidh Krishna",
+          "runs": 20,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c Mohammed Siraj b Ishant Sharma",
+          "runs": 74,
+          "balls": 41,
+          "fours": 4,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "c Prasidh Krishna b Gerald Coetzee",
+          "runs": 13,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "c Jos Buttler b Prasidh Krishna",
+          "runs": 23,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "c Shahrukh Khan b Mohammed Siraj",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "not out",
+          "runs": 21,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Kamindu Mendis"
+          },
+          "status": "c Jos Buttler b Mohammed Siraj",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "status": "not out",
+          "runs": 19,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Ishant Sharma"
+          },
+          "overs": "3.2",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Gerald Coetzee"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 50,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "0.4",
+          "maidens": 0,
+          "runs": 1,
+          "wickets": 0,
+          "dots": 3
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
