@@ -1,6 +1,6 @@
 {
   "matchTitle": "Royal Challengers Bengaluru vs Chennai Super Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Romario Shepherd",
   "innings": [
     {
       "teamName": "Royal Challengers Bengaluru 1st",
@@ -144,8 +144,140 @@
     },
     {
       "teamName": "Chennai Super Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ayush Mhatre"
+          },
+          "status": "c Krunal Pandya b Lungisani Ngidi",
+          "runs": 94,
+          "balls": 48,
+          "fours": 9,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Shaik Rasheed"
+          },
+          "status": "c Romario Shepherd b Krunal Pandya",
+          "runs": 14,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Sam Curran"
+          },
+          "status": "c Jitesh Sharma b Lungisani Ngidi",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "not out",
+          "runs": 77,
+          "balls": 45,
+          "fours": 8,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Dewald Brevis"
+          },
+          "status": "lbw Lungisani Ngidi",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "lbw Yash Dayal",
+          "runs": 12,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "not out",
+          "runs": 8,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 55,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Lungisani Ngidi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 3,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
