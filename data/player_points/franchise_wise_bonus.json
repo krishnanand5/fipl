@@ -21,7 +21,7 @@
   },
   "TVK": {
     "runs_25": 11,
-    "runs_50": 16,
+    "runs_50": 17,
     "runs_75": 4,
     "runs_100": 0,
     "wickets_3": 4,
@@ -41,10 +41,10 @@
   },
   "TKTK": {
     "runs_25": 26,
-    "runs_50": 8,
+    "runs_50": 9,
     "runs_75": 4,
     "runs_100": 0,
-    "wickets_3": 6,
+    "wickets_3": 7,
     "wickets_5": 1,
     "wickets_7": 0,
     "maidens": 0
@@ -61,7 +61,7 @@
   },
   "CNI": {
     "runs_25": 20,
-    "runs_50": 14,
+    "runs_50": 15,
     "runs_75": 2,
     "runs_100": 1,
     "wickets_3": 3,
