@@ -1,6 +1,6 @@
 {
   "matchTitle": "Punjab Kings vs Lucknow Super Giants",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Prabhsimran Singh",
   "innings": [
     {
       "teamName": "Punjab Kings 1st",
@@ -134,8 +134,160 @@
     },
     {
       "teamName": "Lucknow Super Giants 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "b Arshdeep Singh",
+          "runs": 13,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Nehal Wadhera b Arshdeep Singh",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "lbw Arshdeep Singh",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "c Shashank Singh b Azmatullah Omarzai",
+          "runs": 18,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "status": "c Arshdeep Singh b Yuzvendra Chahal",
+          "runs": 74,
+          "balls": 40,
+          "fours": 5,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "David Miller"
+          },
+          "status": "c Shashank Singh b Azmatullah Omarzai",
+          "runs": 11,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "c & b Marco Jansen",
+          "runs": 45,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "status": "not out",
+          "runs": 19,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 3,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 50,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Vyshak Vijaykumar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 49,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "dots": 0
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
