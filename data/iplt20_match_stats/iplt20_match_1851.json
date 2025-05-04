@@ -1,0 +1,144 @@
+{
+  "matchTitle": "Kolkata Knight Riders vs Rajasthan Royals",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Kolkata Knight Riders 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rahmanullah Gurbaz"
+          },
+          "status": "c Shimron Hetmyer b Maheesh Theekshana",
+          "runs": 35,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "b Yudhvir Singh Charak",
+          "runs": 11,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "c Dhruv Jurel b Riyan Parag",
+          "runs": 30,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c (Sub) Ashok Sharma b Jofra Archer",
+          "runs": 44,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "not out",
+          "runs": 57,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "not out",
+          "runs": 19,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Jofra Archer"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Yudhvir Singh Charak"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Maheesh Theekshana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Akash Madhwal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 50,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 3
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Rajasthan Royals 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
