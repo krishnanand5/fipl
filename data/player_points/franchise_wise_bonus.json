@@ -1,6 +1,6 @@
 {
   "SKKK": {
-    "runs_25": 16,
+    "runs_25": 17,
     "runs_50": 11,
     "runs_75": 4,
     "runs_100": 1,
@@ -32,7 +32,7 @@
   "UUCC": {
     "runs_25": 31,
     "runs_50": 10,
-    "runs_75": 3,
+    "runs_75": 4,
     "runs_100": 0,
     "wickets_3": 8,
     "wickets_5": 0,
@@ -40,7 +40,7 @@
     "maidens": 0
   },
   "TKTK": {
-    "runs_25": 26,
+    "runs_25": 27,
     "runs_50": 10,
     "runs_75": 4,
     "runs_100": 0,
@@ -60,7 +60,7 @@
     "maidens": 1
   },
   "CNI": {
-    "runs_25": 21,
+    "runs_25": 22,
     "runs_50": 15,
     "runs_75": 3,
     "runs_100": 1,

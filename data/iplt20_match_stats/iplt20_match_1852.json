@@ -1,0 +1,144 @@
+{
+  "matchTitle": "Punjab Kings vs Lucknow Super Giants",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Mayank Yadav b Akash Singh",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Nicholas Pooran b Digvesh Singh",
+          "runs": 91,
+          "balls": 48,
+          "fours": 6,
+          "sixes": 7
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "c David Miller b Akash Singh",
+          "runs": 30,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "c Mayank Yadav b Digvesh Singh",
+          "runs": 45,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "b Prince Yadav",
+          "runs": 16,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "not out",
+          "runs": 33,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "not out",
+          "runs": 15,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Akash Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mayank Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 60,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 57,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Prince Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 1,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Lucknow Super Giants 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
