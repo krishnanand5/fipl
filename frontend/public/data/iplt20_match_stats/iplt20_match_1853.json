@@ -1,0 +1,174 @@
+{
+  "matchTitle": "Sunrisers Hyderabad vs Delhi Capitals",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Sunrisers Hyderabad 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Karun Nair"
+          },
+          "status": "c Ishan Kishan b Pat Cummins",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Faf Du Plessis"
+          },
+          "status": "c Ishan Kishan b Pat Cummins",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c Ishan Kishan b Pat Cummins",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "c Ishan Kishan b Jaydev Unadkat",
+          "runs": 10,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "c Pat Cummins b Harshal Patel",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "not out",
+          "runs": 41,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "status": "run out (Aniket Verma)",
+          "runs": 18,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ashutosh Sharma"
+          },
+          "status": "c Abhinav Manohar b Eshan Malinga",
+          "runs": 41,
+          "balls": 26,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Mitchell Starc"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 3,
+          "dots": 14
+        },
+        {
+          "player": {
+            "name": "Jaydev Unadkat"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Eshan Malinga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Zeeshan Ansari"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Delhi Capitals 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
