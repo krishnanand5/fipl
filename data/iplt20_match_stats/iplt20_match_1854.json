@@ -1,0 +1,184 @@
+{
+  "matchTitle": "Mumbai Indians vs Gujarat Titans",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Mumbai Indians 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "c Sai Sudharsan b Mohammed Siraj",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Prasidh Krishna b Mohd Arshad Khan",
+          "runs": 7,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "c Sai Sudharsan b Rashid Khan",
+          "runs": 53,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Shahrukh Khan b Sai Kishore",
+          "runs": 35,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "c Shubman Gill b Gerald Coetzee",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "c Shubman Gill b Sai Kishore",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "c Shubman Gill b Prasidh Krishna",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Corbin Bosch"
+          },
+          "status": "run out (Rashid Khan)",
+          "runs": 27,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "status": "not out",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Karn Sharma"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Gerald Coetzee"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Gujarat Titans 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
