@@ -1,6 +1,6 @@
 {
   "matchTitle": "Mumbai Indians vs Gujarat Titans",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Shubman Gill",
   "innings": [
     {
       "teamName": "Mumbai Indians 1st",
@@ -174,8 +174,170 @@
     },
     {
       "teamName": "Gujarat Titans 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Ryan Rickelton b Trent Boult",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "b Jasprit Bumrah",
+          "runs": 43,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "c Ryan Rickelton b Ashwani Kumar",
+          "runs": 30,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Sherfane Rutherford"
+          },
+          "status": "lbw Trent Boult",
+          "runs": 28,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "b Jasprit Bumrah",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "not out",
+          "runs": 11,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "lbw Ashwani Kumar",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Gerald Coetzee"
+          },
+          "status": "c Naman Dhir b Deepak Chahar",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Karn Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Ashwani Kumar (c Sub)"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "dots": 3
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
