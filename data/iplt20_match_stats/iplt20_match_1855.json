@@ -1,6 +1,6 @@
 {
   "matchTitle": "Kolkata Knight Riders vs Chennai Super Kings",
-  "manOfTheMatch": null,
+  "manOfTheMatch": "Noor Ahmad",
   "innings": [
     {
       "teamName": "Kolkata Knight Riders 1st",
@@ -154,8 +154,170 @@
     },
     {
       "teamName": "Chennai Super Kings 2nd",
-      "battingRecords": [],
-      "bowlingRecords": [],
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ayush Mhatre"
+          },
+          "status": "c Harshit Rana b Vaibhav Arora",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Devon Conway"
+          },
+          "status": "b Moeen Ali",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Urvil Patel"
+          },
+          "status": "c Varun Chakaravarthy b Harshit Rana",
+          "runs": 31,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "status": "c Angkrish Raghuvanshi b Harshit Rana",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "b Varun Chakaravarthy",
+          "runs": 19,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Dewald Brevis"
+          },
+          "status": "c Rinku Singh b Varun Chakaravarthy",
+          "runs": 52,
+          "balls": 25,
+          "fours": 4,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c Rinku Singh b Vaibhav Arora",
+          "runs": 45,
+          "balls": 40,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "not out",
+          "runs": 17,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "status": "c Rinku Singh b Vaibhav Arora",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 3,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Moeen Ali"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "2.4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 5
+        }
+      ],
       "extras": "",
       "total": "",
       "fallOfWickets": ""
