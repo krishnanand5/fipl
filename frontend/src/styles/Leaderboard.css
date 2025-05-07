@@ -21,4 +21,112 @@
 
 .leaderboard .avg-column {
   text-align: right;
-} 
+}
+
+.franchise-container {
+  display: flex;
+  align-items: center;
+}
+
+.franchise-container > span:first-child {
+  margin-right: 16px;
+}
+
+.recent-form-box {
+  display: flex;
+  background-color: rgba(14, 14, 15, 0.9);
+  border-radius: 4px;
+  padding: 2px 4px;
+  width: 140px;
+  margin: 0 auto;
+  gap: 4px;
+}
+
+.recent-form-point {
+  color: inherit;
+  flex: 1;
+  display: inline-block;
+  text-align: center;
+  font-weight: 900;
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+  font-family: system-ui;
+  text-shadow: 0.5px 0 0 currentColor;
+  padding: 2px;
+}
+
+.recent-form-point.increase {
+  color: #4caf50;
+}
+
+.recent-form-point.decrease {
+  color: #f44336;
+}
+
+.points-gap {
+  margin-left: 8px;
+  margin-right: 8px;
+  font-weight: 900;
+  background-color: rgba(236, 11, 15, 0.79);
+  border-radius: 8px;
+  padding: 4px;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.player-name {
+  cursor: pointer;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+}
+
+.table-row {
+  animation: slideIn 0.5s ease-out forwards;
+  opacity: 0;
+}
+
+.table-row.sliding-out {
+  animation: slideOut 0.5s ease-in forwards;
+}
+
+/* Generate delays for up to 20 rows */
+.table-row:nth-child(1) { animation-delay: 0.05s; }
+.table-row:nth-child(2) { animation-delay: 0.1s; }
+.table-row:nth-child(3) { animation-delay: 0.15s; }
+.table-row:nth-child(4) { animation-delay: 0.2s; }
+.table-row:nth-child(5) { animation-delay: 0.25s; }
+.table-row:nth-child(6) { animation-delay: 0.3s; }
+.table-row:nth-child(7) { animation-delay: 0.35s; }
+.table-row:nth-child(8) { animation-delay: 0.4s; }
+.table-row:nth-child(9) { animation-delay: 0.45s; }
+.table-row:nth-child(10) { animation-delay: 0.5s; }
+.table-row:nth-child(11) { animation-delay: 0.55s; }
+.table-row:nth-child(12) { animation-delay: 0.6s; }
+.table-row:nth-child(13) { animation-delay: 0.65s; }
+.table-row:nth-child(14) { animation-delay: 0.7s; }
+.table-row:nth-child(15) { animation-delay: 0.75s; }
+.table-row:nth-child(16) { animation-delay: 0.8s; }
+.table-row:nth-child(17) { animation-delay: 0.85s; }
+.table-row:nth-child(18) { animation-delay: 0.9s; }
+.table-row:nth-child(19) { animation-delay: 0.95s; }
+.table-row:nth-child(20) { animation-delay: 1s; } 

@@ -28,18 +28,7 @@ const formatRecentPoints = (matchTotals: number[]): React.ReactNode[] => {
       <Box 
         key={index}
         component="span"
-        sx={{ 
-          color,
-          flex: 1,
-          display: 'inline-block',
-          textAlign: 'center',
-          fontWeight: 900,
-          fontSize: '0.95rem',
-          letterSpacing: '0.5px',
-          fontFamily: 'system-ui',
-          textShadow: '0.5px 0 0 currentColor',
-          padding: '2px',
-        }}
+        className={`recent-form-point ${color === 'success.main' ? 'increase' : color === 'error.main' ? 'decrease' : ''}`}
       >
         {points}
       </Box>
@@ -59,20 +48,7 @@ const calculatePlayerRecentForm = (matches: MatchPoints[]): React.ReactNode => {
   const recentPoints = sortedMatches.map(match => match.total);
 
   return (
-    <Box 
-      sx={{ 
-        display: 'flex',
-        backgroundColor: 'rgba(14, 14, 15, 0.9)',
-        borderRadius: 1,
-        px: 0.5,
-        py: 0.25,
-        width: 'fit-content',
-        minWidth: '100px',
-        maxWidth: '140px',
-        margin: '0 auto',
-        gap: 0.5
-      }}
-    >
+    <Box className="recent-form-box">
       {formatRecentPoints(recentPoints)}
     </Box>
   );
@@ -93,7 +69,7 @@ const PlayerTable: React.FC<{ players: PlayerPoints[] }> = ({ players }) => {
       label: 'Player',
       render: (player) => (
         <Box 
-          sx={{ cursor: 'pointer' }}
+          className="player-name"
           onClick={() => handlePlayerClick(player)}
         >
           {player.player_name}
@@ -199,20 +175,12 @@ export const Leaderboard: React.FC<Props> = ({ leaderboardData, allPlayerPoints 
       id: 'franchise', 
       label: 'Franchise',
       render: (franchise, index) => (
-        <Box sx={{ display: 'flex', alignItems: 'center' }}>
-          {franchise.franchise}
+        <Box className="franchise-container">
+          <span>{franchise.franchise}</span>
           {index > 0 && (
             <Typography
               component="span"
-              sx={{
-                ml: 1,
-                mr: 1,
-                fontWeight: '900',
-                backgroundColor: 'rgba(236, 11, 15, 0.79)',
-                borderRadius: 2,
-                padding: '4px',
-                fontSize: '1rem',
-              }}
+              className="points-gap"
             >
               {leadingPoints - franchise.total_points}
             </Typography>
@@ -227,31 +195,28 @@ export const Leaderboard: React.FC<Props> = ({ leaderboardData, allPlayerPoints 
       label: 'Recent Form', 
       align: 'center',
       render: (franchise) => {
-        const recentPoints = franchise.players
-          .map(player => player.matches
-            .sort((a, b) => parseInt(b.match_id) - parseInt(a.match_id))
-            .slice(0, 3)
-            .map(match => match.total)
-          )
-          .flat()
-          .sort((a, b) => b - a)
-          .slice(0, 3);
+        // Get all matches from all players
+        const allMatches = franchise.players.flatMap(player => 
+          player.matches.map(match => ({
+            match_id: match.match_id,
+            total: match.total
+          }))
+        );
+
+        // Group by match_id and sum totals
+        const matchTotals = allMatches.reduce((acc, { match_id, total }) => {
+          acc[match_id] = (acc[match_id] || 0) + total;
+          return acc;
+        }, {} as Record<string, number>);
+
+        // Convert to array and sort by match_id
+        const recentPoints = Object.entries(matchTotals)
+          .sort(([a], [b]) => parseInt(b) - parseInt(a))
+          .slice(0, 3)
+          .map(([_, total]) => total);
         
         return (
-          <Box 
-            sx={{ 
-              display: 'flex',
-              backgroundColor: 'rgba(14, 14, 15, 0.9)',
-              borderRadius: 1,
-              px: 0.5,
-              py: 0.25,
-              width: 'fit-content',
-              minWidth: '100px',
-              maxWidth: '140px',
-              margin: '0 auto',
-              gap: 0.5
-            }}
-          >
+          <Box className="recent-form-box">
             {formatRecentPoints(recentPoints)}
           </Box>
         );

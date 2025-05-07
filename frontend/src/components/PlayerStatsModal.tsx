@@ -1,5 +1,5 @@
 // PlayerStatsModal.tsx
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Dialog,
   DialogTitle,
@@ -17,13 +17,27 @@ import {
   Box
 } from '@mui/material';
 import { PlayerStatsModalProps } from '../types';
+import '../styles/Modal.css';
 
-  const formatPoints = (points: number): string | number => {
-    return points === 0 ? '-' : points;
-  };
+const formatPoints = (points: number): string | number => {
+  return points === 0 ? '-' : points;
+};
 
 const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, isOpen, onClose }) => {
-  if (!player) return null;
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    if (isOpen) {
+      setIsVisible(true);
+    } else {
+      const timer = setTimeout(() => {
+        setIsVisible(false);
+      }, 300); // Match animation duration
+      return () => clearTimeout(timer);
+    }
+  }, [isOpen]);
+
+  if (!player || !isVisible) return null;
 
   const sortedMatches = [...player.matches]
     .sort((a, b) => parseInt(b.match_id) - parseInt(a.match_id));
@@ -35,11 +49,15 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, isOpen, onC
       maxWidth="md"
       fullWidth
       PaperProps={{
+        className: isOpen ? 'modal-fade-enter' : 'modal-fade-exit',
         sx: {
           backgroundColor: 'black',
           color: 'white',
           border: '2px solid rgba(250, 231, 108, 0.79)'
         }
+      }}
+      BackdropProps={{
+        className: 'modal-backdrop'
       }}
     >
       <DialogTitle>
@@ -54,7 +72,7 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, isOpen, onC
         <Box sx={{ mb: 2 }}>
           <Typography variant="h6" sx={{ mb: 1 }}>
             Match History
-                  </Typography>
+          </Typography>
           <TableContainer component={Paper} sx={{ backgroundColor: 'rgba(24, 18, 18, 0.9)' }}>
             <Table size="small">
               <TableHead>
@@ -68,14 +86,14 @@ const PlayerStatsModal: React.FC<PlayerStatsModalProps> = ({ player, isOpen, onC
                 </TableRow>
               </TableHead>
               <TableBody>
-                {sortedMatches.map((match) => (
+                {sortedMatches.map((match, index) => (
                   <TableRow 
-                  key={match.match_id}
-                  sx={{ 
-                    '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
-                  }}
+                    key={match.match_id}
+                    sx={{ 
+                      '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
+                    }}
                   >
-                    <TableCell>{match.match_id}</TableCell>
+                    <TableCell>Match {sortedMatches.length - index}</TableCell>
                     <TableCell align="right">{formatPoints(match.batting_points)}</TableCell>
                     <TableCell align="right">{formatPoints(match.bowling_points)}</TableCell>
                     <TableCell align="right">{formatPoints(match.fielding_points)}</TableCell>

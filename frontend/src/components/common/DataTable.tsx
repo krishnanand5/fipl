@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
   Table,
   TableBody,
@@ -37,6 +37,7 @@ interface DataTableProps<T> {
   containerStyle?: React.CSSProperties;
   size?: 'small' | 'medium';
   stickyHeader?: boolean;
+  tableClassName?: string;
 }
 
 export function DataTable<T>({
@@ -50,17 +51,47 @@ export function DataTable<T>({
   containerStyle,
   size = 'small',
   stickyHeader = false,
+  tableClassName,
 }: DataTableProps<T>) {
-  const [expandedRows, setExpandedRows] = React.useState<Set<string>>(new Set());
+  const [expandedRows, setExpandedRows] = useState<Set<string>>(new Set());
+  const [slidingOutRows, setSlidingOutRows] = useState<Set<string>>(new Set());
 
   const toggleRow = (key: string) => {
-    const newExpandedRows = new Set(expandedRows);
-    if (newExpandedRows.has(key)) {
-      newExpandedRows.delete(key);
+    if (expandedRows.has(key)) {
+      // Start slide-out animation
+      setSlidingOutRows(prev => new Set([...Array.from(prev), key]));
+      
+      // Wait for animation to complete before collapsing
+      setTimeout(() => {
+        setExpandedRows(prev => {
+          const newSet = new Set(Array.from(prev));
+          newSet.delete(key);
+          return newSet;
+        });
+        setSlidingOutRows(prev => {
+          const newSet = new Set(Array.from(prev));
+          newSet.delete(key);
+          return newSet;
+        });
+      }, 500); // Match animation duration
     } else {
-      newExpandedRows.add(key);
+      // If there's any expanded row, collapse it first
+      if (expandedRows.size > 0) {
+        const currentExpanded = Array.from(expandedRows)[0];
+        setSlidingOutRows(prev => new Set([...Array.from(prev), currentExpanded]));
+        
+        setTimeout(() => {
+          setExpandedRows(new Set([key]));
+          setSlidingOutRows(prev => {
+            const newSet = new Set(Array.from(prev));
+            newSet.delete(currentExpanded);
+            return newSet;
+          });
+        }, 500);
+      } else {
+        setExpandedRows(new Set([key]));
+      }
     }
-    setExpandedRows(newExpandedRows);
   };
 
   return (
@@ -87,7 +118,7 @@ export function DataTable<T>({
         </Typography>
       )}
       <TableContainer>
-        <Table size={size} stickyHeader={stickyHeader}>
+        <Table size={size} stickyHeader={stickyHeader} className={tableClassName}>
           <TableHead>
             <TableRow>
               {expandable && (
@@ -114,10 +145,12 @@ export function DataTable<T>({
             {data.map((row, index) => {
               const rowKey = getRowKey(row);
               const isExpanded = expandedRows.has(rowKey);
+              const isSlidingOut = slidingOutRows.has(rowKey);
               
               return (
                 <React.Fragment key={rowKey}>
                   <TableRow
+                    className="table-row"
                     sx={{
                       backgroundColor: 'rgba(24, 18, 18, 0.9)',
                       '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' },
@@ -150,7 +183,7 @@ export function DataTable<T>({
                     ))}
                   </TableRow>
                   {expandable && expandedContent && (
-                    <TableRow>
+                    <TableRow className={`table-row ${isSlidingOut ? 'sliding-out' : ''}`}>
                       <TableCell
                         style={{ paddingBottom: 0, paddingTop: 0 }}
                         colSpan={columns.length + 1}

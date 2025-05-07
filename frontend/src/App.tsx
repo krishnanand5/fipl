@@ -11,10 +11,16 @@ import { SplashScreen } from './components/SplashScreen';
 import { theme } from './theme';
 import { useAppData } from './hooks/useAppData';
 import { FranchiseBonus } from './types';
+import { PlayerPointsTable } from './components/PlayerPointsTable';
+import PlayerStatsModal from './components/PlayerStatsModal';
+import { PlayerPoints } from './types';
+import './App.css';
 
 function App() {
   const [showSplash, setShowSplash] = useState(true);
   const { leaderboardData, allPlayerPoints, bonusStats, error } = useAppData();
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedPlayer, setSelectedPlayer] = useState<PlayerPoints | null>(null);
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -23,6 +29,11 @@ function App() {
 
     return () => clearTimeout(timer);
   }, []);
+
+  const handleCloseModal = () => {
+    setIsModalOpen(false);
+    setSelectedPlayer(null);
+  };
 
   if (error) {
     return (
@@ -56,6 +67,17 @@ function App() {
                         />
                       </Card>
                     </div>
+                  </Slide>
+                </Grid>
+
+                {/* Player Points Table */}
+                <Grid item xs={12}>
+                  <Slide direction="up" in timeout={1000}>
+                    <Card sx={{ 
+                      transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out'
+                    }}>
+                      <PlayerPointsTable allPlayerPoints={allPlayerPoints} />
+                    </Card>
                   </Slide>
                 </Grid>
 
@@ -112,6 +134,12 @@ function App() {
                   </Slide>
                 </Grid>
               </Grid>
+
+              <PlayerStatsModal
+                player={selectedPlayer}
+                isOpen={isModalOpen}
+                onClose={handleCloseModal}
+              />
             </Container>
           </Fade>
         )}
