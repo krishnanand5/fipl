@@ -1,0 +1,164 @@
+{
+  "matchTitle": "Kolkata Knight Riders vs Chennai Super Kings",
+  "manOfTheMatch": null,
+  "innings": [
+    {
+      "teamName": "Kolkata Knight Riders 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rahmanullah Gurbaz"
+          },
+          "status": "c Noor Ahmad b Anshul Kamboj",
+          "runs": 11,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "st Ms Dhoni b Noor Ahmad",
+          "runs": 26,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "c Devon Conway b Ravindra Jadeja",
+          "runs": 48,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Ms Dhoni b Noor Ahmad",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Manish Pandey"
+          },
+          "status": "not out",
+          "runs": 36,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "c Dewald Brevis b Noor Ahmad",
+          "runs": 38,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "c Ayush Mhatre b Noor Ahmad",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ramandeep Singh"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 4,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 3
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Chennai Super Kings 2nd",
+      "battingRecords": [],
+      "bowlingRecords": [],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
