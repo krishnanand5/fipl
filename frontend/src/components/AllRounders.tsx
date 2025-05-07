@@ -1,18 +1,19 @@
 import React from 'react';
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableContainer,
-  TableHead,
-  TableRow,
-  Card,
-  Typography
-} from '@mui/material';
 import { PlayerPoints } from '../types';
+import { DataTable, Column } from './common/DataTable';
+import '../styles/AllRounders.css';
 
 interface Props {
   allPlayerPoints: PlayerPoints[];
+}
+
+interface AllRounderStats {
+  name: string;
+  franchise: string;
+  matches: number;
+  battingPoints: number;
+  bowlingPoints: number;
+  totalPoints: number;
 }
 
 export const AllRoundersTable: React.FC<Props> = ({ allPlayerPoints }) => {
@@ -22,7 +23,7 @@ export const AllRoundersTable: React.FC<Props> = ({ allPlayerPoints }) => {
       const bowlingPoints = player.matches.reduce((sum, match) => sum + match.bowling_points, 0);
       
       // Only consider players with both batting and bowling contributions
-      if (battingPoints > 75 && bowlingPoints > 75) {
+      if (battingPoints > 200 && bowlingPoints > 200) {
         return {
           name: player.player_name,
           franchise: player.franchise !== 'Unknown' ? player.franchise : 'UNSOLD',
@@ -38,63 +39,30 @@ export const AllRoundersTable: React.FC<Props> = ({ allPlayerPoints }) => {
     .sort((a, b) => b!.totalPoints - a!.totalPoints)
     .slice(0, 10); // Get top 10
 
+  const columns: Column<AllRounderStats>[] = [
+    { id: 'name', label: 'Player' },
+    { id: 'franchise', label: 'Franchise' },
+    { id: 'matches', label: 'Matches', align: 'right' },
+    { id: 'battingPoints', label: 'Batting', align: 'right' },
+    { id: 'bowlingPoints', label: 'Bowling', align: 'right' },
+    { 
+      id: 'totalPoints', 
+      label: 'Total', 
+      align: 'right',
+      style: { fontWeight: 'bold' }
+    },
+  ];
+
   return (
-    <Card 
-      elevation={3}
-      sx={{
-        backgroundColor: 'black',
-        overflow: 'hidden',
-        border: '2px solid rgba(250, 231, 108, 0.79)'
-      }}
-    >
-      <Typography 
-        variant="h5" 
-        sx={{ 
-          p: 2, 
-          color: 'white',
-          textAlign: 'center',
-          fontWeight: 'bold'
-        }}
-      >
+    <DataTable<AllRounderStats>
+      title={<>
         Top All-Rounders
-      </Typography>
-      <TableContainer>
-        <Table size="small">
-          <TableHead>
-            <TableRow>
-              <TableCell sx={{ color: 'white', fontWeight: 'bold' }}>Player</TableCell>
-              <TableCell sx={{ color: 'white', fontWeight: 'bold' }}>Franchise</TableCell>
-              <TableCell align="right" sx={{ color: 'white', fontWeight: 'bold' }}>Matches</TableCell>
-              <TableCell align="right" sx={{ color: 'white', fontWeight: 'bold' }}>Batting</TableCell>
-              <TableCell align="right" sx={{ color: 'white', fontWeight: 'bold' }}>Bowling</TableCell>
-              <TableCell align="right" sx={{ color: 'white', fontWeight: 'bold' }}>Total</TableCell>
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            {allRounders.map((player, index) => (
-              <TableRow 
-                key={player!.name}
-                sx={{ 
-                  backgroundColor: 'rgba(24, 18, 18, 0.9)',
-                  '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
-                }}
-              >
-                <TableCell>{player!.name}</TableCell>
-                <TableCell>{player!.franchise}</TableCell>
-                <TableCell align="right">{player!.matches}</TableCell>
-                <TableCell align="right">{player!.battingPoints}</TableCell>
-                <TableCell align="right">{player!.bowlingPoints}</TableCell>
-                <TableCell 
-                  align="right"
-                  sx={{ fontWeight: 'bold' }}
-                >
-                  {player!.totalPoints}
-                </TableCell>
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
-      </TableContainer>
-    </Card>
+        <br />
+        (Min 200 points in each)
+      </>}
+      columns={columns}
+      data={allRounders as AllRounderStats[]}
+      getRowKey={(row) => row.name}
+    />
   );
 };

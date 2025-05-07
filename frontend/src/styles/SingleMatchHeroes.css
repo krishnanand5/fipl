@@ -1,0 +1,11 @@
+.single-match-heroes {
+  width: 100%;
+}
+
+.single-match-heroes .total-column {
+  font-weight: bold;
+}
+
+.single-match-heroes .points-column {
+  text-align: right;
+} 

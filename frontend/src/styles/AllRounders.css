@@ -1,0 +1,20 @@
+.all-rounders {
+  width: 100%;
+}
+
+.all-rounders .player-name {
+  font-weight: bold;
+}
+
+.all-rounders .franchise-column {
+  color: #666;
+}
+
+.all-rounders .points-column {
+  text-align: right;
+}
+
+.all-rounders .total-column {
+  font-weight: bold;
+  text-align: right;
+} 

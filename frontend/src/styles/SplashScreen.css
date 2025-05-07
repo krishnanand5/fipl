@@ -1,0 +1,38 @@
+.splash-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  color: white;
+  gap: 16px;
+}
+
+.splash-screen__title {
+  font-weight: bold;
+  animation: pulse 1.5s infinite;
+}
+
+.splash-screen__image {
+  max-width: 100%;
+  max-height: 70vh;
+  object-fit: contain;
+}
+
+.splash-screen__subtitle {
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { 
+    opacity: 1;
+  }
+  50% { 
+    opacity: 0.5;
+  }
+} 

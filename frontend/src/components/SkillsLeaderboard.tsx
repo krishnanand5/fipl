@@ -12,6 +12,7 @@ import {
   Card,
 } from '@mui/material';
 import { PlayerPoints } from '../types';
+import '../styles/SkillsLeaderboard.css';
 
 interface Props {
   allPlayerPoints: PlayerPoints[];
@@ -24,7 +25,7 @@ interface SkillStats {
   total_points: number;
 }
 
-const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
+export const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
   const calculateSkillStats = (skillType: 'batting' | 'bowling' | 'fielding'): SkillStats[] => {
     const stats = allPlayerPoints.map(player => {
       const pointsKey = `${skillType}_points` as const;
@@ -115,5 +116,3 @@ const SkillsLeaderboard: React.FC<Props> = ({ allPlayerPoints }) => {
     </Grid>
   );
 };
-
-export default SkillsLeaderboard;

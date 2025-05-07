@@ -25,6 +25,7 @@ export interface FranchiseStats {
   franchise: string;
   total_points: number;
   player_count: number;
+  players: PlayerPoints[];
 }
 
 export interface BonusStats {

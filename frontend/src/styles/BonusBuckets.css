@@ -1,0 +1,24 @@
+.bonus-buckets {
+  width: 100%;
+}
+
+.bonus-buckets .franchise-column {
+  font-weight: bold;
+}
+
+.bonus-buckets .runs-column {
+  text-align: right;
+}
+
+.bonus-buckets .wickets-column {
+  text-align: right;
+}
+
+.bonus-buckets .maidens-column {
+  text-align: right;
+}
+
+.bonus-buckets .total-column {
+  font-weight: bold;
+  text-align: right;
+} 

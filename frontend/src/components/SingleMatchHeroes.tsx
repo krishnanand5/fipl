@@ -1,82 +1,84 @@
 import React from 'react';
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableContainer,
-  TableHead,
-  TableRow,
-  Paper,
-  Typography
-} from '@mui/material';
+import { DataTable, Column } from './common/DataTable';
 import { PlayerPoints } from '../types';
+import '../styles/SingleMatchHeroes.css';
 
 interface Props {
   allPlayerPoints: PlayerPoints[];
 }
 
-const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
-  // Flatten all matches and add player info
-  const allMatches = allPlayerPoints.flatMap(player =>
+const formatPoints = (points: number): string | number => {
+  return points === 0 ? '-' : points;
+};
+
+export const SingleMatchHeroes: React.FC<Props> = ({ allPlayerPoints }) => {
+  // Flatten all matches with player info
+  const allMatches = allPlayerPoints.flatMap(player => 
     player.matches.map(match => ({
+      ...match,
       player_name: player.player_name,
-      franchise: player.franchise,
-      ...match
+      franchise: player.franchise === 'Unknown' ? 'UNSOLD' : player.franchise
     }))
   );
 
-  const formatPoints = (points: number): string | number => {
-    return points === 0 ? '-' : points;
-  };
-
-  const formatFranchise = (franchise: string): string => {
-    return franchise === 'Unknown' ? 'UNSOLD' : franchise;
-  };
+  // Calculate total points for each match
+  const matchesWithTotal = allMatches.map(match => ({
+    ...match,
+    total: match.batting_points + match.bowling_points + match.fielding_points + match.mom
+  }));
 
   // Sort by total points and get top 10
-  const topPerformances = allMatches
+  const topPerformances = matchesWithTotal
     .sort((a, b) => b.total - a.total)
     .slice(0, 10);
 
+  const columns: Column<typeof topPerformances[0]>[] = [
+    { id: 'player_name', label: 'Player' },
+    { id: 'franchise', label: 'Franchise' },
+    { 
+      id: 'batting_points', 
+      label: 'Batting', 
+      align: 'right',
+      getValue: (row) => formatPoints(row.batting_points),
+      className: 'points-column'
+    },
+    { 
+      id: 'bowling_points', 
+      label: 'Bowling', 
+      align: 'right',
+      getValue: (row) => formatPoints(row.bowling_points),
+      className: 'points-column'
+    },
+    { 
+      id: 'fielding_points', 
+      label: 'Fielding', 
+      align: 'right',
+      getValue: (row) => formatPoints(row.fielding_points),
+      className: 'points-column'
+    },
+    { 
+      id: 'mom', 
+      label: 'MoM', 
+      align: 'right',
+      getValue: (row) => formatPoints(row.mom),
+      className: 'points-column'
+    },
+    { 
+      id: 'total', 
+      label: 'Total', 
+      align: 'right',
+      className: 'total-column'
+    },
+  ];
+
   return (
-    <TableContainer component={Paper} sx={{ backgroundColor: 'black', borderRadius: 2 }}>
-      <Typography variant="h6" sx={{ p: 2, textAlign: 'center', fontWeight: 'bold' }}>
-        Single Match Heroes
-      </Typography>
-      <Table size="small">
-        <TableHead>
-          <TableRow>
-            <TableCell sx={{ fontWeight: 'bold' }}>Player</TableCell>
-            <TableCell sx={{ fontWeight: 'bold' }}>Franchise</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Batting</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Bowling</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Fielding</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold' }}>MOM</TableCell>
-            <TableCell align="right" sx={{ fontWeight: 'bold' }}>Total</TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {topPerformances.map((performance, index) => (
-            <TableRow 
-              key={`${performance.player_name}-${performance.match_id}`}
-              sx={{ 
-                backgroundColor: 'rgba(24, 18, 18, 0.9)',
-                '&:nth-of-type(odd)': { backgroundColor: 'rgba(83, 78, 78, 0.8)' }
-              }}
-            >
-              <TableCell>{performance.player_name}</TableCell>
-              <TableCell>{formatFranchise(performance.franchise)}</TableCell>
-              <TableCell align="right">{formatPoints(performance.batting_points)}</TableCell>
-              <TableCell align="right">{formatPoints(performance.bowling_points)}</TableCell>
-              <TableCell align="right">{formatPoints(performance.fielding_points)}</TableCell>
-              <TableCell align="right">{formatPoints(performance.mom)}</TableCell>
-              <TableCell align="right">{performance.total}</TableCell>
-            </TableRow>
-          ))}
-        </TableBody>
-      </Table>
-    </TableContainer>
+    <div className="single-match-heroes">
+      <DataTable<typeof topPerformances[0]>
+        title="Top Single Match Performances"
+        columns={columns}
+        data={topPerformances}
+        getRowKey={(row) => `${row.player_name}-${row.match_id}`}
+      />
+    </div>
   );
 };
-
-export default SingleMatchHeroes;

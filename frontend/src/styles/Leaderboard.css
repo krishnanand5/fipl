@@ -1,0 +1,24 @@
+.leaderboard {
+  width: 100%;
+}
+
+.leaderboard .franchise-name {
+  font-weight: bold;
+}
+
+.leaderboard .points-column {
+  text-align: right;
+}
+
+.leaderboard .total-column {
+  font-weight: bold;
+  text-align: right;
+}
+
+.leaderboard .recent-column {
+  text-align: right;
+}
+
+.leaderboard .avg-column {
+  text-align: right;
+} 

@@ -1,0 +1,24 @@
+.skills-leaderboard {
+  width: 100%;
+}
+
+.skills-leaderboard .player-name {
+  font-weight: bold;
+}
+
+.skills-leaderboard .franchise-column {
+  color: #666;
+}
+
+.skills-leaderboard .points-column {
+  text-align: right;
+}
+
+.skills-leaderboard .total-column {
+  font-weight: bold;
+  text-align: right;
+}
+
+.skills-leaderboard .skill-column {
+  text-align: right;
+} 
