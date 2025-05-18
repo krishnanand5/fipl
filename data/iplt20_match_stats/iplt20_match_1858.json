@@ -1,0 +1,216 @@
+{
+  "matchTitle": "Delhi Capitals vs Gujarat Titans",
+  "manOfTheMatch": "Sai Sudharsan",
+  "innings": [
+    {
+      "teamName": "Delhi Capitals 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "not out",
+          "runs": 112,
+          "balls": 65,
+          "fours": 14,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Faf Du Plessis"
+          },
+          "status": "c Mohammed Siraj b Mohd Arshad Khan",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abishek Porel"
+          },
+          "status": "c Jos Buttler b Sai Kishore",
+          "runs": 30,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "status": "c Sai Kishore b Prasidh Krishna",
+          "runs": 25,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "not out",
+          "runs": 21,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Kagiso Rabada"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 1,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Gujarat Titans 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "not out",
+          "runs": 108,
+          "balls": 61,
+          "fours": 12,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "not out",
+          "runs": 93,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 7
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Axar Patel"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "T Natarajan"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 49,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Mustafizur Rahman"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Dushmantha Chameera"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}

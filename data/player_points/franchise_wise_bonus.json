@@ -1,6 +1,6 @@
 {
   "SKKK": {
-    "runs_25": 18,
+    "runs_25": 19,
     "runs_50": 13,
     "runs_75": 4,
     "runs_100": 1,
@@ -23,7 +23,7 @@
     "runs_25": 13,
     "runs_50": 17,
     "runs_75": 5,
-    "runs_100": 0,
+    "runs_100": 1,
     "wickets_3": 5,
     "wickets_5": 0,
     "wickets_7": 0,
@@ -40,9 +40,9 @@
     "maidens": 0
   },
   "TKTK": {
-    "runs_25": 31,
+    "runs_25": 32,
     "runs_50": 13,
-    "runs_75": 4,
+    "runs_75": 5,
     "runs_100": 0,
     "wickets_3": 7,
     "wickets_5": 1,
@@ -63,7 +63,7 @@
     "runs_25": 22,
     "runs_50": 15,
     "runs_75": 3,
-    "runs_100": 1,
+    "runs_100": 2,
     "wickets_3": 3,
     "wickets_5": 0,
     "wickets_7": 0,
