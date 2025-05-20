@@ -1,6 +1,6 @@
 {
   "SKKK": {
-    "runs_25": 19,
+    "runs_25": 20,
     "runs_50": 13,
     "runs_75": 4,
     "runs_100": 1,
@@ -10,7 +10,7 @@
     "maidens": 0
   },
   "PPT": {
-    "runs_25": 37,
+    "runs_25": 38,
     "runs_50": 7,
     "runs_75": 2,
     "runs_100": 1,
@@ -40,7 +40,7 @@
     "maidens": 0
   },
   "TKTK": {
-    "runs_25": 32,
+    "runs_25": 33,
     "runs_50": 13,
     "runs_75": 5,
     "runs_100": 0,
@@ -60,21 +60,21 @@
     "maidens": 1
   },
   "CNI": {
-    "runs_25": 22,
+    "runs_25": 23,
     "runs_50": 17,
     "runs_75": 3,
     "runs_100": 2,
-    "wickets_3": 3,
+    "wickets_3": 4,
     "wickets_5": 0,
     "wickets_7": 0,
     "maidens": 1
   },
   "Unknown": {
-    "runs_25": 18,
-    "runs_50": 3,
+    "runs_25": 20,
+    "runs_50": 4,
     "runs_75": 0,
     "runs_100": 1,
-    "wickets_3": 5,
+    "wickets_3": 6,
     "wickets_5": 0,
     "wickets_7": 0,
     "maidens": 1
