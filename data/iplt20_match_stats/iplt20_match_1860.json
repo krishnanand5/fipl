@@ -1,0 +1,306 @@
+{
+  "matchTitle": "Chennai Super Kings vs Rajasthan Royals",
+  "manOfTheMatch": "Akash Madhwal",
+  "innings": [
+    {
+      "teamName": "Chennai Super Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ayush Mhatre"
+          },
+          "status": "c Kwena Maphaka b Tushar Deshpande",
+          "runs": 43,
+          "balls": 20,
+          "fours": 8,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Devon Conway"
+          },
+          "status": "c Riyan Parag b Yudhvir Singh Charak",
+          "runs": 10,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Urvil Patel"
+          },
+          "status": "c Kwena Maphaka b Yudhvir Singh Charak",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "status": "c Shimron Hetmyer b Wanindu Hasaranga",
+          "runs": 13,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "c Dhruv Jurel b Yudhvir Singh Charak",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dewald Brevis"
+          },
+          "status": "b Akash Madhwal",
+          "runs": 42,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c Yashasvi Jaiswal b Akash Madhwal",
+          "runs": 39,
+          "balls": 32,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "MS Dhoni (c)"
+          },
+          "status": "c Tushar Deshpande b Akash Madhwal",
+          "runs": 16,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "status": "not out",
+          "runs": 5,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Tushar Deshpande"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Yudhvir Singh Charak"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 3,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Kwena Maphaka"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Wanindu Hasaranga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Akash Madhwal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 3,
+          "dots": 8
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Rajasthan Royals 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Yashasvi Jaiswal"
+          },
+          "status": "b Anshul Kamboj",
+          "runs": 36,
+          "balls": 19,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Vaibhav Suryavanshi"
+          },
+          "status": "c Ravindra Jadeja b Ravichandran Ashwin",
+          "runs": 57,
+          "balls": 33,
+          "fours": 4,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Sanju Samson (c)"
+          },
+          "status": "c Dewald Brevis b Ravichandran Ashwin",
+          "runs": 41,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Riyan Parag"
+          },
+          "status": "b Noor Ahmad",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Dhruv Jurel"
+          },
+          "status": "not out",
+          "runs": 31,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shimron Hetmyer"
+          },
+          "status": "not out",
+          "runs": 12,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Ravichandran Ashwin"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "2.1",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "dots": 3
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
