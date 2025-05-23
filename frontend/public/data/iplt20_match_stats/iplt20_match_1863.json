@@ -1,0 +1,336 @@
+{
+  "matchTitle": "Royal Challengers Bengaluru vs Sunrisers Hyderabad",
+  "manOfTheMatch": "Ishan Kishan",
+  "innings": [
+    {
+      "teamName": "Royal Challengers Bengaluru 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c Phil Salt b Lungisani Ngidi",
+          "runs": 34,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Romario Shepherd b Bhuvneshwar Kumar",
+          "runs": 17,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "not out",
+          "runs": 94,
+          "balls": 48,
+          "fours": 7,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "c Romario Shepherd b Suyash Sharma",
+          "runs": 24,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "c Bhuvneshwar Kumar b Krunal Pandya",
+          "runs": 26,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "status": "c Krunal Pandya b Romario Shepherd",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abhinav Manohar"
+          },
+          "status": "c Phil Salt b Romario Shepherd",
+          "runs": 12,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "status": "not out",
+          "runs": 13,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Lungisani Ngidi"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 51,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 2,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Sunrisers Hyderabad 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Harshal Patel b Pat Cummins",
+          "runs": 62,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Abhishek Sharma b Harsh Dubey",
+          "runs": 43,
+          "balls": 25,
+          "fours": 7,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mayank Agarwal"
+          },
+          "status": "c Ishan Kishan b Nitish Kumar Reddy",
+          "runs": 11,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "run out (Eshan Malinga)",
+          "runs": 18,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma (c)"
+          },
+          "status": "c Abhinav Manohar b Jaydev Unadkat",
+          "runs": 24,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "status": "c & b Eshan Malinga",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "status": "Hit Wicket b Pat Cummins",
+          "runs": 8,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Tim David"
+          },
+          "status": "c (Sub) Heinrich Klaasen b Eshan Malinga",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "status": "b Pat Cummins",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "status": "c Aniket Verma b Harshal Patel",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Lungisani Ngidi"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 3,
+          "dots": 13
+        },
+        {
+          "player": {
+            "name": "Jaydev Unadkat"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "3.5",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Eshan Malinga"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 2,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Harsh Dubey"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
