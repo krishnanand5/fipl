@@ -1,0 +1,286 @@
+{
+  "matchTitle": "Gujarat Titans vs Lucknow Super Giants",
+  "manOfTheMatch": "Mitchell Marsh",
+  "innings": [
+    {
+      "teamName": "Gujarat Titans 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Aiden Markram"
+          },
+          "status": "c Shahrukh Khan b Sai Kishore",
+          "runs": 36,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Sherfane Rutherford b Mohd Arshad Khan",
+          "runs": 117,
+          "balls": 64,
+          "fours": 10,
+          "sixes": 8
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "not out",
+          "runs": 56,
+          "balls": 27,
+          "fours": 4,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "not out",
+          "runs": 16,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 2
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Kagiso Rabada"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 45,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Lucknow Super Giants 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Aiden Markram b William O Rourke",
+          "runs": 21,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "c Abdul Samad b Avesh Khan",
+          "runs": 35,
+          "balls": 20,
+          "fours": 7,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "b Akash Singh",
+          "runs": 33,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Sherfane Rutherford"
+          },
+          "status": "c (Sub) Ravi Bishnoi b William O Rourke",
+          "runs": 38,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "c (Sub) Ravi Bishnoi b Avesh Khan",
+          "runs": 57,
+          "balls": 29,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "c Himmat Singh b William O Rourke",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "status": "c William O Rourke b Shahbaz Ahmed",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "not out",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kagiso Rabada"
+          },
+          "status": "b Ayush Badoni",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "status": "b Ayush Badoni",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Akash Singh"
+          },
+          "overs": "3.1",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Akash Deep"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 49,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "William O Rourke"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 3,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "3.5",
+          "maidens": 0,
+          "runs": 51,
+          "wickets": 2,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Shahbaz Ahmed"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 2,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
