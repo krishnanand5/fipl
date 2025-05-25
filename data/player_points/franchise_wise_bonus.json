@@ -1,10 +1,10 @@
 {
   "SKKK": {
     "runs_25": 21,
-    "runs_50": 14,
+    "runs_50": 15,
     "runs_75": 4,
     "runs_100": 1,
-    "wickets_3": 7,
+    "wickets_3": 8,
     "wickets_5": 0,
     "wickets_7": 0,
     "maidens": 0
@@ -60,7 +60,7 @@
     "maidens": 1
   },
   "CNI": {
-    "runs_25": 26,
+    "runs_25": 28,
     "runs_50": 18,
     "runs_75": 3,
     "runs_100": 2,
@@ -70,11 +70,11 @@
     "maidens": 1
   },
   "Unknown": {
-    "runs_25": 21,
-    "runs_50": 4,
+    "runs_25": 22,
+    "runs_50": 5,
     "runs_75": 0,
     "runs_100": 1,
-    "wickets_3": 7,
+    "wickets_3": 8,
     "wickets_5": 0,
     "wickets_7": 0,
     "maidens": 1
