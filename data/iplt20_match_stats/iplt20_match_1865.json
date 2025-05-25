@@ -1,0 +1,336 @@
+{
+  "matchTitle": "Gujarat Titans vs Chennai Super Kings",
+  "manOfTheMatch": "Dewald Brevis",
+  "innings": [
+    {
+      "teamName": "Gujarat Titans 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ayush Mhatre"
+          },
+          "status": "c Mohammed Siraj b Prasidh Krishna",
+          "runs": 34,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Devon Conway"
+          },
+          "status": "b Rashid Khan",
+          "runs": 52,
+          "balls": 35,
+          "fours": 6,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Urvil Patel"
+          },
+          "status": "c Shubman Gill b Sai Kishore",
+          "runs": 37,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "status": "c Gerald Coetzee b Shahrukh Khan",
+          "runs": 17,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Dewald Brevis"
+          },
+          "status": "c Jos Buttler b Prasidh Krishna",
+          "runs": 57,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "status": "not out",
+          "runs": 21,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Gerald Coetzee"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Chennai Super Kings 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "c Shivam Dube b Ravindra Jadeja",
+          "runs": 41,
+          "balls": 28,
+          "fours": 6,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "c Urvil Patel b Anshul Kamboj",
+          "runs": 13,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Jos Buttler"
+          },
+          "status": "c Anshul Kamboj b Khaleel Ahmed",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sherfane Rutherford"
+          },
+          "status": "c Ayush Mhatre b Anshul Kamboj",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "c Matheesha Pathirana b Ravindra Jadeja",
+          "runs": 19,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "c Shivam Dube b Noor Ahmad",
+          "runs": 14,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "c Urvil Patel b Noor Ahmad",
+          "runs": 12,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Gerald Coetzee"
+          },
+          "status": "b Matheesha Pathirana",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mohd Arshad Khan"
+          },
+          "status": "b Noor Ahmad",
+          "runs": 20,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "status": "c Ms Dhoni b Anshul Kamboj",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "status": "not out",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Ravindra Jadeja"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Khaleel Ahmed"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Anshul Kamboj"
+          },
+          "overs": "2.3",
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 3,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Shivam Dube"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Noor Ahmad"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 3,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Matheesha Pathirana"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Deepak Hooda"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
