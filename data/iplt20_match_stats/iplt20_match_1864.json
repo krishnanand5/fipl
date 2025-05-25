@@ -1,0 +1,296 @@
+{
+  "matchTitle": "Punjab Kings vs Delhi Capitals",
+  "manOfTheMatch": "Sameer Rizvi",
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Tristan Stubbs b Mustafizur Rahman",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "b Vipraj Nigam",
+          "runs": 28,
+          "balls": 18,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "st Tristan Stubbs b Vipraj Nigam",
+          "runs": 32,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "c Mohit Sharma b Kuldeep Yadav",
+          "runs": 53,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "c Faf Du Plessis b Mukesh Kumar",
+          "runs": 16,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "c Tristan Stubbs b Mustafizur Rahman",
+          "runs": 11,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "not out",
+          "runs": 44,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "status": "c Sameer Rizvi b Kuldeep Yadav",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "status": "c Tristan Stubbs b Mustafizur Rahman",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "status": "not out",
+          "runs": 7,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mukesh Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 49,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mustafizur Rahman"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 3,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Mohit Sharma"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 47,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Vipraj Nigam"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Kuldeep Yadav"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 2,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Delhi Capitals 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "K L Rahul"
+          },
+          "status": "c Shashank Singh b Marco Jansen",
+          "runs": 35,
+          "balls": 21,
+          "fours": 6,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Faf Du Plessis"
+          },
+          "status": "c Priyansh Arya b Harpreet Brar",
+          "runs": 23,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Karun Nair"
+          },
+          "status": "b Harpreet Brar",
+          "runs": 44,
+          "balls": 27,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Sediqullah Atal"
+          },
+          "status": "c Arshdeep Singh b Pravin Dubey",
+          "runs": 22,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Sameer Rizvi"
+          },
+          "status": "not out",
+          "runs": 58,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Tristan Stubbs"
+          },
+          "status": "not out",
+          "runs": 18,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 2,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Pravin Dubey"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "1.3",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
