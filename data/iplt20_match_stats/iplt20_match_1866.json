@@ -1,0 +1,316 @@
+{
+  "matchTitle": "Sunrisers Hyderabad vs Kolkata Knight Riders",
+  "manOfTheMatch": "Heinrich Klaasen",
+  "innings": [
+    {
+      "teamName": "Sunrisers Hyderabad 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "status": "c Rinku Singh b Sunil Narine",
+          "runs": 32,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Travis Head"
+          },
+          "status": "c Andre Russell b Sunil Narine",
+          "runs": 76,
+          "balls": 40,
+          "fours": 6,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Heinrich Klaasen"
+          },
+          "status": "not out",
+          "runs": 105,
+          "balls": 39,
+          "fours": 7,
+          "sixes": 9
+        },
+        {
+          "player": {
+            "name": "Ishan Kishan"
+          },
+          "status": "c Anrich Nortje b Vaibhav Arora",
+          "runs": 29,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Aniket Verma"
+          },
+          "status": "not out",
+          "runs": 12,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Anrich Nortje"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 60,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 2,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Varun Chakaravarthy"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 54,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Kolkata Knight Riders 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Quinton De Kock"
+          },
+          "status": "c Abhinav Manohar b Eshan Malinga",
+          "runs": 9,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Sunil Narine"
+          },
+          "status": "b Jaydev Unadkat",
+          "runs": 31,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Ajinkya Rahane"
+          },
+          "status": "c Abhishek Sharma b Jaydev Unadkat",
+          "runs": 15,
+          "balls": 8,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Angkrish Raghuvanshi"
+          },
+          "status": "c Nitish Kumar Reddy b Eshan Malinga",
+          "runs": 14,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rinku Singh"
+          },
+          "status": "c Nitish Kumar Reddy b Harsh Dubey",
+          "runs": 9,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Andre Russell"
+          },
+          "status": "lbw Harsh Dubey",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Manish Pandey"
+          },
+          "status": "c Abhinav Manohar b Jaydev Unadkat",
+          "runs": 37,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Ramandeep Singh"
+          },
+          "status": "b Harsh Dubey",
+          "runs": 13,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Harshit Rana"
+          },
+          "status": "c & b Eshan Malinga",
+          "runs": 34,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Vaibhav Arora"
+          },
+          "status": "run out (Jaydev Unadkat)",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Anrich Nortje"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Pat Cummins"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Jaydev Unadkat"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 3,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Harshal Patel"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Eshan Malinga"
+          },
+          "overs": "3.4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 3,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Harsh Dubey"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 3,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Nitish Kumar Reddy"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Abhishek Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
