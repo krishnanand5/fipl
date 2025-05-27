@@ -1,0 +1,276 @@
+{
+  "matchTitle": "Punjab Kings vs Mumbai Indians",
+  "manOfTheMatch": "Josh Inglis",
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Ryan Rickelton"
+          },
+          "status": "c Shreyas Iyer b Marco Jansen",
+          "runs": 27,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Nehal Wadhera b Harpreet Brar",
+          "runs": 24,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "lbw Arshdeep Singh",
+          "runs": 57,
+          "balls": 39,
+          "fours": 6,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "c Arshdeep Singh b Vyshak Vijaykumar",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "status": "c Marco Jansen b Vyshak Vijaykumar",
+          "runs": 17,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "c Josh Inglis b Marco Jansen",
+          "runs": 26,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "c Priyansh Arya b Arshdeep Singh",
+          "runs": 20,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Kyle Jamieson"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 0,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Marco Jansen"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Vyshak Vijaykumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 2,
+          "dots": 10
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Surya Kumar Yadav b Mitchell Santner",
+          "runs": 62,
+          "balls": 35,
+          "fours": 9,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Ashwani Kumar b Jasprit Bumrah",
+          "runs": 13,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "lbw Mitchell Santner",
+          "runs": 73,
+          "balls": 42,
+          "fours": 9,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "not out",
+          "runs": 26,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "3.3",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Deepak Chahar"
+          },
+          "overs": "3",
+          "maidens": 1,
+          "runs": 28,
+          "wickets": 0,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "dots": 15
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Ashwani Kumar"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "dots": 0
+        },
+        {
+          "player": {
+            "name": "Will Jacks"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
