@@ -1,0 +1,256 @@
+{
+  "matchTitle": "Lucknow Super Giants vs Royal Challengers Bengaluru",
+  "manOfTheMatch": "Jitesh Sharma",
+  "innings": [
+    {
+      "teamName": "Lucknow Super Giants 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Mitchell Marsh"
+          },
+          "status": "c Jitesh Sharma b Bhuvneshwar Kumar",
+          "runs": 67,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 5
+        },
+        {
+          "player": {
+            "name": "Matthew Breetzke"
+          },
+          "status": "b Nuwan Thushara",
+          "runs": 14,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rishabh Pant (c)"
+          },
+          "status": "not out",
+          "runs": 118,
+          "balls": 61,
+          "fours": 11,
+          "sixes": 8
+        },
+        {
+          "player": {
+            "name": "Nicholas Pooran"
+          },
+          "status": "c Yash Dayal b Romario Shepherd",
+          "runs": 13,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Abdul Samad"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Nuwan Thushara"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 51,
+          "wickets": 1,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Digvesh Singh b Akash Singh",
+          "runs": 30,
+          "balls": 19,
+          "fours": 6,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Ayush Badoni b Avesh Khan",
+          "runs": 54,
+          "balls": 30,
+          "fours": 10,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "c Abdul Samad b William O Rourke",
+          "runs": 14,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "status": "lbw William O Rourke",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mayank Agarwal"
+          },
+          "status": "not out",
+          "runs": 41,
+          "balls": 23,
+          "fours": 5,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma (c)"
+          },
+          "status": "not out",
+          "runs": 85,
+          "balls": 33,
+          "fours": 8,
+          "sixes": 6
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Akash Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "William O Rourke"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 74,
+          "wickets": 2,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Digvesh Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Shahbaz Ahmed"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Avesh Khan"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Ayush Badoni"
+          },
+          "overs": "0.4",
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
