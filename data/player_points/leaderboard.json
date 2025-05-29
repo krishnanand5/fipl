@@ -38,8 +38,8 @@
   {
     "player_name": "Virat Kohli",
     "franchise": "TVK",
-    "matches_played": 13,
-    "total_points": 1246
+    "matches_played": 14,
+    "total_points": 1262
   },
   {
     "player_name": "Sunil Narine",
@@ -56,8 +56,8 @@
   {
     "player_name": "Shreyas Iyer",
     "franchise": "SKKK",
-    "matches_played": 14,
-    "total_points": 1158
+    "matches_played": 15,
+    "total_points": 1174
   },
   {
     "player_name": "Abhishek Sharma",
@@ -78,6 +78,12 @@
     "total_points": 1138
   },
   {
+    "player_name": "Prabhsimran Singh",
+    "franchise": "UUCC",
+    "matches_played": 15,
+    "total_points": 1137
+  },
+  {
     "player_name": "Heinrich Klaasen",
     "franchise": "VCO",
     "matches_played": 13,
@@ -88,12 +94,6 @@
     "franchise": "UUCC",
     "matches_played": 14,
     "total_points": 1114
-  },
-  {
-    "player_name": "Prabhsimran Singh",
-    "franchise": "UUCC",
-    "matches_played": 14,
-    "total_points": 1104
   },
   {
     "player_name": "Riyan Parag",
@@ -122,14 +122,20 @@
   {
     "player_name": "Priyansh Arya",
     "franchise": "SKKK",
-    "matches_played": 14,
-    "total_points": 990
+    "matches_played": 15,
+    "total_points": 1001
   },
   {
     "player_name": "Pat Cummins",
     "franchise": "UUCC",
     "matches_played": 14,
     "total_points": 983
+  },
+  {
+    "player_name": "Phil Salt",
+    "franchise": "CNI",
+    "matches_played": 12,
+    "total_points": 974
   },
   {
     "player_name": "Hardik Pandya",
@@ -140,8 +146,14 @@
   {
     "player_name": "Krunal Pandya",
     "franchise": "VCO",
-    "matches_played": 13,
-    "total_points": 914
+    "matches_played": 14,
+    "total_points": 933
+  },
+  {
+    "player_name": "Josh Hazlewood",
+    "franchise": "PPT",
+    "matches_played": 11,
+    "total_points": 925
   },
   {
     "player_name": "Marco Jansen",
@@ -162,22 +174,16 @@
     "total_points": 876
   },
   {
+    "player_name": "Arshdeep Singh",
+    "franchise": "TVK",
+    "matches_played": 14,
+    "total_points": 858
+  },
+  {
     "player_name": "Ishan Kishan",
     "franchise": "PPT",
     "matches_played": 14,
     "total_points": 855
-  },
-  {
-    "player_name": "Arshdeep Singh",
-    "franchise": "TVK",
-    "matches_played": 13,
-    "total_points": 851
-  },
-  {
-    "player_name": "Phil Salt",
-    "franchise": "CNI",
-    "matches_played": 11,
-    "total_points": 848
   },
   {
     "player_name": "Mohammed Siraj",
@@ -204,12 +210,6 @@
     "total_points": 815
   },
   {
-    "player_name": "Josh Hazlewood",
-    "franchise": "PPT",
-    "matches_played": 10,
-    "total_points": 798
-  },
-  {
     "player_name": "Vipraj Nigam",
     "franchise": "Unknown",
     "matches_played": 14,
@@ -232,6 +232,12 @@
     "franchise": "UUCC",
     "matches_played": 13,
     "total_points": 782
+  },
+  {
+    "player_name": "Jitesh Sharma",
+    "franchise": "PPT",
+    "matches_played": 14,
+    "total_points": 780
   },
   {
     "player_name": "Harshit Rana",
@@ -258,12 +264,6 @@
     "total_points": 742
   },
   {
-    "player_name": "Jitesh Sharma",
-    "franchise": "PPT",
-    "matches_played": 13,
-    "total_points": 735
-  },
-  {
     "player_name": "Harshal Patel",
     "franchise": "CNI",
     "matches_played": 13,
@@ -280,6 +280,12 @@
     "franchise": "Unknown",
     "matches_played": 13,
     "total_points": 712
+  },
+  {
+    "player_name": "Bhuvneshwar Kumar",
+    "franchise": "SKKK",
+    "matches_played": 13,
+    "total_points": 710
   },
   {
     "player_name": "Sai Kishore",
@@ -318,16 +324,16 @@
     "total_points": 659
   },
   {
-    "player_name": "Bhuvneshwar Kumar",
-    "franchise": "SKKK",
-    "matches_played": 12,
-    "total_points": 658
-  },
-  {
     "player_name": "Andre Russell",
     "franchise": "TKTK",
     "matches_played": 12,
     "total_points": 656
+  },
+  {
+    "player_name": "Nehal Wadhera",
+    "franchise": "UUCC",
+    "matches_played": 13,
+    "total_points": 655
   },
   {
     "player_name": "Mitchell Santner",
@@ -336,16 +342,10 @@
     "total_points": 654
   },
   {
-    "player_name": "Nehal Wadhera",
-    "franchise": "UUCC",
-    "matches_played": 12,
-    "total_points": 647
-  },
-  {
     "player_name": "Shashank Singh",
     "franchise": "TKTK",
-    "matches_played": 11,
-    "total_points": 629
+    "matches_played": 12,
+    "total_points": 630
   },
   {
     "player_name": "Shimron Hetmyer",
@@ -384,6 +384,12 @@
     "total_points": 599
   },
   {
+    "player_name": "Rajat Patidar",
+    "franchise": "UUCC",
+    "matches_played": 13,
+    "total_points": 595
+  },
+  {
     "player_name": "Avesh Khan",
     "franchise": "PPT",
     "matches_played": 13,
@@ -406,12 +412,6 @@
     "franchise": "Unknown",
     "matches_played": 6,
     "total_points": 577
-  },
-  {
-    "player_name": "Rajat Patidar",
-    "franchise": "UUCC",
-    "matches_played": 12,
-    "total_points": 568
   },
   {
     "player_name": "Ayush Mhatre",
@@ -468,6 +468,12 @@
     "total_points": 549
   },
   {
+    "player_name": "Josh Inglis",
+    "franchise": "CNI",
+    "matches_played": 9,
+    "total_points": 535
+  },
+  {
     "player_name": "Jaydev Unadkat",
     "franchise": "Unknown",
     "matches_played": 7,
@@ -498,10 +504,16 @@
     "total_points": 519
   },
   {
-    "player_name": "Josh Inglis",
-    "franchise": "CNI",
-    "matches_played": 8,
-    "total_points": 519
+    "player_name": "Suyash Sharma",
+    "franchise": "TVK",
+    "matches_played": 13,
+    "total_points": 516
+  },
+  {
+    "player_name": "Yash Dayal",
+    "franchise": "UUCC",
+    "matches_played": 14,
+    "total_points": 506
   },
   {
     "player_name": "Nitish Rana",
@@ -564,16 +576,10 @@
     "total_points": 426
   },
   {
-    "player_name": "Yash Dayal",
-    "franchise": "UUCC",
-    "matches_played": 13,
-    "total_points": 423
-  },
-  {
     "player_name": "Harpreet Brar",
     "franchise": "VCO",
-    "matches_played": 6,
-    "total_points": 421
+    "matches_played": 7,
+    "total_points": 426
   },
   {
     "player_name": "Faf Du Plessis",
@@ -612,10 +618,10 @@
     "total_points": 375
   },
   {
-    "player_name": "Suyash Sharma",
-    "franchise": "TVK",
-    "matches_played": 12,
-    "total_points": 361
+    "player_name": "Romario Shepherd",
+    "franchise": "TKTK",
+    "matches_played": 6,
+    "total_points": 370
   },
   {
     "player_name": "Zeeshan Ansari",
@@ -636,16 +642,16 @@
     "total_points": 338
   },
   {
-    "player_name": "Romario Shepherd",
-    "franchise": "TKTK",
-    "matches_played": 5,
-    "total_points": 334
-  },
-  {
     "player_name": "Mohd Arshad Khan",
     "franchise": "Unknown",
     "matches_played": 9,
     "total_points": 330
+  },
+  {
+    "player_name": "Marcus Stoinis",
+    "franchise": "SKKK",
+    "matches_played": 10,
+    "total_points": 326
   },
   {
     "player_name": "Venkatesh Iyer",
@@ -684,6 +690,12 @@
     "total_points": 291
   },
   {
+    "player_name": "Azmatullah Omarzai",
+    "franchise": "CNI",
+    "matches_played": 6,
+    "total_points": 282
+  },
+  {
     "player_name": "Ruturaj Gaikwad",
     "franchise": "CNI",
     "matches_played": 5,
@@ -699,12 +711,6 @@
     "player_name": "Liam Livingstone",
     "franchise": "TKTK",
     "matches_played": 8,
-    "total_points": 271
-  },
-  {
-    "player_name": "Marcus Stoinis",
-    "franchise": "SKKK",
-    "matches_played": 9,
     "total_points": 271
   },
   {
@@ -724,12 +730,6 @@
     "franchise": "CNI",
     "matches_played": 5,
     "total_points": 254
-  },
-  {
-    "player_name": "Azmatullah Omarzai",
-    "franchise": "CNI",
-    "matches_played": 5,
-    "total_points": 248
   },
   {
     "player_name": "Ashwani Kumar",
@@ -888,6 +888,12 @@
     "total_points": 130
   },
   {
+    "player_name": "Mayank Agarwal",
+    "franchise": "UUCC",
+    "matches_played": 3,
+    "total_points": 125
+  },
+  {
     "player_name": "Shaik Rasheed",
     "franchise": "Unknown",
     "matches_played": 5,
@@ -921,12 +927,6 @@
     "player_name": "Kagiso Rabada",
     "franchise": "UUCC",
     "matches_played": 4,
-    "total_points": 93
-  },
-  {
-    "player_name": "Mayank Agarwal",
-    "franchise": "UUCC",
-    "matches_played": 2,
     "total_points": 93
   },
   {
@@ -964,6 +964,12 @@
     "franchise": "VCO",
     "matches_played": 3,
     "total_points": 69
+  },
+  {
+    "player_name": "Kyle Jamieson",
+    "franchise": "Unknown",
+    "matches_played": 2,
+    "total_points": 64
   },
   {
     "player_name": "Adam Zampa",
@@ -1164,12 +1170,6 @@
     "total_points": 15
   },
   {
-    "player_name": "Kyle Jamieson",
-    "franchise": "Unknown",
-    "matches_played": 1,
-    "total_points": 14
-  },
-  {
     "player_name": "Manoj Bhandage",
     "franchise": "Unknown",
     "matches_played": 2,
@@ -1177,6 +1177,12 @@
   },
   {
     "player_name": "(sub",
+    "franchise": "Unknown",
+    "matches_played": 1,
+    "total_points": 10
+  },
+  {
+    "player_name": "Musheer Khan",
     "franchise": "Unknown",
     "matches_played": 1,
     "total_points": 10

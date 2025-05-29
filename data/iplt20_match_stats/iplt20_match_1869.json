@@ -1,0 +1,286 @@
+{
+  "matchTitle": "Punjab Kings vs Royal Challengers Bengaluru",
+  "manOfTheMatch": "Suyash Sharma",
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Krunal Pandya b Yash Dayal",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Jitesh Sharma b Bhuvneshwar Kumar",
+          "runs": 18,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "c Bhuvneshwar Kumar b Josh Hazlewood",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "b Yash Dayal",
+          "runs": 8,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "b Suyash Sharma",
+          "runs": 26,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "b Suyash Sharma",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Musheer Khan"
+          },
+          "status": "lbw Suyash Sharma",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "status": "c Jitesh Sharma b Josh Hazlewood",
+          "runs": 18,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "status": "b Romario Shepherd",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kyle Jamieson"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 2,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "3.1",
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 3,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 3,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Royal Challengers Bengaluru 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "not out",
+          "runs": 56,
+          "balls": 27,
+          "fours": 6,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c Josh Inglis b Kyle Jamieson",
+          "runs": 12,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mayank Agarwal"
+          },
+          "status": "c Shreyas Iyer b Musheer Khan",
+          "runs": 19,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "not out",
+          "runs": 15,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Kyle Jamieson"
+          },
+          "overs": "3",
+          "maidens": 1,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Harpreet Brar"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Musheer Khan"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 1
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
