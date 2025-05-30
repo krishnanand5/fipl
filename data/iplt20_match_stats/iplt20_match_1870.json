@@ -1,0 +1,306 @@
+{
+  "matchTitle": "Gujarat Titans vs Mumbai Indians",
+  "manOfTheMatch": "Rohit Sharma",
+  "innings": [
+    {
+      "teamName": "Gujarat Titans 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Rashid Khan b Prasidh Krishna",
+          "runs": 81,
+          "balls": 50,
+          "fours": 9,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Jonny Bairstow"
+          },
+          "status": "c Gerald Coetzee b Sai Kishore",
+          "runs": 47,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Washington Sundar b Sai Kishore",
+          "runs": 33,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "c Kusal Mendis b Mohammed Siraj",
+          "runs": 25,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "not out",
+          "runs": 22,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "c Rashid Khan b Prasidh Krishna",
+          "runs": 9,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Mohammed Siraj"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Prasidh Krishna"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 53,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Sai Kishore"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Gerald Coetzee"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 51,
+          "wickets": 0,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 0,
+          "dots": 2
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Sai Sudharsan"
+          },
+          "status": "b Richard Gleeson",
+          "runs": 80,
+          "balls": 49,
+          "fours": 10,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shubman Gill"
+          },
+          "status": "lbw Trent Boult",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kusal Mendis"
+          },
+          "status": "Hit Wicket b Mitchell Santner",
+          "runs": 20,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Washington Sundar"
+          },
+          "status": "b Jasprit Bumrah",
+          "runs": 48,
+          "balls": 24,
+          "fours": 5,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Sherfane Rutherford"
+          },
+          "status": "c N Tilak Varma b Trent Boult",
+          "runs": 24,
+          "balls": 15,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Rahul Tewatia"
+          },
+          "status": "not out",
+          "runs": 16,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shahrukh Khan"
+          },
+          "status": "c Surya Kumar Yadav b Ashwani Kumar",
+          "runs": 13,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rashid Khan"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 56,
+          "wickets": 2,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "dots": 11
+        },
+        {
+          "player": {
+            "name": "Richard Gleeson"
+          },
+          "overs": "3.3",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "dots": 2
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Ashwani Kumar"
+          },
+          "overs": "3.3",
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "dots": 6
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
