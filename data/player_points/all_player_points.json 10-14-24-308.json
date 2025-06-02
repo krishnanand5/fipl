@@ -1,0 +1,212 @@
+[
+  {
+    "player_name": "Varun Chakaravarthy",
+    "franchise": "SKKK",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 0,
+        "bowling_points": 77,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 77
+      }
+    ],
+    "total_points": 77
+  },
+  {
+    "player_name": "Moeen Ali",
+    "franchise": "Unknown",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 0,
+        "bowling_points": 75,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 75
+      }
+    ],
+    "total_points": 75
+  },
+  {
+    "player_name": "Yashasvi Jaiswal",
+    "franchise": "SKKK",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 54,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 54
+      }
+    ],
+    "total_points": 54
+  },
+  {
+    "player_name": "Riyan Parag",
+    "franchise": "PPT",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 54,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 54
+      }
+    ],
+    "total_points": 54
+  },
+  {
+    "player_name": "Vaibhav Arora",
+    "franchise": "VCO",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 0,
+        "bowling_points": 42,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 42
+      }
+    ],
+    "total_points": 42
+  },
+  {
+    "player_name": "Harshit Rana",
+    "franchise": "TVK",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 0,
+        "bowling_points": 9,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 24
+      }
+    ],
+    "total_points": 24
+  },
+  {
+    "player_name": "Sanju Samson",
+    "franchise": "VCO",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 19,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 19
+      }
+    ],
+    "total_points": 19
+  },
+  {
+    "player_name": "Quinton De Kock",
+    "franchise": "SKKK",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 0,
+        "bowling_points": 0,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 15
+      }
+    ],
+    "total_points": 15
+  },
+  {
+    "player_name": "Ajinkya Rahane",
+    "franchise": "TVK",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 0,
+        "bowling_points": 0,
+        "fielding_points": 15,
+        "mom": 0,
+        "total": 15
+      }
+    ],
+    "total_points": 15
+  },
+  {
+    "player_name": "Spencer Johnson",
+    "franchise": "TKTK",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 0,
+        "bowling_points": 8,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 8
+      }
+    ],
+    "total_points": 8
+  },
+  {
+    "player_name": "Nitish Rana",
+    "franchise": "CNI",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 7,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 7
+      }
+    ],
+    "total_points": 7
+  },
+  {
+    "player_name": "Wanindu Hasaranga",
+    "franchise": "PPT",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 4,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 4
+      }
+    ],
+    "total_points": 4
+  },
+  {
+    "player_name": "Dhruv Jurel",
+    "franchise": "TKTK",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": 1,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": 1
+      }
+    ],
+    "total_points": 1
+  },
+  {
+    "player_name": "Shubham Dubey",
+    "franchise": "UUCC",
+    "matches": [
+      {
+        "match_id": "1804",
+        "batting_points": -1,
+        "bowling_points": 0,
+        "fielding_points": 0,
+        "mom": 0,
+        "total": -1
+      }
+    ],
+    "total_points": -1
+  }
+]
