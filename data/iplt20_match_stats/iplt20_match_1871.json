@@ -1,0 +1,296 @@
+{
+  "matchTitle": "Punjab Kings vs Mumbai Indians",
+  "manOfTheMatch": "Shreyas Iyer",
+  "innings": [
+    {
+      "teamName": "Punjab Kings 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Rohit Sharma"
+          },
+          "status": "c Vyshak Vijaykumar b Marcus Stoinis",
+          "runs": 8,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Jonny Bairstow"
+          },
+          "status": "c Josh Inglis b Vyshak Vijaykumar",
+          "runs": 38,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "N Tilak Varma"
+          },
+          "status": "c Priyansh Arya b Kyle Jamieson",
+          "runs": 44,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Surya Kumar Yadav"
+          },
+          "status": "c Nehal Wadhera b Yuzvendra Chahal",
+          "runs": 44,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 3
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "status": "c Josh Inglis b Azmatullah Omarzai",
+          "runs": 15,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Naman Dhir"
+          },
+          "status": "c Marcus Stoinis b Azmatullah Omarzai",
+          "runs": 37,
+          "balls": 18,
+          "fours": 7,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Raj Angad Bawa"
+          },
+          "status": "not out",
+          "runs": 8,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 44,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Kyle Jamieson"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "overs": "1",
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 2,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Vyshak Vijaykumar"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 1,
+          "dots": 7
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Mumbai Indians 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Hardik Pandya b Ashwani Kumar",
+          "runs": 20,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Reece Topley b Trent Boult",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "c Jonny Bairstow b Hardik Pandya",
+          "runs": 38,
+          "balls": 21,
+          "fours": 5,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "not out",
+          "runs": 87,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 8
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "c Mitchell Santner b Ashwani Kumar",
+          "runs": 48,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "run out (Hardik Pandya)",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Trent Boult"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 1,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Reece Topley"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Jasprit Bumrah"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 0,
+          "dots": 6
+        },
+        {
+          "player": {
+            "name": "Ashwani Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 55,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Mitchell Santner"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "dots": 1
+        },
+        {
+          "player": {
+            "name": "Hardik Pandya"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "dots": 4
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
