@@ -1,0 +1,316 @@
+/* Variables */
+:root {
+  --wood-primary: rgba(69, 35, 10, 0.95);
+  --wood-secondary: rgba(51, 34, 17, 0.95);
+  --wood-border: #4A2C0A;
+  --wood-accent: #6B3E1A;
+  --gold: #FFD700;
+  --text-light: #ffffff;
+  --shadow-dark: rgba(0, 0, 0, 0.5);
+  --shadow-light: rgba(255, 255, 255, 0.1);
+}
+
+/* Container */
+.splashContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  z-index: 1000;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+/* Center Text */
+.text {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: bold;
+  color: var(--text-light);
+  text-align: center;
+  text-shadow: 2px 2px 4px var(--shadow-dark);
+  background: rgba(0, 0, 0, 0.3);
+  padding: clamp(0.5rem, 2vw, 1rem) clamp(1rem, 3vw, 2rem);
+  border-radius: 10px;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  z-index: 3;
+  pointer-events: none;
+  width: 90%;
+  max-width: 800px;
+}
+
+/* Touch to Begin Animation */
+.text:first-child {
+  animation: pulse 2s ease-in-out infinite;
+  background: rgba(0, 0, 0, 0.5);
+  border: 2px solid var(--gold);
+  box-shadow: 
+    0 0 20px rgba(255, 215, 0, 0.3),
+    0 0 40px rgba(255, 215, 0, 0.2);
+}
+
+/* Hall of Fame Board */
+.hallOfFame {
+  width: 95%;
+  max-width: 800px;
+  background: 
+    linear-gradient(135deg, var(--wood-primary) 0%, var(--wood-secondary) 100%),
+    repeating-linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.15) 0px,
+      rgba(0, 0, 0, 0.15) 2px,
+      transparent 2px,
+      transparent 4px
+    );
+  border: clamp(4px, 1vw, 8px) solid var(--wood-border);
+  border-radius: 15px;
+  padding: clamp(1rem, 2vw, 1.5rem);
+  box-shadow: 
+    0 0 30px var(--shadow-dark),
+    0 0 60px var(--shadow-dark),
+    inset 0 0 20px var(--shadow-dark);
+  z-index: 2;
+  position: relative;
+  margin-top: 1rem;
+}
+
+.hallOfFame::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  background: linear-gradient(45deg, var(--wood-accent), var(--wood-border), var(--wood-accent));
+  border-radius: 18px;
+  z-index: -1;
+  opacity: 0.8;
+}
+
+.hallOfFame::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, 
+    var(--shadow-light) 0%, 
+    transparent 20%, 
+    transparent 80%, 
+    var(--shadow-light) 100%
+  );
+  border-radius: 7px;
+  pointer-events: none;
+}
+
+/* Hall of Fame Title */
+.hallOfFameTitle {
+  color: var(--gold);
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
+  text-align: center;
+  margin-bottom: clamp(1rem, 2vw, 1.5rem);
+  text-shadow: 
+    2px 2px 4px var(--shadow-dark),
+    0 0 10px rgba(255, 215, 0, 0.3);
+  font-family: 'Cinzel', serif;
+  letter-spacing: 2px;
+  position: relative;
+  padding-bottom: clamp(0.5rem, 1.5vw, 1rem);
+  background: linear-gradient(90deg, 
+    transparent 0%, 
+    rgba(255, 215, 0, 0.1) 20%, 
+    rgba(255, 215, 0, 0.1) 80%, 
+    transparent 100%
+  );
+  border-radius: 5px;
+}
+
+.hallOfFameTitle::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 2px;
+  background: linear-gradient(90deg, 
+    transparent 0%, 
+    var(--gold) 20%, 
+    var(--gold) 80%, 
+    transparent 100%
+  );
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+/* Winners List */
+.winnersList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: clamp(0.5rem, 1.5vw, 1rem);
+  padding: 0.5rem;
+  position: relative;
+}
+
+/* Winner Entry */
+.winnerEntry {
+  background: linear-gradient(135deg, 
+    rgba(69, 35, 10, 0.3) 0%, 
+    rgba(51, 34, 17, 0.3) 100%
+  );
+  border: 1px solid rgba(106, 52, 15, 0.5);
+  border-radius: 8px;
+  padding: clamp(0.5rem, 1.5vw, 0.75rem);
+  text-align: center;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: slideIn 0.5s ease-out forwards;
+  box-shadow: 
+    0 4px 6px var(--shadow-dark),
+    0 1px 3px var(--shadow-dark),
+    inset 0 1px 0 var(--shadow-light);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.winnerEntry::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg,
+    transparent 0%,
+    var(--shadow-light) 50%,
+    transparent 100%
+  );
+  pointer-events: none;
+}
+
+.winnerEntry:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    0 6px 8px var(--shadow-dark),
+    0 2px 4px var(--shadow-dark),
+    inset 0 1px 0 var(--shadow-light);
+  border-color: rgba(106, 52, 15, 0.8);
+}
+
+.winnerYear {
+  color: var(--gold);
+  font-size: clamp(0.8rem, 2vw, 1rem);
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  text-shadow: 1px 1px 2px var(--shadow-dark);
+}
+
+.winnerTeam {
+  color: var(--text-light);
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
+  font-weight: bold;
+  text-shadow: 1px 1px 2px var(--shadow-dark);
+}
+
+/* Canvas */
+.canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Animations */
+@keyframes pulse {
+  0% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(1.05);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.9);
+  }
+  20% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  80% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.9);
+  }
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .splashContainer {
+    padding: 0.5rem;
+  }
+
+  .hallOfFame {
+    width: 100%;
+    margin-top: 0.5rem;
+  }
+
+  .winnersList {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .splashContainer {
+    padding: 0.25rem;
+  }
+
+  .hallOfFame {
+    padding: 0.75rem;
+  }
+
+  .winnersList {
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 0.5rem;
+  }
+
+  .winnerEntry {
+    padding: 0.5rem;
+  }
+} 

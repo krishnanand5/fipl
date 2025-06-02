@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Container, CssBaseline, ThemeProvider, Box, Card, Grid, Fade, Grow, Slide } from '@mui/material';
 import { BrowserRouter } from 'react-router-dom';
 import { Leaderboard } from './components/Leaderboard';
@@ -7,7 +7,7 @@ import { SingleMatchHeroes } from './components/SingleMatchHeroes';
 import { SkillsLeaderboard } from './components/SkillsLeaderboard';
 import { RecentStats } from './components/RecentStats';
 import { BonusBuckets } from './components/BonusBuckets';
-import { SplashScreen } from './components/SplashScreen';
+import SplashScreen from './components/SplashScreen';
 import { theme } from './theme';
 import { useAppData } from './hooks/useAppData';
 import { FranchiseBonus } from './types';
@@ -21,14 +21,6 @@ function App() {
   const { leaderboardData, allPlayerPoints, bonusStats, error } = useAppData();
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedPlayer, setSelectedPlayer] = useState<PlayerPoints | null>(null);
-
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setShowSplash(false);
-    }, 2500);
-
-    return () => clearTimeout(timer);
-  }, []);
 
   const handleCloseModal = () => {
     setIsModalOpen(false);
@@ -48,7 +40,7 @@ function App() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         {showSplash ? (
-          <SplashScreen />
+          <SplashScreen onComplete={() => setShowSplash(false)} />
         ) : (
           <Fade in timeout={1000}>
             <Container maxWidth="xl" sx={{ mt: 4 }}>
