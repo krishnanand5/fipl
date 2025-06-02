@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fipl/static/css/main.0fa7d1cf.css",
-    "main.js": "/fipl/static/js/main.9bb608bd.js",
+    "main.css": "/fipl/static/css/main.b0e24d6a.css",
+    "main.js": "/fipl/static/js/main.556ed7ad.js",
     "static/js/453.dd4f4f9a.chunk.js": "/fipl/static/js/453.dd4f4f9a.chunk.js",
     "index.html": "/fipl/index.html",
-    "main.0fa7d1cf.css.map": "/fipl/static/css/main.0fa7d1cf.css.map",
-    "main.9bb608bd.js.map": "/fipl/static/js/main.9bb608bd.js.map",
+    "main.b0e24d6a.css.map": "/fipl/static/css/main.b0e24d6a.css.map",
+    "main.556ed7ad.js.map": "/fipl/static/js/main.556ed7ad.js.map",
     "453.dd4f4f9a.chunk.js.map": "/fipl/static/js/453.dd4f4f9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fa7d1cf.css",
-    "static/js/main.9bb608bd.js"
+    "static/css/main.b0e24d6a.css",
+    "static/js/main.556ed7ad.js"
   ]
 }
