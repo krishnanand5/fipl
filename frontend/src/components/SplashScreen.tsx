@@ -208,7 +208,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
   const renderContent = () => {
     if (!hasInteracted) {
       return (
-        <h1 className={styles.text}>
+        <h1 className={styles.text} key="touch-to-begin">
           TOUCH TO BEGIN
         </h1>
       );
@@ -216,7 +216,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
 
     if (showCongratulations) {
       return (
-        <h1 className={styles.text}>
+        <h1 className={styles.text} key="congratulations">
           CONGRATULATIONS PPT!
         </h1>
       );
@@ -224,7 +224,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
 
     if (show2025) {
       return (
-        <h1 className={styles.text}>
+        <h1 className={styles.text} key="2025">
           2025 - PPT
         </h1>
       );
@@ -233,7 +233,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
     if (currentIndex >= 0) {
       const winner = historicalWinners[currentIndex];
       return (
-        <h1 className={styles.text}>
+        <h1 className={styles.text} key={`winner-${winner.year}`}>
           {winner.year} - {winner.team}
         </h1>
       );

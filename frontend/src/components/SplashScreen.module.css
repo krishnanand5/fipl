@@ -38,25 +38,76 @@
   color: var(--text-light);
   text-align: center;
   text-shadow: 2px 2px 4px var(--shadow-dark);
-  background: rgba(0, 0, 0, 0.3);
+  background: 
+    linear-gradient(135deg, var(--wood-primary) 0%, var(--wood-secondary) 100%),
+    repeating-linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.15) 0px,
+      rgba(0, 0, 0, 0.15) 2px,
+      transparent 2px,
+      transparent 4px
+    );
   padding: clamp(0.5rem, 2vw, 1rem) clamp(1rem, 3vw, 2rem);
   border-radius: 10px;
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
+  border: clamp(4px, 1vw, 8px) solid var(--wood-border);
+  box-shadow: 
+    0 0 30px var(--shadow-dark),
+    0 0 60px var(--shadow-dark),
+    inset 0 0 20px var(--shadow-dark);
   z-index: 3;
   pointer-events: none;
   width: 90%;
   max-width: 800px;
+  animation: zoomInOut 1.8s ease-in-out;
+}
+
+.text::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  background: linear-gradient(45deg, var(--wood-accent), var(--wood-border), var(--wood-accent));
+  border-radius: 14px;
+  z-index: -1;
+  opacity: 0.8;
+}
+
+.text::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, 
+    var(--shadow-light) 0%, 
+    transparent 20%, 
+    transparent 80%, 
+    var(--shadow-light) 100%
+  );
+  border-radius: 6px;
+  pointer-events: none;
 }
 
 /* Touch to Begin Animation */
 .text:first-child {
   animation: pulse 2s ease-in-out infinite;
-  background: rgba(0, 0, 0, 0.5);
+  background: 
+    linear-gradient(135deg, var(--wood-primary) 0%, var(--wood-secondary) 100%),
+    repeating-linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.15) 0px,
+      rgba(0, 0, 0, 0.15) 2px,
+      transparent 2px,
+      transparent 4px
+    );
   border: 2px solid var(--gold);
   box-shadow: 
     0 0 20px rgba(255, 215, 0, 0.3),
-    0 0 40px rgba(255, 215, 0, 0.2);
+    0 0 40px rgba(255, 215, 0, 0.2),
+    inset 0 0 20px var(--shadow-dark);
 }
 
 /* Hall of Fame Board */
@@ -235,6 +286,29 @@
 }
 
 /* Animations */
+@keyframes zoomInOut {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.5);
+  }
+  20% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1.1);
+  }
+  40% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  80% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.8);
+  }
+}
+
 @keyframes pulse {
   0% {
     transform: translate(-50%, -50%) scale(1);
@@ -258,25 +332,6 @@
   to {
     opacity: 1;
     transform: translateY(0);
-  }
-}
-
-@keyframes fadeInOut {
-  0% {
-    opacity: 0;
-    transform: translate(-50%, -50%) scale(0.9);
-  }
-  20% {
-    opacity: 1;
-    transform: translate(-50%, -50%) scale(1);
-  }
-  80% {
-    opacity: 1;
-    transform: translate(-50%, -50%) scale(1);
-  }
-  100% {
-    opacity: 0;
-    transform: translate(-50%, -50%) scale(0.9);
   }
 }
 
