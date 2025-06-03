@@ -1,0 +1,326 @@
+{
+  "matchTitle": "Royal Challengers Bengaluru vs Punjab Kings",
+  "manOfTheMatch": "Krunal Pandya",
+  "innings": [
+    {
+      "teamName": "Royal Challengers Bengaluru 1st",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Phil Salt"
+          },
+          "status": "c Shreyas Iyer b Kyle Jamieson",
+          "runs": 16,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Virat Kohli"
+          },
+          "status": "c & b Azmatullah Omarzai",
+          "runs": 43,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Mayank Agarwal"
+          },
+          "status": "c Arshdeep Singh b Yuzvendra Chahal",
+          "runs": 24,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Rajat Patidar"
+          },
+          "status": "lbw Kyle Jamieson",
+          "runs": 26,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Liam Livingstone"
+          },
+          "status": "lbw Kyle Jamieson",
+          "runs": 25,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Jitesh Sharma"
+          },
+          "status": "b Vyshak Vijaykumar",
+          "runs": 24,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "status": "lbw Arshdeep Singh",
+          "runs": 17,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "status": "c Shreyas Iyer b Arshdeep Singh",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "status": "c Priyansh Arya b Arshdeep Singh",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Arshdeep Singh"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 40,
+          "wickets": 3,
+          "dots": 8
+        },
+        {
+          "player": {
+            "name": "Kyle Jamieson"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 48,
+          "wickets": 3,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 1,
+          "dots": 3
+        },
+        {
+          "player": {
+            "name": "Vyshak Vijaykumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 5
+        },
+        {
+          "player": {
+            "name": "Yuzvendra Chahal"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "dots": 3
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    },
+    {
+      "teamName": "Punjab Kings 2nd",
+      "battingRecords": [
+        {
+          "player": {
+            "name": "Priyansh Arya"
+          },
+          "status": "c Phil Salt b Josh Hazlewood",
+          "runs": 24,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Prabhsimran Singh"
+          },
+          "status": "c Bhuvneshwar Kumar b Krunal Pandya",
+          "runs": 26,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 2
+        },
+        {
+          "player": {
+            "name": "Josh Inglis"
+          },
+          "status": "c Liam Livingstone b Krunal Pandya",
+          "runs": 39,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 4
+        },
+        {
+          "player": {
+            "name": "Shreyas Iyer"
+          },
+          "status": "c Jitesh Sharma b Romario Shepherd",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Nehal Wadhera"
+          },
+          "status": "c Krunal Pandya b Bhuvneshwar Kumar",
+          "runs": 15,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Shashank Singh"
+          },
+          "status": "not out",
+          "runs": 61,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 6
+        },
+        {
+          "player": {
+            "name": "Marcus Stoinis"
+          },
+          "status": "c Yash Dayal b Bhuvneshwar Kumar",
+          "runs": 6,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1
+        },
+        {
+          "player": {
+            "name": "Azmatullah Omarzai"
+          },
+          "status": "c (Sub) Manoj Bhandage b Yash Dayal",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        },
+        {
+          "player": {
+            "name": "Kyle Jamieson"
+          },
+          "status": "not out",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0
+        }
+      ],
+      "bowlingRecords": [
+        {
+          "player": {
+            "name": "Bhuvneshwar Kumar"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 2,
+          "dots": 9
+        },
+        {
+          "player": {
+            "name": "Yash Dayal"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "dots": 10
+        },
+        {
+          "player": {
+            "name": "Josh Hazlewood"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 54,
+          "wickets": 1,
+          "dots": 7
+        },
+        {
+          "player": {
+            "name": "Krunal Pandya"
+          },
+          "overs": "4",
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "dots": 12
+        },
+        {
+          "player": {
+            "name": "Suyash Sharma"
+          },
+          "overs": "2",
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "dots": 4
+        },
+        {
+          "player": {
+            "name": "Romario Shepherd"
+          },
+          "overs": "3",
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "dots": 5
+        }
+      ],
+      "extras": "",
+      "total": "",
+      "fallOfWickets": ""
+    }
+  ]
+}
